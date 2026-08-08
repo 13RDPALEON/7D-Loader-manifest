@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T22:13:17+02:00",
+  "updated_at": "2026-08-08T22:46:45+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -515,13 +515,13 @@
     {
       "id": "71_P13_RepairVision",
       "name": "RepairVision",
-      "version": "1.3.0.0",
-      "file": "71_P13_RepairVision_v1.3.0.0.rar",
-      "file_id": "1RT5CdJfmxqoRTuqX26RxX4SgF0enNfVF",
+      "version": "1.3.1.0",
+      "file": "71_P13_RepairVision_v1.3.1.0.rar",
+      "file_id": "1FXht8PnJcLGbdsnD4BZrYMJDU-Dg-QPN",
       "install_folder": "71_P13_RepairVision",
       "status": "updating",
       "optional": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/71_P13_RepairVision_v1.3.0.0.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/71_P13_RepairVision_v1.3.1.0.rar"
     },
     {
       "id": "72_P13_QuickPlaceBreak",
@@ -628,9 +628,9 @@
     {
       "id": "P13_GetAllBlocks",
       "name": "Get All Blocks",
-      "version": "0.1.11",
-      "file": "P13_GetAllBlocks_v0.1.11.rar",
-      "file_id": "1bksY-5UayOx2ui2pXq2DQu9TUOgZIDaQ",
+      "version": "0.1.12",
+      "file": "P13_GetAllBlocks_v0.1.12.rar",
+      "file_id": "1eYjdBvWopJMQb2twKUcf77tqWUVWIpY_",
       "install_folder": "P13_GetAllBlocks",
       "status": "updating",
       "optional": true,
@@ -641,7 +641,7 @@
       "legacy_folders": [
         "ClaimRecover"
       ],
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_GetAllBlocks_v0.1.11.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_GetAllBlocks_v0.1.12.rar"
     },
     {
       "id": "P13_PerfectRecycler",
@@ -693,6 +693,64 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.12",
+      "date": "2026-08-08",
+      "title": "Allies + party recover",
+      "bullets": [
+        "Claim allies or same party can cross-recover placed blocks",
+        "Party also exempt from LCB deadzone",
+        "Optional in loader (out of Full Pack); Steam friend ≠ claim ally"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Recup allies + party",
+          "bullets": [
+            "Allies claim ou meme party : recup croisee des blocs poses",
+            "Party aussi exempt de la deadzone LCB",
+            "Optionnel dans le loader (hors Full Pack) ; ami Steam ≠ allie claim"
+          ]
+        },
+        "en": {
+          "title": "Allies + party recover",
+          "bullets": [
+            "Claim allies or same party can cross-recover placed blocks",
+            "Party also exempt from LCB deadzone",
+            "Optional in loader (out of Full Pack); Steam friend ≠ claim ally"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "71_P13_RepairVision",
+      "version": "1.3.1.0",
+      "date": "2026-08-08",
+      "title": "Show any damage + config in rar",
+      "bullets": [
+        "Overlay from any damage (threshold 1.0), including ~99% HP",
+        "Darker green near-full, toward red; RepairVisionConfig.json shipped",
+        "Optional (out of Full Pack)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Overlay des le moindre degat + JSON",
+          "bullets": [
+            "Visible des le moindre degat (seuil 1.0), y compris ~99 % de vie",
+            "Vert sombre pres du plein, puis rouge ; RepairVisionConfig.json inclus",
+            "Optionnel (hors Full Pack)"
+          ]
+        },
+        "en": {
+          "title": "Show any damage + config in rar",
+          "bullets": [
+            "Overlay from any damage (threshold 1.0), including ~99% HP",
+            "Darker green near-full, toward red; RepairVisionConfig.json shipped",
+            "Optional (out of Full Pack)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "71_P13_RepairVision",
       "version": "1.3.0.0",
