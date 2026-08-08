@@ -80,7 +80,6 @@
         "66_P13_DeadlyCrawlers",
         "67_P13_NerfHostileChickens",
         "70_P13_BeyondStorage3",
-        "71_P13_RepairVision",
         "72_P13_QuickPlaceBreak",
         "73_P13_StopFuelWaste",
         "74_P13_LovelyLootBags",
@@ -91,7 +90,6 @@
         "90_P13_Localization",
         "99_P13_PackInfo",
         "P13_Classes",
-        "P13_GetAllBlocks",
         "P13_PerfectRecycler"
       ],
       "status": "stable",
@@ -102,7 +100,9 @@
       "name": "Optional patches",
       "type": "optional_bundle",
       "includes": [
-        "30_P13_AEC_BossExtreme"
+        "30_P13_AEC_BossExtreme",
+        "71_P13_RepairVision",
+        "P13_GetAllBlocks"
       ],
       "status": "stable",
       "note": "Optional mods/patches — not required; not selected by Full Pack"
@@ -519,7 +519,8 @@
       "file": "71_P13_RepairVision_v1.3.0.0.rar",
       "file_id": "1RT5CdJfmxqoRTuqX26RxX4SgF0enNfVF",
       "install_folder": "71_P13_RepairVision",
-      "status": "stable",
+      "status": "updating",
+      "optional": true,
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/71_P13_RepairVision_v1.3.0.0.rar"
     },
     {
@@ -631,7 +632,8 @@
       "file": "P13_GetAllBlocks_v0.1.11.rar",
       "file_id": "1bksY-5UayOx2ui2pXq2DQu9TUOgZIDaQ",
       "install_folder": "P13_GetAllBlocks",
-      "status": "alpha",
+      "status": "updating",
+      "optional": true,
       "featured": true,
       "requires": [
         "00_P13_Harmony"
@@ -691,6 +693,58 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "71_P13_RepairVision",
+      "version": "1.3.0.0",
+      "date": "2026-08-08",
+      "title": "Optional — update in progress",
+      "bullets": [
+        "Moved to Optional (out of Full Pack)",
+        "Status: updating (damage overlay colors/threshold)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Optionnel — mise a jour en cours",
+          "bullets": [
+            "Passe en optionnel (hors Full Pack)",
+            "Statut: en cours de maj (couleurs / seuil overlay degats)"
+          ]
+        },
+        "en": {
+          "title": "Optional — update in progress",
+          "bullets": [
+            "Moved to Optional (out of Full Pack)",
+            "Status: updating (damage overlay colors/threshold)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.11",
+      "date": "2026-08-08",
+      "title": "Optional — update in progress",
+      "bullets": [
+        "Moved to Optional (out of Full Pack)",
+        "Status: updating (ally / party claim recover)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Optionnel — mise a jour en cours",
+          "bullets": [
+            "Passe en optionnel (hors Full Pack)",
+            "Statut: en cours de maj (recup alliés / party)"
+          ]
+        },
+        "en": {
+          "title": "Optional — update in progress",
+          "bullets": [
+            "Moved to Optional (out of Full Pack)",
+            "Status: updating (ally / party claim recover)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "03_P13_MainMenu",
       "version": "1.0.4",
