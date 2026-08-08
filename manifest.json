@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T05:53:28+02:00",
+  "updated_at": "2026-08-08T05:58:13+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Icon zombie + installer post-apo + GitHub catalog"
+    "notes": "Patch notes page"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -610,5 +610,83 @@
       "status": "planned"
     }
   ],
-  "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz"
+  "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
+  "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.4",
+      "date": "2026-08-08",
+      "title": "Patch notes page + GitHub catalog",
+      "bullets": [
+        "New Patch notes tab with per-mod filter",
+        "Catalog hosted on GitHub (stable URL)",
+        "Zombie icon + post-apo installer art"
+      ]
+    },
+    {
+      "mod_id": "P13_Classes",
+      "version": "0.1.3",
+      "date": "2026-08-08",
+      "title": "Changes",
+      "bullets": [
+        "Mechanic: minibike starter kit, nailgun removed, craftingVehicles 12, more fuel",
+        "Worker: nailgun added",
+        "Miner: nailgun removed (auger already present)",
+        "Armed classes (Hunter / Police / Soldier): ammo 150 → 200",
+        "ProgVer 4 / KitVer 3: existing characters get progression + kit supplements on login"
+      ]
+    },
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.4.61",
+      "date": "2026-08-07",
+      "title": "Fix — forced POI types (army_camp / military pool)",
+      "bullets": [
+        "Removed `Prefabs/POIs/VanillaTagOverrides` (166 xml): those overrides tagged specific prefabs (`army_camp_*`, `base_military_*`, etc.) with custom QuestTags `p13mil` / `p13rescue` / `p13b13`, and some stripped `clear`",
+        "Removed quest `filter_tags=\"p13b13\"` on `p13_q_b13_hell` (was exclusive Red Mesa pool)",
+        "Campaign clears now use the normal vanilla clear pool + existing `OnlyBiome` filters (no exclusive POI-type tags)",
+        "Biome filters unchanged — stuck markers still need a **retry ticket** re-roll after update"
+      ]
+    },
+    {
+      "mod_id": "P13_PerfectRecycler",
+      "version": "0.1.17",
+      "date": "2026-08-06",
+      "title": "Fix — Harmony AddItem patch crash on boot",
+      "bullets": [
+        "Prefix params must match vanilla names (`_itemStack`, `_xui`)",
+        "Was looking for `stack` → Harmony IL Compile Error → mod failed to init"
+      ]
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.11",
+      "date": "2026-08-05",
+      "title": "Root cause (restart)",
+      "bullets": [
+        "Never save before Load() (_ready gate)",
+        "Always persist on shutdown when this process owns the save (MayPersistToDisk)",
+        "Atomic save (.tmp then replace) + file format **v2** (x,y,z + id)",
+        "Match placer via PrimaryId **or** NativeId",
+        "ChangeBlocks fallback: changedByEntityId when platform id missing",
+        "Softer track filter (no more StartsWith(\"air\") / required GetItem for tracking)",
+        "Oversized net sync buffer + retry sync 2.5s after spawn"
+      ]
+    },
+    {
+      "mod_id": "10_P13_CoreQoL",
+      "version": "0.1.5",
+      "date": "2026-07-20",
+      "title": "FR",
+      "bullets": [
+        "**Bug** : le xpath mettait une seule valeur (`-0.571` / `-0.8`) avec `tier=\"1,2,3,4,5,6\"`",
+        "Le moteur ignore l’effet si le nombre de values ≠ nombre de tiers → **aucun bonus de vitesse**",
+        "**Fix** : 6 valeurs identiques alignées sur les 6 qualités",
+        "Enclume ≈ **−57 %** temps de craft forge ; soufflets ≈ **−80 %** temps de fonte",
+        "**Bug**: single `value` with `tier=\"1,2,3,4,5,6\"` → PassiveEffect.ModValue no-ops",
+        "**Fix**: six matching values for all qualities",
+        "Anvil ≈ **−57%** forge craft time; bellows ≈ **−80%** smelt time"
+      ]
+    }
+  ]
 }
