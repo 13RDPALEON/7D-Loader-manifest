@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T22:46:45+02:00",
+  "updated_at": "2026-08-08T22:52:54+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -628,9 +628,9 @@
     {
       "id": "P13_GetAllBlocks",
       "name": "Get All Blocks",
-      "version": "0.1.12",
-      "file": "P13_GetAllBlocks_v0.1.12.rar",
-      "file_id": "1eYjdBvWopJMQb2twKUcf77tqWUVWIpY_",
+      "version": "0.1.13",
+      "file": "P13_GetAllBlocks_v0.1.13.rar",
+      "file_id": "1_0skhIdDwy9Qk6INio0TSGPHoXwc3s9R",
       "install_folder": "P13_GetAllBlocks",
       "status": "updating",
       "optional": true,
@@ -641,7 +641,7 @@
       "legacy_folders": [
         "ClaimRecover"
       ],
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_GetAllBlocks_v0.1.12.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_GetAllBlocks_v0.1.13.rar"
     },
     {
       "id": "P13_PerfectRecycler",
@@ -693,6 +693,29 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.13",
+      "date": "2026-08-08",
+      "title": "Fix Harmony WRN spam at boot",
+      "bullets": [
+        "Silent DeclaredOnly scan — no AccessTools WRN flood on Block subclasses"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix spam Harmony WRN au boot",
+          "bullets": [
+            "Scan DeclaredOnly silencieux — plus de flood WRN AccessTools"
+          ]
+        },
+        "en": {
+          "title": "Fix Harmony WRN spam at boot",
+          "bullets": [
+            "Silent DeclaredOnly scan — no AccessTools WRN flood on Block subclasses"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "P13_GetAllBlocks",
       "version": "0.1.12",
