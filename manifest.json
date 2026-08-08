@@ -107,7 +107,8 @@
       "file": "00_P13_Harmony_v1.1.0.4.rar",
       "file_id": "1xmD49RTKiv1d7i8J8ecKKkS95e2_CFkm",
       "install_folder": "00_P13_Harmony",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/00_P13_Harmony_v1.1.0.4.rar"
     },
     {
       "id": "01_P13_SoundOverride",
@@ -116,7 +117,8 @@
       "file": "01_P13_SoundOverride_v1.1.0.4.rar",
       "file_id": "1bRXH6msdcYlawAovwMLoXJ1TJYf2i3Fh",
       "install_folder": "01_P13_SoundOverride",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/01_P13_SoundOverride_v1.1.0.4.rar"
     },
     {
       "id": "02_P13_IzayoWeaponFixes",
@@ -125,7 +127,8 @@
       "file": "02_P13_IzayoWeaponFixes_v3.0.0.0.rar",
       "file_id": "1ib0A5gzOytoHuSuCamlbszYnVx483uoo",
       "install_folder": "02_P13_IzayoWeaponFixes",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/02_P13_IzayoWeaponFixes_v3.0.0.0.rar"
     },
     {
       "id": "03_P13_MainMenu",
@@ -134,7 +137,8 @@
       "file": "03_P13_MainMenu_v1.0.0.rar",
       "file_id": "1Cy4QGQlUtf9_LyL0LgrD2HhI0WufVNtM",
       "install_folder": "03_P13_MainMenu",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/03_P13_MainMenu_v1.0.0.rar"
     },
     {
       "id": "10_P13_CoreQoL",
@@ -143,7 +147,8 @@
       "file": "10_P13_CoreQoL_v0.1.5.rar",
       "file_id": "1IQbnKKog1fdUIvjC6EwipLn_gHCk4wvv",
       "install_folder": "10_P13_CoreQoL",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/10_P13_CoreQoL_v0.1.5.rar"
     },
     {
       "id": "20_P13_Izayo_FPVGloves",
@@ -152,7 +157,8 @@
       "file": "20_P13_Izayo_FPVGloves_v1.1.0.4.rar",
       "file_id": "13MWzGlV0C55qE--zbSK-hlVhpLAik2aX",
       "install_folder": "20_P13_Izayo_FPVGloves",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/20_P13_Izayo_FPVGloves_v1.1.0.4.rar"
     },
     {
       "id": "21_P13_Izayo_VisibleMods",
@@ -161,7 +167,8 @@
       "file": "21_P13_Izayo_VisibleMods_v1.1.0.4.rar",
       "file_id": "1QbCm3ed4vobzonxSSD7rSPqBEbnM6XUV",
       "install_folder": "21_P13_Izayo_VisibleMods",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/21_P13_Izayo_VisibleMods_v1.1.0.4.rar"
     },
     {
       "id": "22_P13_Izayo_VanillaReplacer",
@@ -170,7 +177,8 @@
       "file": "22_P13_Izayo_VanillaReplacer_v1.1.0.4.rar",
       "file_id": "1GRNV-9mi6Cg8mfUzUCsVhFweFDJio4zq",
       "install_folder": "22_P13_Izayo_VanillaReplacer",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/22_P13_Izayo_VanillaReplacer_v1.1.0.4.rar"
     },
     {
       "id": "23_P13_Izayo_Misc",
@@ -179,7 +187,8 @@
       "file": "23_P13_Izayo_Misc_v1.1.0.4.rar",
       "file_id": "1K9gPAauDEFt5Sn0nYLVJd5qm3joNzhvk",
       "install_folder": "23_P13_Izayo_Misc",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/23_P13_Izayo_Misc_v1.1.0.4.rar"
     },
     {
       "id": "24_P13_Izayo_44mag",
@@ -188,7 +197,8 @@
       "file": "24_P13_Izayo_44mag_v1.1.0.4.rar",
       "file_id": "1vISsAorozheAdnwefNR2SGelhS3zKhUW",
       "install_folder": "24_P13_Izayo_44mag",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/24_P13_Izayo_44mag_v1.1.0.4.rar"
     },
     {
       "id": "25_P13_Izayo_45ACP",
@@ -197,7 +207,8 @@
       "file": "25_P13_Izayo_45ACP_v1.1.0.4.rar",
       "file_id": "17p3URBvqF8SBuRwZXgEuUndD5J3i6Ysv",
       "install_folder": "25_P13_Izayo_45ACP",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/25_P13_Izayo_45ACP_v1.1.0.4.rar"
     },
     {
       "id": "26_P13_Izayo_556",
@@ -206,7 +217,8 @@
       "file": "26_P13_Izayo_556_v1.1.0.4.rar",
       "file_id": "1h-jJx7iz3If4_Qu72wEIomoOlTuK380y",
       "install_folder": "26_P13_Izayo_556",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/26_P13_Izayo_556_v1.1.0.4.rar"
     },
     {
       "id": "27_P13_Izayo_762",
@@ -215,7 +227,8 @@
       "file": "27_P13_Izayo_762_v1.1.0.4.rar",
       "file_id": "1bvgKUvKJuJlKF7BLcn5hC_bMgF6ZKTmm",
       "install_folder": "27_P13_Izayo_762",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/27_P13_Izayo_762_v1.1.0.4.rar"
     },
     {
       "id": "28_P13_Izayo_9mm",
@@ -224,7 +237,8 @@
       "file": "28_P13_Izayo_9mm_v1.1.0.4.rar",
       "file_id": "1kHqYcvUQo8YiTsTSnyn5NxOBvdkmQOyf",
       "install_folder": "28_P13_Izayo_9mm",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/28_P13_Izayo_9mm_v1.1.0.4.rar"
     },
     {
       "id": "29_P13_Izayo_Shotgun",
@@ -233,7 +247,8 @@
       "file": "29_P13_Izayo_Shotgun_v1.1.0.4.rar",
       "file_id": "1ahqTibJj5Kcq9ipIEGhjvHuHAGQVNrwe",
       "install_folder": "29_P13_Izayo_Shotgun",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/29_P13_Izayo_Shotgun_v1.1.0.4.rar"
     },
     {
       "id": "2A_P13_Izayo_Demo",
@@ -242,7 +257,8 @@
       "file": "2A_P13_Izayo_Demo_v1.1.0.4.rar",
       "file_id": "1l1pcPHiG_nh3LgYAod7yWkYWJJvlI6Je",
       "install_folder": "2A_P13_Izayo_Demo",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2A_P13_Izayo_Demo_v1.1.0.4.rar"
     },
     {
       "id": "2B_P13_Izayo_Heavy",
@@ -251,7 +267,8 @@
       "file": "2B_P13_Izayo_Heavy_v1.1.0.4.rar",
       "file_id": "1JC_ckfvXdyJfjQ2K1R8jPhnpuk5VB9nM",
       "install_folder": "2B_P13_Izayo_Heavy",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2B_P13_Izayo_Heavy_v1.1.0.4.rar"
     },
     {
       "id": "2C_P13_Izayo_Tech",
@@ -260,7 +277,8 @@
       "file": "2C_P13_Izayo_Tech_v1.1.0.4.rar",
       "file_id": "1PJkHPokf_-bVEhrdrVKISBwkantAdQRD",
       "install_folder": "2C_P13_Izayo_Tech",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2C_P13_Izayo_Tech_v1.1.0.4.rar"
     },
     {
       "id": "2D_P13_Izayo_Melee",
@@ -269,7 +287,8 @@
       "file": "2D_P13_Izayo_Melee_v1.1.0.4.rar",
       "file_id": "1K1byCwuRbaLWLO9rR0e2FwSGOgJdizIR",
       "install_folder": "2D_P13_Izayo_Melee",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2D_P13_Izayo_Melee_v1.1.0.4.rar"
     },
     {
       "id": "2E_P13_NoIzyKick",
@@ -278,7 +297,8 @@
       "file": "2E_P13_NoIzyKick_v1.0.0.0.rar",
       "file_id": "1jgml5IEFI3lPnLoIpVy-Yt0ycBDJ22IU",
       "install_folder": "2E_P13_NoIzyKick",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2E_P13_NoIzyKick_v1.0.0.0.rar"
     },
     {
       "id": "30_P13_AEC_BossExtreme",
@@ -288,7 +308,8 @@
       "file_id": "1pSvtFoMPMYklzSNOOsbF32n_V_VgOanZ",
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
-      "featured": true
+      "featured": true,
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.7.rar"
     },
     {
       "id": "31_P13_AEC_ExtendedQuests",
@@ -297,7 +318,8 @@
       "file": "31_P13_AEC_ExtendedQuests_v3.0.1.rar",
       "file_id": "148BexBVzxQM3o79HYKgNxNx3ilvyyHbx",
       "install_folder": "31_P13_AEC_ExtendedQuests",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/31_P13_AEC_ExtendedQuests_v3.0.1.rar"
     },
     {
       "id": "40_P13_MRAP",
@@ -306,7 +328,8 @@
       "file": "40_P13_MRAP_v3.0.0.1.rar",
       "file_id": "1wMl3soKKVaGboAU0DrZkyOz2NGrjNELS",
       "install_folder": "40_P13_MRAP",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/40_P13_MRAP_v3.0.0.1.rar"
     },
     {
       "id": "41_P13_Rat",
@@ -315,7 +338,8 @@
       "file": "41_P13_Rat_v3.0.0.1.rar",
       "file_id": "1GqhD7WhbApjolYbrZtKnI-SVZ3IibCDU",
       "install_folder": "41_P13_Rat",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/41_P13_Rat_v3.0.0.1.rar"
     },
     {
       "id": "42_P13_UH60",
@@ -324,7 +348,8 @@
       "file": "42_P13_UH60_v3.0.0.1.rar",
       "file_id": "1bnilashrkM9PRXVefBg5Nl-job95UPql",
       "install_folder": "42_P13_UH60",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/42_P13_UH60_v3.0.0.1.rar"
     },
     {
       "id": "43_P13_WillyJeep",
@@ -333,7 +358,8 @@
       "file": "43_P13_WillyJeep_v3.0.0.1.rar",
       "file_id": "14b-NyaOZoK9lg1_8YlXMfduGGKWDpV8s",
       "install_folder": "43_P13_WillyJeep",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/43_P13_WillyJeep_v3.0.0.1.rar"
     },
     {
       "id": "44_P13_VehicleGoFast",
@@ -342,7 +368,8 @@
       "file": "44_P13_VehicleGoFast_v1.0.0.rar",
       "file_id": "1GAv5-Kw7YyYDxfoWO-UcVOxGZa22VIxJ",
       "install_folder": "44_P13_VehicleGoFast",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/44_P13_VehicleGoFast_v1.0.0.rar"
     },
     {
       "id": "50_P13_HUDPlus",
@@ -351,7 +378,8 @@
       "file": "50_P13_HUDPlus_v6.5.2.rar",
       "file_id": "1XlRBhXCk3S2S99vA2AgO-wb4GB3w0wDW",
       "install_folder": "50_P13_HUDPlus",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/50_P13_HUDPlus_v6.5.2.rar"
     },
     {
       "id": "51_P13_LoadmasterBackpacks",
@@ -360,7 +388,8 @@
       "file": "51_P13_LoadmasterBackpacks_v1.0.4.rar",
       "file_id": "1xjgcZiS-f5fxpk7CQWl2NQhxUWG18MC7",
       "install_folder": "51_P13_LoadmasterBackpacks",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/51_P13_LoadmasterBackpacks_v1.0.4.rar"
     },
     {
       "id": "52_P13_PonsMiniMap",
@@ -369,7 +398,8 @@
       "file": "52_P13_PonsMiniMap_v1.0.0.0.rar",
       "file_id": "1zHstFp77TAF8lgrSaHRRIehKT3Q7f2kO",
       "install_folder": "52_P13_PonsMiniMap",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/52_P13_PonsMiniMap_v1.0.0.0.rar"
     },
     {
       "id": "54_P13_Markers",
@@ -378,7 +408,8 @@
       "file": "54_P13_Markers_v1.3.0.0.rar",
       "file_id": "1LQ6UxJwtR7GXBG2f61Mo5c1KcN4M1uZj",
       "install_folder": "54_P13_Markers",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/54_P13_Markers_v1.3.0.0.rar"
     },
     {
       "id": "60_P13_Insomnia",
@@ -387,7 +418,8 @@
       "file": "60_P13_Insomnia_v2.0.0.rar",
       "file_id": "1S9b80D7MosH8RRA8PgxfB2A0ue36ujRW",
       "install_folder": "60_P13_Insomnia",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/60_P13_Insomnia_v2.0.0.rar"
     },
     {
       "id": "61_P13_InsomniaOverrides",
@@ -396,7 +428,8 @@
       "file": "61_P13_InsomniaOverrides_v2.0.0.rar",
       "file_id": "1XGXMCzpCNEVMzhOZQ2Nab7lHYZ7mGNe4",
       "install_folder": "61_P13_InsomniaOverrides",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/61_P13_InsomniaOverrides_v2.0.0.rar"
     },
     {
       "id": "62_P13_LearnByDoing",
@@ -406,7 +439,8 @@
       "file_id": "1yAcD_3lrjQxh-ETmWdBPJaExVVGDwHq7",
       "install_folder": "62_P13_LearnByDoing",
       "status": "alpha",
-      "featured": true
+      "featured": true,
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.7.rar"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -415,7 +449,8 @@
       "file": "63_P13_FancyZombies_v1.2.0.rar",
       "file_id": "1BDpJJKowSl-YFCzq2Gm5Dy47Xe9NlJzV",
       "install_folder": "63_P13_FancyZombies",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/63_P13_FancyZombies_v1.2.0.rar"
     },
     {
       "id": "64_P13_UnnaturalEncounters",
@@ -424,7 +459,8 @@
       "file": "64_P13_UnnaturalEncounters_v1.0.0.rar",
       "file_id": "1vCU1JM21RgB56itoEWlxCflUqPIM1-dP",
       "install_folder": "64_P13_UnnaturalEncounters",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/64_P13_UnnaturalEncounters_v1.0.0.rar"
     },
     {
       "id": "65_P13_AntiChuck",
@@ -433,7 +469,8 @@
       "file": "65_P13_AntiChuck_v1.0.0.0.rar",
       "file_id": "14BqZGRmP6Xm9pVc2rEWHAF8Qs_yLIQ0g",
       "install_folder": "65_P13_AntiChuck",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/65_P13_AntiChuck_v1.0.0.0.rar"
     },
     {
       "id": "66_P13_DeadlyCrawlers",
@@ -442,7 +479,8 @@
       "file": "66_P13_DeadlyCrawlers_v1.0.0.rar",
       "file_id": "12DRqsBjgFuDyixXMGxoKqpj_ZN3zroD-",
       "install_folder": "66_P13_DeadlyCrawlers",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/66_P13_DeadlyCrawlers_v1.0.0.rar"
     },
     {
       "id": "67_P13_NerfHostileChickens",
@@ -451,7 +489,8 @@
       "file": "67_P13_NerfHostileChickens_v1.2.1.rar",
       "file_id": "14uyfYBAhWJSkhixxHMTZ7Ww3NAkZUK1-",
       "install_folder": "67_P13_NerfHostileChickens",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/67_P13_NerfHostileChickens_v1.2.1.rar"
     },
     {
       "id": "70_P13_BeyondStorage3",
@@ -460,7 +499,8 @@
       "file": "70_P13_BeyondStorage3_v3.0.7.rar",
       "file_id": "1C6ZYudissIX-1E489AKqIPQzzfGi6umN",
       "install_folder": "70_P13_BeyondStorage3",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/70_P13_BeyondStorage3_v3.0.7.rar"
     },
     {
       "id": "71_P13_RepairVision",
@@ -469,7 +509,8 @@
       "file": "71_P13_RepairVision_v1.3.0.0.rar",
       "file_id": "1RT5CdJfmxqoRTuqX26RxX4SgF0enNfVF",
       "install_folder": "71_P13_RepairVision",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/71_P13_RepairVision_v1.3.0.0.rar"
     },
     {
       "id": "72_P13_QuickPlaceBreak",
@@ -478,7 +519,8 @@
       "file": "72_P13_QuickPlaceBreak_v3.0.0.0.rar",
       "file_id": "1mqWjIsS_VuSCfJBwi452PJfZFLhN1SK9",
       "install_folder": "72_P13_QuickPlaceBreak",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/72_P13_QuickPlaceBreak_v3.0.0.0.rar"
     },
     {
       "id": "73_P13_StopFuelWaste",
@@ -487,7 +529,8 @@
       "file": "73_P13_StopFuelWaste_v1.3.1.rar",
       "file_id": "12yl-NVvglQeIV81tBmIyV0VZ8Ok02MGW",
       "install_folder": "73_P13_StopFuelWaste",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/73_P13_StopFuelWaste_v1.3.1.rar"
     },
     {
       "id": "74_P13_LovelyLootBags",
@@ -496,7 +539,8 @@
       "file": "74_P13_LovelyLootBags_v1.0.0.rar",
       "file_id": "1ehUUjIWg_-VW-sMLwb68gGPc_tDnU9hI",
       "install_folder": "74_P13_LovelyLootBags",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/74_P13_LovelyLootBags_v1.0.0.rar"
     },
     {
       "id": "75_P13_Honey",
@@ -505,7 +549,8 @@
       "file": "75_P13_Honey_v1.0.0.rar",
       "file_id": "1YzNzOJ1qbFCdrtvI0orCNBgmzDH0pWFN",
       "install_folder": "75_P13_Honey",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/75_P13_Honey_v1.0.0.rar"
     },
     {
       "id": "76_P13_CommandExtensions",
@@ -514,7 +559,8 @@
       "file": "76_P13_CommandExtensions_v1.3.0.0.rar",
       "file_id": "1yTUBG1DIo1EzTgOde8BmOHqIpyb_Dm9F",
       "install_folder": "76_P13_CommandExtensions",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/76_P13_CommandExtensions_v1.3.0.0.rar"
     },
     {
       "id": "80_P13_Directive",
@@ -524,7 +570,8 @@
       "file_id": "1huNHXGLaQBJyoCGtfcf8CDTnOcjjzsq5",
       "install_folder": "80_P13_Directive",
       "status": "updating",
-      "featured": true
+      "featured": true,
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.4.61.rar"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -533,7 +580,8 @@
       "file": "80_P13_FluffyPandaPOI_v3.8.0.13.rar",
       "file_id": "1Vlgb--EUp4kHX8wDpd9674KwALdh--ww",
       "install_folder": "80_P13_FluffyPandaPOI",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_FluffyPandaPOI_v3.8.0.13.rar"
     },
     {
       "id": "90_P13_Localization",
@@ -542,7 +590,8 @@
       "file": "90_P13_Localization_v0.1.1.rar",
       "file_id": "1xnSjocYCzyQyNGBwMwVNxM3LXg4e6CDI",
       "install_folder": "90_P13_Localization",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/90_P13_Localization_v0.1.1.rar"
     },
     {
       "id": "99_P13_PackInfo",
@@ -551,7 +600,8 @@
       "file": "99_P13_PackInfo_v0.1.11.rar",
       "file_id": "1BXP3yARL6dCFkCEBEruA1eQnyYOIJ-vW",
       "install_folder": "99_P13_PackInfo",
-      "status": "stable"
+      "status": "stable",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/99_P13_PackInfo_v0.1.11.rar"
     },
     {
       "id": "P13_Classes",
@@ -561,7 +611,8 @@
       "file_id": "1ANNc0sFjSzOx0_0sKoXgCObS2TfkwRfS",
       "install_folder": "P13_Classes",
       "status": "updating",
-      "featured": true
+      "featured": true,
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.4.rar"
     },
     {
       "id": "P13_GetAllBlocks",
@@ -577,7 +628,8 @@
       ],
       "legacy_folders": [
         "ClaimRecover"
-      ]
+      ],
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_GetAllBlocks_v0.1.11.rar"
     },
     {
       "id": "P13_PerfectRecycler",
@@ -590,7 +642,8 @@
       "featured": true,
       "legacy_folders": [
         "PerfectRecycler"
-      ]
+      ],
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_PerfectRecycler_v0.1.17.rar"
     }
   ],
   "roadmap": [
