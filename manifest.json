@@ -1,0 +1,614 @@
+{
+  "schema": 3,
+  "name": "7D Loader",
+  "environment": "prod",
+  "folder_name": "Mods7DTD",
+  "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
+  "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
+  "updated_at": "2026-08-08T05:28:43+02:00",
+  "app": {
+    "id": "7d_loader",
+    "name": "7D Loader",
+    "version": "0.1.1",
+    "file": "7D_Loader_Setup.exe",
+    "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
+    "notes": "Production - per-mod archives + self-update"
+  },
+  "social": {
+    "discord": "https://discord.gg/8aNBmvMEJb",
+    "youtube": "https://www.youtube.com/@Sayli-TV",
+    "twitch": "https://www.twitch.tv/saylitv",
+    "patreon": ""
+  },
+  "credits": [
+    "Sayli",
+    "Yogun",
+    "Ezekiel",
+    "Flo"
+  ],
+  "bundles": [
+    {
+      "id": "Protocol13_Full",
+      "name": "Full Pack (all mods)",
+      "type": "bundle",
+      "includes": [
+        "00_P13_Harmony",
+        "01_P13_SoundOverride",
+        "02_P13_IzayoWeaponFixes",
+        "03_P13_MainMenu",
+        "10_P13_CoreQoL",
+        "20_P13_Izayo_FPVGloves",
+        "21_P13_Izayo_VisibleMods",
+        "22_P13_Izayo_VanillaReplacer",
+        "23_P13_Izayo_Misc",
+        "24_P13_Izayo_44mag",
+        "25_P13_Izayo_45ACP",
+        "26_P13_Izayo_556",
+        "27_P13_Izayo_762",
+        "28_P13_Izayo_9mm",
+        "29_P13_Izayo_Shotgun",
+        "2A_P13_Izayo_Demo",
+        "2B_P13_Izayo_Heavy",
+        "2C_P13_Izayo_Tech",
+        "2D_P13_Izayo_Melee",
+        "2E_P13_NoIzyKick",
+        "30_P13_AEC_BossExtreme",
+        "31_P13_AEC_ExtendedQuests",
+        "40_P13_MRAP",
+        "41_P13_Rat",
+        "42_P13_UH60",
+        "43_P13_WillyJeep",
+        "44_P13_VehicleGoFast",
+        "50_P13_HUDPlus",
+        "51_P13_LoadmasterBackpacks",
+        "52_P13_PonsMiniMap",
+        "54_P13_Markers",
+        "60_P13_Insomnia",
+        "61_P13_InsomniaOverrides",
+        "62_P13_LearnByDoing",
+        "63_P13_FancyZombies",
+        "64_P13_UnnaturalEncounters",
+        "65_P13_AntiChuck",
+        "66_P13_DeadlyCrawlers",
+        "67_P13_NerfHostileChickens",
+        "70_P13_BeyondStorage3",
+        "71_P13_RepairVision",
+        "72_P13_QuickPlaceBreak",
+        "73_P13_StopFuelWaste",
+        "74_P13_LovelyLootBags",
+        "75_P13_Honey",
+        "76_P13_CommandExtensions",
+        "80_P13_Directive",
+        "80_P13_FluffyPandaPOI",
+        "90_P13_Localization",
+        "99_P13_PackInfo",
+        "P13_Classes",
+        "P13_GetAllBlocks",
+        "P13_PerfectRecycler"
+      ],
+      "status": "stable",
+      "note": "No single archive — installs/updates every listed mod"
+    }
+  ],
+  "mods": [
+    {
+      "id": "00_P13_Harmony",
+      "name": "Harmony Wrapper",
+      "version": "1.1.0.4",
+      "file": "00_P13_Harmony_v1.1.0.4.rar",
+      "file_id": "1xmD49RTKiv1d7i8J8ecKKkS95e2_CFkm",
+      "install_folder": "00_P13_Harmony",
+      "status": "stable"
+    },
+    {
+      "id": "01_P13_SoundOverride",
+      "name": "Alter_Soundoverride",
+      "version": "1.1.0.4",
+      "file": "01_P13_SoundOverride_v1.1.0.4.rar",
+      "file_id": "1bRXH6msdcYlawAovwMLoXJ1TJYf2i3Fh",
+      "install_folder": "01_P13_SoundOverride",
+      "status": "stable"
+    },
+    {
+      "id": "02_P13_IzayoWeaponFixes",
+      "name": "Izayo_WeaponFixes",
+      "version": "3.0.0.0",
+      "file": "02_P13_IzayoWeaponFixes_v3.0.0.0.rar",
+      "file_id": "1ib0A5gzOytoHuSuCamlbszYnVx483uoo",
+      "install_folder": "02_P13_IzayoWeaponFixes",
+      "status": "stable"
+    },
+    {
+      "id": "03_P13_MainMenu",
+      "name": "Protocol 13 - Main Menu",
+      "version": "1.0.0",
+      "file": "03_P13_MainMenu_v1.0.0.rar",
+      "file_id": "1Cy4QGQlUtf9_LyL0LgrD2HhI0WufVNtM",
+      "install_folder": "03_P13_MainMenu",
+      "status": "stable"
+    },
+    {
+      "id": "10_P13_CoreQoL",
+      "name": "Protocol 13 - Core QoL",
+      "version": "0.1.5",
+      "file": "10_P13_CoreQoL_v0.1.5.rar",
+      "file_id": "1IQbnKKog1fdUIvjC6EwipLn_gHCk4wvv",
+      "install_folder": "10_P13_CoreQoL",
+      "status": "stable"
+    },
+    {
+      "id": "20_P13_Izayo_FPVGloves",
+      "name": "IZY_FPV_GLOVES",
+      "version": "1.1.0.4",
+      "file": "20_P13_Izayo_FPVGloves_v1.1.0.4.rar",
+      "file_id": "13MWzGlV0C55qE--zbSK-hlVhpLAik2aX",
+      "install_folder": "20_P13_Izayo_FPVGloves",
+      "status": "stable"
+    },
+    {
+      "id": "21_P13_Izayo_VisibleMods",
+      "name": "IZY_MMVMV2",
+      "version": "1.1.0.4",
+      "file": "21_P13_Izayo_VisibleMods_v1.1.0.4.rar",
+      "file_id": "1QbCm3ed4vobzonxSSD7rSPqBEbnM6XUV",
+      "install_folder": "21_P13_Izayo_VisibleMods",
+      "status": "stable"
+    },
+    {
+      "id": "22_P13_Izayo_VanillaReplacer",
+      "name": "IZY_VRP",
+      "version": "1.1.0.4",
+      "file": "22_P13_Izayo_VanillaReplacer_v1.1.0.4.rar",
+      "file_id": "1GRNV-9mi6Cg8mfUzUCsVhFweFDJio4zq",
+      "install_folder": "22_P13_Izayo_VanillaReplacer",
+      "status": "stable"
+    },
+    {
+      "id": "23_P13_Izayo_Misc",
+      "name": "IZY_RMP_Miscpack",
+      "version": "1.1.0.4",
+      "file": "23_P13_Izayo_Misc_v1.1.0.4.rar",
+      "file_id": "1K9gPAauDEFt5Sn0nYLVJd5qm3joNzhvk",
+      "install_folder": "23_P13_Izayo_Misc",
+      "status": "stable"
+    },
+    {
+      "id": "24_P13_Izayo_44mag",
+      "name": "IZY_RMP_44magnum",
+      "version": "1.1.0.4",
+      "file": "24_P13_Izayo_44mag_v1.1.0.4.rar",
+      "file_id": "1vISsAorozheAdnwefNR2SGelhS3zKhUW",
+      "install_folder": "24_P13_Izayo_44mag",
+      "status": "stable"
+    },
+    {
+      "id": "25_P13_Izayo_45ACP",
+      "name": "IZY_RMP_45ACP",
+      "version": "1.1.0.4",
+      "file": "25_P13_Izayo_45ACP_v1.1.0.4.rar",
+      "file_id": "17p3URBvqF8SBuRwZXgEuUndD5J3i6Ysv",
+      "install_folder": "25_P13_Izayo_45ACP",
+      "status": "stable"
+    },
+    {
+      "id": "26_P13_Izayo_556",
+      "name": "IZY_RMP_556",
+      "version": "1.1.0.4",
+      "file": "26_P13_Izayo_556_v1.1.0.4.rar",
+      "file_id": "1h-jJx7iz3If4_Qu72wEIomoOlTuK380y",
+      "install_folder": "26_P13_Izayo_556",
+      "status": "stable"
+    },
+    {
+      "id": "27_P13_Izayo_762",
+      "name": "IZY_RMP_762pack",
+      "version": "1.1.0.4",
+      "file": "27_P13_Izayo_762_v1.1.0.4.rar",
+      "file_id": "1bvgKUvKJuJlKF7BLcn5hC_bMgF6ZKTmm",
+      "install_folder": "27_P13_Izayo_762",
+      "status": "stable"
+    },
+    {
+      "id": "28_P13_Izayo_9mm",
+      "name": "IZY_RMP_9mmVAL",
+      "version": "1.1.0.4",
+      "file": "28_P13_Izayo_9mm_v1.1.0.4.rar",
+      "file_id": "1kHqYcvUQo8YiTsTSnyn5NxOBvdkmQOyf",
+      "install_folder": "28_P13_Izayo_9mm",
+      "status": "stable"
+    },
+    {
+      "id": "29_P13_Izayo_Shotgun",
+      "name": "IZY_RMP_SG",
+      "version": "1.1.0.4",
+      "file": "29_P13_Izayo_Shotgun_v1.1.0.4.rar",
+      "file_id": "1ahqTibJj5Kcq9ipIEGhjvHuHAGQVNrwe",
+      "install_folder": "29_P13_Izayo_Shotgun",
+      "status": "stable"
+    },
+    {
+      "id": "2A_P13_Izayo_Demo",
+      "name": "IZY_RMP_Demopack",
+      "version": "1.1.0.4",
+      "file": "2A_P13_Izayo_Demo_v1.1.0.4.rar",
+      "file_id": "1l1pcPHiG_nh3LgYAod7yWkYWJJvlI6Je",
+      "install_folder": "2A_P13_Izayo_Demo",
+      "status": "stable"
+    },
+    {
+      "id": "2B_P13_Izayo_Heavy",
+      "name": "IZY_RMP_HVW",
+      "version": "1.1.0.4",
+      "file": "2B_P13_Izayo_Heavy_v1.1.0.4.rar",
+      "file_id": "1JC_ckfvXdyJfjQ2K1R8jPhnpuk5VB9nM",
+      "install_folder": "2B_P13_Izayo_Heavy",
+      "status": "stable"
+    },
+    {
+      "id": "2C_P13_Izayo_Tech",
+      "name": "IZY_RMP_Tech",
+      "version": "1.1.0.4",
+      "file": "2C_P13_Izayo_Tech_v1.1.0.4.rar",
+      "file_id": "1PJkHPokf_-bVEhrdrVKISBwkantAdQRD",
+      "install_folder": "2C_P13_Izayo_Tech",
+      "status": "stable"
+    },
+    {
+      "id": "2D_P13_Izayo_Melee",
+      "name": "IZY_melee",
+      "version": "1.1.0.4",
+      "file": "2D_P13_Izayo_Melee_v1.1.0.4.rar",
+      "file_id": "1K1byCwuRbaLWLO9rR0e2FwSGOgJdizIR",
+      "install_folder": "2D_P13_Izayo_Melee",
+      "status": "stable"
+    },
+    {
+      "id": "2E_P13_NoIzyKick",
+      "name": "No Izayo Kick (restore headlamp on F)",
+      "version": "1.0.0.0",
+      "file": "2E_P13_NoIzyKick_v1.0.0.0.rar",
+      "file_id": "1jgml5IEFI3lPnLoIpVy-Yt0ycBDJ22IU",
+      "install_folder": "2E_P13_NoIzyKick",
+      "status": "stable"
+    },
+    {
+      "id": "30_P13_AEC_BossExtreme",
+      "name": "AEC Boss Damage Nerf",
+      "version": "3.0.7",
+      "file": "30_P13_AEC_BossExtreme_v3.0.7.rar",
+      "file_id": "1pSvtFoMPMYklzSNOOsbF32n_V_VgOanZ",
+      "install_folder": "30_P13_AEC_BossExtreme",
+      "status": "stable",
+      "featured": true
+    },
+    {
+      "id": "31_P13_AEC_ExtendedQuests",
+      "name": "AEC_AIO_BOSS_EXTENDED_QUESTS",
+      "version": "3.0.1",
+      "file": "31_P13_AEC_ExtendedQuests_v3.0.1.rar",
+      "file_id": "148BexBVzxQM3o79HYKgNxNx3ilvyyHbx",
+      "install_folder": "31_P13_AEC_ExtendedQuests",
+      "status": "stable"
+    },
+    {
+      "id": "40_P13_MRAP",
+      "name": "MRAP",
+      "version": "3.0.0.1",
+      "file": "40_P13_MRAP_v3.0.0.1.rar",
+      "file_id": "1wMl3soKKVaGboAU0DrZkyOz2NGrjNELS",
+      "install_folder": "40_P13_MRAP",
+      "status": "stable"
+    },
+    {
+      "id": "41_P13_Rat",
+      "name": "Rat",
+      "version": "3.0.0.1",
+      "file": "41_P13_Rat_v3.0.0.1.rar",
+      "file_id": "1GqhD7WhbApjolYbrZtKnI-SVZ3IibCDU",
+      "install_folder": "41_P13_Rat",
+      "status": "stable"
+    },
+    {
+      "id": "42_P13_UH60",
+      "name": "UH-60",
+      "version": "3.0.0.1",
+      "file": "42_P13_UH60_v3.0.0.1.rar",
+      "file_id": "1bnilashrkM9PRXVefBg5Nl-job95UPql",
+      "install_folder": "42_P13_UH60",
+      "status": "stable"
+    },
+    {
+      "id": "43_P13_WillyJeep",
+      "name": "Willy Jeep",
+      "version": "3.0.0.1",
+      "file": "43_P13_WillyJeep_v3.0.0.1.rar",
+      "file_id": "14b-NyaOZoK9lg1_8YlXMfduGGKWDpV8s",
+      "install_folder": "43_P13_WillyJeep",
+      "status": "stable"
+    },
+    {
+      "id": "44_P13_VehicleGoFast",
+      "name": "[RS] Vehicle Go Fast",
+      "version": "1.0.0",
+      "file": "44_P13_VehicleGoFast_v1.0.0.rar",
+      "file_id": "1GAv5-Kw7YyYDxfoWO-UcVOxGZa22VIxJ",
+      "install_folder": "44_P13_VehicleGoFast",
+      "status": "stable"
+    },
+    {
+      "id": "50_P13_HUDPlus",
+      "name": "AGF HUDPlus",
+      "version": "6.5.2",
+      "file": "50_P13_HUDPlus_v6.5.2.rar",
+      "file_id": "1XlRBhXCk3S2S99vA2AgO-wb4GB3w0wDW",
+      "install_folder": "50_P13_HUDPlus",
+      "status": "stable"
+    },
+    {
+      "id": "51_P13_LoadmasterBackpacks",
+      "name": "Loadmaster Backpacks",
+      "version": "1.0.4",
+      "file": "51_P13_LoadmasterBackpacks_v1.0.4.rar",
+      "file_id": "1xjgcZiS-f5fxpk7CQWl2NQhxUWG18MC7",
+      "install_folder": "51_P13_LoadmasterBackpacks",
+      "status": "stable"
+    },
+    {
+      "id": "52_P13_PonsMiniMap",
+      "name": "Pon's MiniMap",
+      "version": "1.0.0.0",
+      "file": "52_P13_PonsMiniMap_v1.0.0.0.rar",
+      "file_id": "1zHstFp77TAF8lgrSaHRRIehKT3Q7f2kO",
+      "install_folder": "52_P13_PonsMiniMap",
+      "status": "stable"
+    },
+    {
+      "id": "54_P13_Markers",
+      "name": "Markers (Example Web Mod)",
+      "version": "1.3.0.0",
+      "file": "54_P13_Markers_v1.3.0.0.rar",
+      "file_id": "1LQ6UxJwtR7GXBG2f61Mo5c1KcN4M1uZj",
+      "install_folder": "54_P13_Markers",
+      "status": "stable"
+    },
+    {
+      "id": "60_P13_Insomnia",
+      "name": "Byteblazar's 7 Days of Insomnia",
+      "version": "2.0.0",
+      "file": "60_P13_Insomnia_v2.0.0.rar",
+      "file_id": "1S9b80D7MosH8RRA8PgxfB2A0ue36ujRW",
+      "install_folder": "60_P13_Insomnia",
+      "status": "stable"
+    },
+    {
+      "id": "61_P13_InsomniaOverrides",
+      "name": "Byteblazar's 7 Days of Insomnia - Overrides",
+      "version": "2.0.0",
+      "file": "61_P13_InsomniaOverrides_v2.0.0.rar",
+      "file_id": "1XGXMCzpCNEVMzhOZQ2Nab7lHYZ7mGNe4",
+      "install_folder": "61_P13_InsomniaOverrides",
+      "status": "stable"
+    },
+    {
+      "id": "62_P13_LearnByDoing",
+      "name": "Learn By Doing",
+      "version": "1.1.6",
+      "file": "62_P13_LearnByDoing_v1.1.6.rar",
+      "file_id": "1nQHAffnKsVH3rFQhJ8QjHhrXiGSeuU5n",
+      "install_folder": "62_P13_LearnByDoing",
+      "status": "stable",
+      "featured": true
+    },
+    {
+      "id": "63_P13_FancyZombies",
+      "name": "LittleRedSonja Fancy Zombie Variants - Full Quality Version",
+      "version": "1.2.0",
+      "file": "63_P13_FancyZombies_v1.2.0.rar",
+      "file_id": "1BDpJJKowSl-YFCzq2Gm5Dy47Xe9NlJzV",
+      "install_folder": "63_P13_FancyZombies",
+      "status": "stable"
+    },
+    {
+      "id": "64_P13_UnnaturalEncounters",
+      "name": "[RS] Unnatural Encounters",
+      "version": "1.0.0",
+      "file": "64_P13_UnnaturalEncounters_v1.0.0.rar",
+      "file_id": "1vCU1JM21RgB56itoEWlxCflUqPIM1-dP",
+      "install_folder": "64_P13_UnnaturalEncounters",
+      "status": "stable"
+    },
+    {
+      "id": "65_P13_AntiChuck",
+      "name": "Anti Chuck",
+      "version": "1.0.0.0",
+      "file": "65_P13_AntiChuck_v1.0.0.0.rar",
+      "file_id": "14BqZGRmP6Xm9pVc2rEWHAF8Qs_yLIQ0g",
+      "install_folder": "65_P13_AntiChuck",
+      "status": "stable"
+    },
+    {
+      "id": "66_P13_DeadlyCrawlers",
+      "name": "Protocol 13 - Deadly Crawlers",
+      "version": "1.0.0",
+      "file": "66_P13_DeadlyCrawlers_v1.0.0.rar",
+      "file_id": "12DRqsBjgFuDyixXMGxoKqpj_ZN3zroD-",
+      "install_folder": "66_P13_DeadlyCrawlers",
+      "status": "stable"
+    },
+    {
+      "id": "67_P13_NerfHostileChickens",
+      "name": "Protocol 13 - Remove / Nerf Hostile Chickens",
+      "version": "1.2.1",
+      "file": "67_P13_NerfHostileChickens_v1.2.1.rar",
+      "file_id": "14uyfYBAhWJSkhixxHMTZ7Ww3NAkZUK1-",
+      "install_folder": "67_P13_NerfHostileChickens",
+      "status": "stable"
+    },
+    {
+      "id": "70_P13_BeyondStorage3",
+      "name": "Beyond Storage 3",
+      "version": "3.0.7",
+      "file": "70_P13_BeyondStorage3_v3.0.7.rar",
+      "file_id": "1C6ZYudissIX-1E489AKqIPQzzfGi6umN",
+      "install_folder": "70_P13_BeyondStorage3",
+      "status": "stable"
+    },
+    {
+      "id": "71_P13_RepairVision",
+      "name": "RepairVision",
+      "version": "1.3.0.0",
+      "file": "71_P13_RepairVision_v1.3.0.0.rar",
+      "file_id": "1RT5CdJfmxqoRTuqX26RxX4SgF0enNfVF",
+      "install_folder": "71_P13_RepairVision",
+      "status": "stable"
+    },
+    {
+      "id": "72_P13_QuickPlaceBreak",
+      "name": "Quick Placed Block Break (V3.0)",
+      "version": "3.0.0.0",
+      "file": "72_P13_QuickPlaceBreak_v3.0.0.0.rar",
+      "file_id": "1mqWjIsS_VuSCfJBwi452PJfZFLhN1SK9",
+      "install_folder": "72_P13_QuickPlaceBreak",
+      "status": "stable"
+    },
+    {
+      "id": "73_P13_StopFuelWaste",
+      "name": "Stop Fuel Waste",
+      "version": "1.3.1",
+      "file": "73_P13_StopFuelWaste_v1.3.1.rar",
+      "file_id": "12yl-NVvglQeIV81tBmIyV0VZ8Ok02MGW",
+      "install_folder": "73_P13_StopFuelWaste",
+      "status": "stable"
+    },
+    {
+      "id": "74_P13_LovelyLootBags",
+      "name": "Lovely Loot Bags",
+      "version": "1.0.0",
+      "file": "74_P13_LovelyLootBags_v1.0.0.rar",
+      "file_id": "1ehUUjIWg_-VW-sMLwb68gGPc_tDnU9hI",
+      "install_folder": "74_P13_LovelyLootBags",
+      "status": "stable"
+    },
+    {
+      "id": "75_P13_Honey",
+      "name": "Consistent Honey from Stumps",
+      "version": "1.0.0",
+      "file": "75_P13_Honey_v1.0.0.rar",
+      "file_id": "1YzNzOJ1qbFCdrtvI0orCNBgmzDH0pWFN",
+      "install_folder": "75_P13_Honey",
+      "status": "stable"
+    },
+    {
+      "id": "76_P13_CommandExtensions",
+      "name": "Server Command Extensions",
+      "version": "1.3.0.0",
+      "file": "76_P13_CommandExtensions_v1.3.0.0.rar",
+      "file_id": "1yTUBG1DIo1EzTgOde8BmOHqIpyb_Dm9F",
+      "install_folder": "76_P13_CommandExtensions",
+      "status": "stable"
+    },
+    {
+      "id": "80_P13_Directive",
+      "name": "Directive (Campaign)",
+      "version": "0.4.61",
+      "file": "80_P13_Directive_v0.4.61.rar",
+      "file_id": "1huNHXGLaQBJyoCGtfcf8CDTnOcjjzsq5",
+      "install_folder": "80_P13_Directive",
+      "status": "stable",
+      "featured": true
+    },
+    {
+      "id": "80_P13_FluffyPandaPOI",
+      "name": "Protocol 13 - Fluffy Panda POIs",
+      "version": "3.8.0.13",
+      "file": "80_P13_FluffyPandaPOI_v3.8.0.13.rar",
+      "file_id": "1Vlgb--EUp4kHX8wDpd9674KwALdh--ww",
+      "install_folder": "80_P13_FluffyPandaPOI",
+      "status": "stable"
+    },
+    {
+      "id": "90_P13_Localization",
+      "name": "Protocol 13 - Localization",
+      "version": "0.1.1",
+      "file": "90_P13_Localization_v0.1.1.rar",
+      "file_id": "1xnSjocYCzyQyNGBwMwVNxM3LXg4e6CDI",
+      "install_folder": "90_P13_Localization",
+      "status": "stable"
+    },
+    {
+      "id": "99_P13_PackInfo",
+      "name": "Pack Info",
+      "version": "0.1.9",
+      "file": "99_P13_PackInfo_v0.1.9.rar",
+      "file_id": "1oErJLuMx_Y3eNboYlN50PBG5o8LgPDbF",
+      "install_folder": "99_P13_PackInfo",
+      "status": "stable"
+    },
+    {
+      "id": "P13_Classes",
+      "name": "Classes",
+      "version": "0.1.3",
+      "file": "P13_Classes_v0.1.3.rar",
+      "file_id": "12K61hyBwZMxA-0uZ27aSH6Bmwb8bQE5w",
+      "install_folder": "P13_Classes",
+      "status": "stable",
+      "featured": true
+    },
+    {
+      "id": "P13_GetAllBlocks",
+      "name": "Get All Blocks",
+      "version": "0.1.11",
+      "file": "P13_GetAllBlocks_v0.1.11.rar",
+      "file_id": "1bksY-5UayOx2ui2pXq2DQu9TUOgZIDaQ",
+      "install_folder": "P13_GetAllBlocks",
+      "status": "stable",
+      "featured": true,
+      "requires": [
+        "00_P13_Harmony"
+      ],
+      "legacy_folders": [
+        "ClaimRecover"
+      ]
+    },
+    {
+      "id": "P13_PerfectRecycler",
+      "name": "Perfect Recycler",
+      "version": "0.1.17",
+      "file": "P13_PerfectRecycler_v0.1.17.rar",
+      "file_id": "1NWHaeJXAUJCDKR-ovLBZhrlXVtCGLwnU",
+      "install_folder": "P13_PerfectRecycler",
+      "status": "stable",
+      "featured": true,
+      "legacy_folders": [
+        "PerfectRecycler"
+      ]
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "directive_rework",
+      "mod_id": "80_P13_Directive",
+      "title_key": "roadmap_directive_title",
+      "desc_key": "roadmap_directive_desc",
+      "image": "media/roadmap/roadmap_directive.png",
+      "status": "planned"
+    },
+    {
+      "id": "gab_bugs",
+      "mod_id": "P13_GetAllBlocks",
+      "title_key": "roadmap_gab_title",
+      "desc_key": "roadmap_gab_desc",
+      "image": "media/roadmap/roadmap_getallblocks.png",
+      "status": "planned"
+    },
+    {
+      "id": "fullpack_features",
+      "mod_id": "Protocol13_Full",
+      "title_key": "roadmap_full_title",
+      "desc_key": "roadmap_full_desc",
+      "image": "media/roadmap/roadmap_fullpack.png",
+      "status": "planned"
+    }
+  ],
+  "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz"
+}
