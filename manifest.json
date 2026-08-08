@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:23:35+02:00",
+  "updated_at": "2026-08-08T06:26:23+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Test auto-update: manual Inno wizard"
+    "notes": "Fix: onedir build (no Temp/_MEI python311.dll crash after install)"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -612,6 +612,17 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.10",
+      "date": "2026-08-08",
+      "title": "Fix crash apres install",
+      "bullets": [
+        "Build onedir: plus d extraction Temp/_MEI",
+        "Corrige Failed to load Python DLL python311.dll",
+        "UPX desactive"
+      ]
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.9",
