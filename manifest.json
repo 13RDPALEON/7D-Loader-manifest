@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:05:48+02:00",
+  "updated_at": "2026-08-08T06:07:57+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Fix Patch notes / Futur / Accueil plein ecran"
+    "notes": "Fix auto-update download in windowed exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -612,6 +612,16 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.6",
+      "date": "2026-08-08",
+      "title": "Fix telechargement auto-update",
+      "bullets": [
+        "Correction crash gdown/tqdm sans console",
+        "Fallback download Drive pour les gros fichiers"
+      ]
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.5",
