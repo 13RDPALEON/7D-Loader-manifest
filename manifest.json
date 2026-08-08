@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T19:59:14+02:00",
+  "updated_at": "2026-08-08T20:04:46+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.18",
+    "version": "0.1.19",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Mods status text (Statut - Alpha); export logs",
+    "notes": "Bundled UnRAR — no WinRAR/7-Zip required",
     "security": {
-      "sha256": "78fee91571c7c7eff24cdd2ff39e1d5532ef3d62f88dcf1cd295a4a1c59b7311",
-      "virustotal_url": "https://www.virustotal.com/gui/file/78fee91571c7c7eff24cdd2ff39e1d5532ef3d62f88dcf1cd295a4a1c59b7311/detection",
+      "sha256": "ef521ef685eff37d53d5585cbcd76cc91ae2a8d4acbea0d7d9dd1af907f4cbe3",
+      "virustotal_url": "https://www.virustotal.com/gui/file/ef521ef685eff37d53d5585cbcd76cc91ae2a8d4acbea0d7d9dd1af907f4cbe3/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.18/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.19/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -628,6 +628,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.19",
+      "date": "2026-08-08",
+      "title": "Built-in RAR extraction",
+      "bullets": [
+        "Bundled UnRAR: install mods without WinRAR or 7-Zip",
+        "Native ZIP support via Python",
+        "Still uses system WinRAR/7-Zip if present as fallback"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Extraction RAR integree",
+          "bullets": [
+            "UnRAR integre: plus besoin de WinRAR ni 7-Zip",
+            "Support ZIP natif",
+            "Fallback WinRAR/7-Zip systeme si presents"
+          ]
+        },
+        "en": {
+          "title": "Built-in RAR extraction",
+          "bullets": [
+            "Bundled UnRAR: no WinRAR or 7-Zip required",
+            "Native ZIP support",
+            "Falls back to system tools if installed"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.18",
