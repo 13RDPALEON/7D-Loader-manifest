@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T19:44:58+02:00",
+  "updated_at": "2026-08-08T19:59:14+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.16",
+    "version": "0.1.18",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Verify install tab: scan, backup, clean unknown Mods folders",
+    "notes": "Mods status text (Statut - Alpha); export logs",
     "security": {
-      "sha256": "578d885332685d1380ab12d31999a6c5c7407db262177f8786d6b7877535784d",
-      "virustotal_url": "https://www.virustotal.com/gui/file/578d885332685d1380ab12d31999a6c5c7407db262177f8786d6b7877535784d/detection",
+      "sha256": "78fee91571c7c7eff24cdd2ff39e1d5532ef3d62f88dcf1cd295a4a1c59b7311",
+      "virustotal_url": "https://www.virustotal.com/gui/file/78fee91571c7c7eff24cdd2ff39e1d5532ef3d62f88dcf1cd295a4a1c59b7311/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.16/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.18/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -628,6 +628,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.18",
+      "date": "2026-08-08",
+      "title": "Mods status + export logs",
+      "bullets": [
+        "Mods list: colored status text only (Statut - Alpha), no colored card border",
+        "Export session log + open logs folder",
+        "Install errors written to AppData log with traceback"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Statut mods + export logs",
+          "bullets": [
+            "Liste mods: statut colore uniquement (Statut - Alpha), plus de bordure coloree",
+            "Exporter le log + ouvrir le dossier logs",
+            "Erreurs d install ecrites dans le log AppData avec traceback"
+          ]
+        },
+        "en": {
+          "title": "Mods status + export logs",
+          "bullets": [
+            "Mods list: colored status text only (Status - Alpha), no colored borders",
+            "Export session log + open logs folder",
+            "Install errors saved to AppData log with traceback"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.16",
