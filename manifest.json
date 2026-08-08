@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:45:30+02:00",
+  "updated_at": "2026-08-08T06:45:44+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
@@ -549,7 +549,7 @@
       "name": "Classes",
       "version": "0.1.4",
       "file": "P13_Classes_v0.1.4.rar",
-      "file_id": "12K61hyBwZMxA-0uZ27aSH6Bmwb8bQE5w",
+      "file_id": "1ANNc0sFjSzOx0_0sKoXgCObS2TfkwRfS",
       "install_folder": "P13_Classes",
       "status": "stable",
       "featured": true
