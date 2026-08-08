@@ -5,14 +5,19 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T17:57:05+02:00",
+  "updated_at": "2026-08-08T18:13:33+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
     "version": "0.1.13",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "UI slides, 7Day Loader branding, patch notes i18n"
+    "notes": "UI slides, 7Day Loader branding, patch notes i18n",
+    "security": {
+      "sha256": "b89c49105dca1231b8d43f2ea14f5c80683617c5d427608d234fc163c54caac9",
+      "virustotal_url": "https://www.virustotal.com/gui/file/b89c49105dca1231b8d43f2ea14f5c80683617c5d427608d234fc163c54caac9/detection",
+      "note": "VirusTotal public report for 7D_Loader_Setup.exe 0.1.13. Update detections after confirming score on VT UI."
+    }
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
