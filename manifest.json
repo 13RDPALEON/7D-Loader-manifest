@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T19:33:29+02:00",
+  "updated_at": "2026-08-08T19:44:58+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Auto-update via GitHub Releases (Drive quota workaround) + UI 0.1.14",
+    "notes": "Verify install tab: scan, backup, clean unknown Mods folders",
     "security": {
-      "sha256": "6238133cdd7f5d9839d602e4ed38a351c936dbd70a740004fa89f212c9310a7e",
-      "virustotal_url": "https://www.virustotal.com/gui/file/6238133cdd7f5d9839d602e4ed38a351c936dbd70a740004fa89f212c9310a7e/detection",
+      "sha256": "578d885332685d1380ab12d31999a6c5c7407db262177f8786d6b7877535784d",
+      "virustotal_url": "https://www.virustotal.com/gui/file/578d885332685d1380ab12d31999a6c5c7407db262177f8786d6b7877535784d/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.15/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.16/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -628,6 +628,38 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.16",
+      "date": "2026-08-08",
+      "title": "Verify installation tab",
+      "bullets": [
+        "New tab: scan Mods vs Protocol13 catalog",
+        "Optional full Mods backup to a chosen folder",
+        "Clean unknown / third-party folders after confirmation",
+        "Settings shows last backup path"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Onglet Verifier l'installation",
+          "bullets": [
+            "Nouvel onglet: analyse Mods vs catalogue Protocol13",
+            "Sauvegarde optionnelle du dossier Mods",
+            "Nettoyage des dossiers hors catalogue (apres confirmation)",
+            "Reglages: chemin de la derniere sauvegarde"
+          ]
+        },
+        "en": {
+          "title": "Verify installation tab",
+          "bullets": [
+            "New tab: scan Mods vs Protocol13 catalog",
+            "Optional full Mods folder backup",
+            "Remove unknown folders after confirmation",
+            "Settings shows last backup path"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.15",
