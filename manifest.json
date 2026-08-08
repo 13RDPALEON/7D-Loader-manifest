@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:26:23+02:00",
+  "updated_at": "2026-08-08T06:30:19+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Fix: onedir build (no Temp/_MEI python311.dll crash after install)"
+    "notes": "Test auto-update 0.1.10 -> 0.1.11 (onedir)"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -612,6 +612,17 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.11",
+      "date": "2026-08-08",
+      "title": "Test MAJ auto 0.1.10 -> 0.1.11",
+      "bullets": [
+        "Doit proposer la MAJ",
+        "Setup Inno manuel",
+        "Build onedir (pas de crash MEI)"
+      ]
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.10",
