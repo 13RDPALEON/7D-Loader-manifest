@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T20:43:20+02:00",
+  "updated_at": "2026-08-08T21:31:57+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.21",
+    "version": "0.1.22",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Drive→GitHub fallback + recherche mods",
+    "notes": "Optional mods/patches (anti false positives)",
     "security": {
-      "sha256": "67fc1aee573174554645f329623a40b6a1193a618595de368d4397a2600272bf",
-      "virustotal_url": "https://www.virustotal.com/gui/file/67fc1aee573174554645f329623a40b6a1193a618595de368d4397a2600272bf/detection",
+      "sha256": "05dfeec36850fb661f292a193cf28aaf227f43f67ab246e27f028ea4f5f566b3",
+      "virustotal_url": "https://www.virustotal.com/gui/file/05dfeec36850fb661f292a193cf28aaf227f43f67ab246e27f028ea4f5f566b3/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.21/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.22/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -691,6 +691,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.22",
+      "date": "2026-08-08",
+      "title": "Optional mods / patches",
+      "bullets": [
+        "Catalog flag optional: known by verify but never required/missing",
+        "Optional section in Mods tab; Full Pack excludes optionals",
+        "AEC Boss Damage Nerf moved to optional patches"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Mods / patchs optionnels",
+          "bullets": [
+            "Flag optional: connus du scan mais jamais manquants",
+            "Section Optionnels dans Mods; exclus du Full Pack",
+            "AEC Boss Damage Nerf passe en optionnel"
+          ]
+        },
+        "en": {
+          "title": "Optional mods / patches",
+          "bullets": [
+            "optional flag: known by verify but never required/missing",
+            "Optional section in Mods; excluded from Full Pack",
+            "AEC Boss Damage Nerf moved to optional"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.21",
