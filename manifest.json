@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:30:19+02:00",
+  "updated_at": "2026-08-08T06:35:24+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.11",
+    "version": "0.1.12",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Test auto-update 0.1.10 -> 0.1.11 (onedir)"
+    "notes": "Patch notes multilingues (fr/en/es/it/ru/ja/zh)"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -392,8 +392,8 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.6",
-      "file": "62_P13_LearnByDoing_v1.1.6.rar",
+      "version": "1.1.7",
+      "file": "62_P13_LearnByDoing_v1.1.7.rar",
       "file_id": "1nQHAffnKsVH3rFQhJ8QjHhrXiGSeuU5n",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
@@ -614,25 +614,133 @@
   "changelogs": [
     {
       "mod_id": "7d_loader",
-      "version": "0.1.11",
+      "version": "0.1.12",
       "date": "2026-08-08",
-      "title": "Test MAJ auto 0.1.10 -> 0.1.11",
+      "title": "Multilingual patch notes",
       "bullets": [
-        "Doit proposer la MAJ",
-        "Setup Inno manuel",
-        "Build onedir (pas de crash MEI)"
-      ]
+        "Patch notes follow UI language (fr/en/es/it/ru/ja/zh)",
+        "Manifest changelogs support i18n block"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Patch notes multilingues",
+          "bullets": [
+            "Les patch notes suivent la langue de l interface (fr/en/es/it/ru/ja/zh)",
+            "Les changelogs du manifest supportent un bloc i18n"
+          ]
+        },
+        "en": {
+          "title": "Multilingual patch notes",
+          "bullets": [
+            "Patch notes follow UI language (fr/en/es/it/ru/ja/zh)",
+            "Manifest changelogs support i18n block"
+          ]
+        },
+        "es": {
+          "title": "Notas de parche multilingues",
+          "bullets": [
+            "Las notas siguen el idioma de la interfaz",
+            "Los changelogs del manifest soportan bloque i18n"
+          ]
+        },
+        "it": {
+          "title": "Note patch multilingue",
+          "bullets": [
+            "Le note seguono la lingua dell interfaccia",
+            "I changelog del manifest supportano il blocco i18n"
+          ]
+        },
+        "ru": {
+          "title": "Многоязычные патчноуты",
+          "bullets": [
+            "Заметки следуют языку интерфейса",
+            "Changelogs манифеста поддерживают блок i18n"
+          ]
+        },
+        "ja": {
+          "title": "多言語パッチノート",
+          "bullets": [
+            "パッチノートはUI言語に追従",
+            "マニフェストのchangelogがi18nブロック対応"
+          ]
+        },
+        "zh": {
+          "title": "多语言更新说明",
+          "bullets": [
+            "更新说明跟随界面语言",
+            "清单 changelog 支持 i18n 块"
+          ]
+        }
+      }
     },
     {
-      "mod_id": "7d_loader",
-      "version": "0.1.10",
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.7",
       "date": "2026-08-08",
-      "title": "Fix crash apres install",
+      "title": "XP curve after level 60",
       "bullets": [
-        "Build onedir: plus d extraction Temp/_MEI",
-        "Corrige Failed to load Python DLL python311.dll",
-        "UPX desactive"
-      ]
+        "Threshold growth **−5%** from craft level **60** (`new = 1 + (old−1)×0.95`)",
+        "Below 60: unchanged multipliers (1.1.6 curve)",
+        "Existing characters keep current Thr; new multiply applies on next level-ups"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Courbe XP apres niveau 60",
+          "bullets": [
+            "Croissance des seuils **−5 %** a partir du niveau craft **60** (`new = 1 + (old−1)×0.95`)",
+            "Avant 60 : multiplicateurs inchanges (courbe 1.1.6)",
+            "Persos existants : seuil actuel garde ; nouveau multiplicateur au prochain level-up"
+          ]
+        },
+        "en": {
+          "title": "XP curve after level 60",
+          "bullets": [
+            "Threshold growth **−5%** from craft level **60** (`new = 1 + (old−1)×0.95`)",
+            "Below 60: unchanged multipliers (1.1.6 curve)",
+            "Existing characters keep current Thr; new multiply applies on next level-ups"
+          ]
+        },
+        "es": {
+          "title": "Curva de XP tras el nivel 60",
+          "bullets": [
+            "Crecimiento de umbrales **−5 %** desde el nivel de craft **60** (`new = 1 + (old−1)×0.95`)",
+            "Por debajo de 60: multiplicadores sin cambios (curva 1.1.6)",
+            "Personajes existentes conservan el Thr actual; el nuevo multiplicador aplica en el siguiente level-up"
+          ]
+        },
+        "it": {
+          "title": "Curva XP dopo il livello 60",
+          "bullets": [
+            "Crescita soglie **−5 %** dal livello craft **60** (`new = 1 + (old−1)×0.95`)",
+            "Sotto 60: moltiplicatori invariati (curva 1.1.6)",
+            "Personaggi esistenti mantengono il Thr attuale; il nuovo moltiplicatore al prossimo level-up"
+          ]
+        },
+        "ru": {
+          "title": "Кривая XP после уровня 60",
+          "bullets": [
+            "Рост порогов **−5 %** с крафт-уровня **60** (`new = 1 + (old−1)×0.95`)",
+            "Ниже 60: множители без изменений (кривая 1.1.6)",
+            "У существующих персонажей текущий Thr сохраняется; новый множитель — на следующем level-up"
+          ]
+        },
+        "ja": {
+          "title": "レベル60以降のXPカーブ",
+          "bullets": [
+            "クラフトレベル **60** 以降、閾値の伸びを **−5%**（`new = 1 + (old−1)×0.95`）",
+            "60未満は従来どおり（1.1.6）",
+            "既存キャラは現在のThrを維持。次のレベルアップから新倍率"
+          ]
+        },
+        "zh": {
+          "title": "60级后的经验曲线",
+          "bullets": [
+            "制作等级 **60** 起，阈值增长 **−5%**（`new = 1 + (old−1)×0.95`）",
+            "60级以下倍率不变（1.1.6曲线）",
+            "已有角色保留当前阈值；下次升级起使用新倍率"
+          ]
+        }
+      }
     },
     {
       "mod_id": "7d_loader",
@@ -695,6 +803,28 @@
         "Miner: nailgun removed (auger already present)",
         "Armed classes (Hunter / Police / Soldier): ammo 150 → 200",
         "ProgVer 4 / KitVer 3: existing characters get progression + kit supplements on login"
+      ]
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.11",
+      "date": "2026-08-08",
+      "title": "Test MAJ auto 0.1.10 -> 0.1.11",
+      "bullets": [
+        "Doit proposer la MAJ",
+        "Setup Inno manuel",
+        "Build onedir (pas de crash MEI)"
+      ]
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.10",
+      "date": "2026-08-08",
+      "title": "Fix crash apres install",
+      "bullets": [
+        "Build onedir: plus d extraction Temp/_MEI",
+        "Corrige Failed to load Python DLL python311.dll",
+        "UPX desactive"
       ]
     },
     {
