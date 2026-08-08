@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T21:50:10+02:00",
+  "updated_at": "2026-08-08T21:55:32+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -142,12 +142,12 @@
     {
       "id": "03_P13_MainMenu",
       "name": "Protocol 13 - Main Menu",
-      "version": "1.0.1",
-      "file": "03_P13_MainMenu_v1.0.1.rar",
+      "version": "1.0.2",
+      "file": "03_P13_MainMenu_v1.0.2.rar",
       "file_id": "1DNghKGCPV1xi5p-tO59oGLt3tgiFj3EF",
       "install_folder": "03_P13_MainMenu",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/03_P13_MainMenu_v1.0.1.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/03_P13_MainMenu_v1.0.2.rar"
     },
     {
       "id": "10_P13_CoreQoL",
@@ -691,6 +691,32 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.2",
+      "date": "2026-08-08",
+      "title": "Main Menu banner links visible",
+      "bullets": [
+        "Raise banner so credits and Discord/Loader URLs stay on screen",
+        "Hardcoded visible link lines under PROTOCOL 13"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Liens bandeau Main Menu visibles",
+          "bullets": [
+            "Banniere remontee pour credits + liens Discord/Loader",
+            "Lignes de liens visibles sous PROTOCOL 13"
+          ]
+        },
+        "en": {
+          "title": "Main Menu banner links visible",
+          "bullets": [
+            "Raise banner so credits and Discord/Loader URLs stay on screen",
+            "Hardcoded visible link lines under PROTOCOL 13"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "03_P13_MainMenu",
       "version": "1.0.1",
