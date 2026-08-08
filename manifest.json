@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T18:14:09+02:00",
+  "updated_at": "2026-08-08T19:22:14+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -404,7 +404,7 @@
       "file": "62_P13_LearnByDoing_v1.1.7.rar",
       "file_id": "1yAcD_3lrjQxh-ETmWdBPJaExVVGDwHq7",
       "install_folder": "62_P13_LearnByDoing",
-      "status": "stable",
+      "status": "alpha",
       "featured": true
     },
     {
@@ -522,7 +522,7 @@
       "file": "80_P13_Directive_v0.4.61.rar",
       "file_id": "1huNHXGLaQBJyoCGtfcf8CDTnOcjjzsq5",
       "install_folder": "80_P13_Directive",
-      "status": "stable",
+      "status": "updating",
       "featured": true
     },
     {
@@ -559,7 +559,7 @@
       "file": "P13_Classes_v0.1.4.rar",
       "file_id": "1ANNc0sFjSzOx0_0sKoXgCObS2TfkwRfS",
       "install_folder": "P13_Classes",
-      "status": "stable",
+      "status": "updating",
       "featured": true
     },
     {
@@ -569,7 +569,7 @@
       "file": "P13_GetAllBlocks_v0.1.11.rar",
       "file_id": "1bksY-5UayOx2ui2pXq2DQu9TUOgZIDaQ",
       "install_folder": "P13_GetAllBlocks",
-      "status": "stable",
+      "status": "alpha",
       "featured": true,
       "requires": [
         "00_P13_Harmony"
@@ -585,7 +585,7 @@
       "file": "P13_PerfectRecycler_v0.1.17.rar",
       "file_id": "1NWHaeJXAUJCDKR-ovLBZhrlXVtCGLwnU",
       "install_folder": "P13_PerfectRecycler",
-      "status": "stable",
+      "status": "alpha",
       "featured": true,
       "legacy_folders": [
         "PerfectRecycler"
