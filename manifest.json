@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:35:24+02:00",
+  "updated_at": "2026-08-08T06:45:30+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
@@ -394,7 +394,7 @@
       "name": "Learn By Doing",
       "version": "1.1.7",
       "file": "62_P13_LearnByDoing_v1.1.7.rar",
-      "file_id": "1nQHAffnKsVH3rFQhJ8QjHhrXiGSeuU5n",
+      "file_id": "1yAcD_3lrjQxh-ETmWdBPJaExVVGDwHq7",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true
@@ -547,8 +547,8 @@
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.3",
-      "file": "P13_Classes_v0.1.3.rar",
+      "version": "0.1.4",
+      "file": "P13_Classes_v0.1.4.rar",
       "file_id": "12K61hyBwZMxA-0uZ27aSH6Bmwb8bQE5w",
       "install_folder": "P13_Classes",
       "status": "stable",
@@ -612,67 +612,6 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.12",
-      "date": "2026-08-08",
-      "title": "Multilingual patch notes",
-      "bullets": [
-        "Patch notes follow UI language (fr/en/es/it/ru/ja/zh)",
-        "Manifest changelogs support i18n block"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Patch notes multilingues",
-          "bullets": [
-            "Les patch notes suivent la langue de l interface (fr/en/es/it/ru/ja/zh)",
-            "Les changelogs du manifest supportent un bloc i18n"
-          ]
-        },
-        "en": {
-          "title": "Multilingual patch notes",
-          "bullets": [
-            "Patch notes follow UI language (fr/en/es/it/ru/ja/zh)",
-            "Manifest changelogs support i18n block"
-          ]
-        },
-        "es": {
-          "title": "Notas de parche multilingues",
-          "bullets": [
-            "Las notas siguen el idioma de la interfaz",
-            "Los changelogs del manifest soportan bloque i18n"
-          ]
-        },
-        "it": {
-          "title": "Note patch multilingue",
-          "bullets": [
-            "Le note seguono la lingua dell interfaccia",
-            "I changelog del manifest supportano il blocco i18n"
-          ]
-        },
-        "ru": {
-          "title": "Многоязычные патчноуты",
-          "bullets": [
-            "Заметки следуют языку интерфейса",
-            "Changelogs манифеста поддерживают блок i18n"
-          ]
-        },
-        "ja": {
-          "title": "多言語パッチノート",
-          "bullets": [
-            "パッチノートはUI言語に追従",
-            "マニフェストのchangelogがi18nブロック対応"
-          ]
-        },
-        "zh": {
-          "title": "多语言更新说明",
-          "bullets": [
-            "更新说明跟随界面语言",
-            "清单 changelog 支持 i18n 块"
-          ]
-        }
-      }
-    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.7",
@@ -794,6 +733,67 @@
     },
     {
       "mod_id": "P13_Classes",
+      "version": "0.1.4",
+      "date": "2026-08-08",
+      "title": "Medic — medical craft",
+      "bullets": [
+        "Medic: `craftingMedical` **5 → 15** (+10 medical craft levels)",
+        "ProgVer **5**: existing Medics get the boost on next login"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Medecin — craft soin",
+          "bullets": [
+            "Medecin : `craftingMedical` **5 → 15** (+10 niveaux soin)",
+            "ProgVer **5** : les medecins existants recoivent le boost au prochain login"
+          ]
+        },
+        "en": {
+          "title": "Medic — medical craft",
+          "bullets": [
+            "Medic: `craftingMedical` **5 → 15** (+10 medical craft levels)",
+            "ProgVer **5**: existing Medics get the boost on next login"
+          ]
+        },
+        "es": {
+          "title": "Medico — craft de curacion",
+          "bullets": [
+            "Medico: `craftingMedical` **5 → 15** (+10 niveles)",
+            "ProgVer **5**: los medicos existentes reciben el boost al reiniciar sesion"
+          ]
+        },
+        "it": {
+          "title": "Medico — craft cure",
+          "bullets": [
+            "Medico: `craftingMedical` **5 → 15** (+10 livelli)",
+            "ProgVer **5**: i medici esistenti ricevono il boost al prossimo login"
+          ]
+        },
+        "ru": {
+          "title": "Медик — крафт лечения",
+          "bullets": [
+            "Медик: `craftingMedical` **5 → 15** (+10 уровней)",
+            "ProgVer **5**: существующие медики получают бонус при следующем входе"
+          ]
+        },
+        "ja": {
+          "title": "メディック — 医療クラフト",
+          "bullets": [
+            "メディック: `craftingMedical` **5 → 15**（+10）",
+            "ProgVer **5**: 既存メディックは次回ログインで適用"
+          ]
+        },
+        "zh": {
+          "title": "医生 — 医疗制作",
+          "bullets": [
+            "医生：`craftingMedical` **5 → 15**（+10级）",
+            "ProgVer **5**：已有医生角色下次登录生效"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_Classes",
       "version": "0.1.3",
       "date": "2026-08-08",
       "title": "Changes",
@@ -804,6 +804,67 @@
         "Armed classes (Hunter / Police / Soldier): ammo 150 → 200",
         "ProgVer 4 / KitVer 3: existing characters get progression + kit supplements on login"
       ]
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.12",
+      "date": "2026-08-08",
+      "title": "Multilingual patch notes",
+      "bullets": [
+        "Patch notes follow UI language (fr/en/es/it/ru/ja/zh)",
+        "Manifest changelogs support i18n block"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Patch notes multilingues",
+          "bullets": [
+            "Les patch notes suivent la langue de l interface (fr/en/es/it/ru/ja/zh)",
+            "Les changelogs du manifest supportent un bloc i18n"
+          ]
+        },
+        "en": {
+          "title": "Multilingual patch notes",
+          "bullets": [
+            "Patch notes follow UI language (fr/en/es/it/ru/ja/zh)",
+            "Manifest changelogs support i18n block"
+          ]
+        },
+        "es": {
+          "title": "Notas de parche multilingues",
+          "bullets": [
+            "Las notas siguen el idioma de la interfaz",
+            "Los changelogs del manifest soportan bloque i18n"
+          ]
+        },
+        "it": {
+          "title": "Note patch multilingue",
+          "bullets": [
+            "Le note seguono la lingua dell interfaccia",
+            "I changelog del manifest supportano il blocco i18n"
+          ]
+        },
+        "ru": {
+          "title": "Многоязычные патчноуты",
+          "bullets": [
+            "Заметки следуют языку интерфейса",
+            "Changelogs манифеста поддерживают блок i18n"
+          ]
+        },
+        "ja": {
+          "title": "多言語パッチノート",
+          "bullets": [
+            "パッチノートはUI言語に追従",
+            "マニフェストのchangelogがi18nブロック対応"
+          ]
+        },
+        "zh": {
+          "title": "多语言更新说明",
+          "bullets": [
+            "更新说明跟随界面语言",
+            "清单 changelog 支持 i18n 块"
+          ]
+        }
+      }
     },
     {
       "mod_id": "7d_loader",
