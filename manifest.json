@@ -5,21 +5,21 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T19:24:29+02:00",
+  "updated_at": "2026-08-08T19:28:03+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.13",
+    "version": "0.1.14",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "UI slides, 7Day Loader branding, patch notes i18n",
+    "notes": "UI polish: swipe slides, atmospheres, status colors, Classes roadmap",
     "security": {
-      "sha256": "b89c49105dca1231b8d43f2ea14f5c80683617c5d427608d234fc163c54caac9",
-      "virustotal_url": "https://www.virustotal.com/gui/file/b89c49105dca1231b8d43f2ea14f5c80683617c5d427608d234fc163c54caac9/detection",
-      "detections": "3/69",
-      "malicious": 3,
-      "total": 69,
-      "note": "Unsigned Inno/PyInstaller Setup — a few heuristic false positives are common. Prefer official Drive link; verify SHA256."
+      "sha256": "3680ca09508225968c02bb817fddb0b8f2ce257871009dc305386fe843f8728e",
+      "virustotal_url": "https://www.virustotal.com/gui/file/3680ca09508225968c02bb817fddb0b8f2ce257871009dc305386fe843f8728e/detection",
+      "detections": "pending",
+      "malicious": null,
+      "total": null,
+      "note": "Unsigned Inno/PyInstaller Setup — scan on VirusTotal after download; verify SHA256. Heuristic FPs are common."
     }
   },
   "social": {
@@ -627,6 +627,83 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.14",
+      "date": "2026-08-08",
+      "title": "UI polish + atmospheres",
+      "bullets": [
+        "Home/Patch/Futur: mouse wheel + Shift swipe on slides",
+        "Atmosphere backgrounds that actually show under CustomTkinter",
+        "Larger fonts, clearer mod status colors (stable/alpha/updating)",
+        "Roadmap: Classes rework item"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Accueil/Patch/Futur: molette + Shift pour glisser les slides",
+            "Fonds atmosphere visibles (CustomTkinter)",
+            "Polices plus grandes, couleurs de statut mods",
+            "Roadmap: refonte Classes"
+          ]
+        },
+        "en": {
+          "title": "UI polish + atmospheres",
+          "bullets": [
+            "Home/Patch/Futur: mouse wheel + Shift swipe on slides",
+            "Atmosphere backgrounds visible under CustomTkinter",
+            "Larger fonts, clearer mod status colors",
+            "Roadmap: Classes rework"
+          ]
+        },
+        "es": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Slides con rueda y Shift",
+            "Fondos atmosphere visibles",
+            "Fuentes y colores de estado",
+            "Roadmap: Classes"
+          ]
+        },
+        "it": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Slide con rotella e Shift",
+            "Sfondi atmosphere visibili",
+            "Font e colori stato",
+            "Roadmap: Classes"
+          ]
+        },
+        "ru": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Слайды: колесо и Shift",
+            "Видимые фоны atmosphere",
+            "Шрифты и цвета статусов",
+            "Roadmap: Classes"
+          ]
+        },
+        "ja": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "スライド: ホイールとShift",
+            "atmosphere背景を表示",
+            "フォントとステータス色",
+            "Roadmap: Classes"
+          ]
+        },
+        "zh": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "幻灯片：滚轮与Shift",
+            "显示atmosphere背景",
+            "更大字体与状态颜色",
+            "路线图：Classes"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.13",
