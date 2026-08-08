@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T20:04:46+02:00",
+  "updated_at": "2026-08-08T20:20:42+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.19",
+    "version": "0.1.20",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Bundled UnRAR — no WinRAR/7-Zip required",
+    "notes": "Fix tiny archive downloads (Pack Info)",
     "security": {
-      "sha256": "ef521ef685eff37d53d5585cbcd76cc91ae2a8d4acbea0d7d9dd1af907f4cbe3",
-      "virustotal_url": "https://www.virustotal.com/gui/file/ef521ef685eff37d53d5585cbcd76cc91ae2a8d4acbea0d7d9dd1af907f4cbe3/detection",
+      "sha256": "5f2f483b2fab31b9d55a78f22bcde1d509a4055556cb18e1291413470a321c38",
+      "virustotal_url": "https://www.virustotal.com/gui/file/5f2f483b2fab31b9d55a78f22bcde1d509a4055556cb18e1291413470a321c38/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.19/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.20/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -628,6 +628,32 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.20",
+      "date": "2026-08-08",
+      "title": "Fix Pack Info download",
+      "bullets": [
+        "Tiny RAR archives (Pack Info ~1KB) were wrongly rejected as empty",
+        "Downloads validated against HTML errors instead of a hard 1KB minimum"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix telechargement Pack Info",
+          "bullets": [
+            "Les petits RAR (Pack Info ~1 Ko) etaient refuses a tort",
+            "Validation HTML au lieu d un minimum strict de 1 Ko"
+          ]
+        },
+        "en": {
+          "title": "Fix Pack Info download",
+          "bullets": [
+            "Tiny RAR archives (Pack Info ~1KB) were wrongly rejected as empty",
+            "Validate HTML errors instead of a hard 1KB minimum"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.19",
