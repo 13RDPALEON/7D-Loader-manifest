@@ -5,22 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T19:28:03+02:00",
+  "updated_at": "2026-08-08T19:33:29+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.14",
+    "version": "0.1.15",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "UI polish: swipe slides, atmospheres, status colors, Classes roadmap",
+    "notes": "Auto-update via GitHub Releases (Drive quota workaround) + UI 0.1.14",
     "security": {
-      "sha256": "3680ca09508225968c02bb817fddb0b8f2ce257871009dc305386fe843f8728e",
-      "virustotal_url": "https://www.virustotal.com/gui/file/3680ca09508225968c02bb817fddb0b8f2ce257871009dc305386fe843f8728e/detection",
+      "sha256": "6238133cdd7f5d9839d602e4ed38a351c936dbd70a740004fa89f212c9310a7e",
+      "virustotal_url": "https://www.virustotal.com/gui/file/6238133cdd7f5d9839d602e4ed38a351c936dbd70a740004fa89f212c9310a7e/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
-      "note": "Unsigned Inno/PyInstaller Setup — scan on VirusTotal after download; verify SHA256. Heuristic FPs are common."
-    }
+      "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
+    },
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.15/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -627,6 +628,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.15",
+      "date": "2026-08-08",
+      "title": "Auto-update via GitHub",
+      "bullets": [
+        "App updates download from GitHub Releases first (avoids Drive quota)",
+        "Clearer errors when Drive returns virus-scan / quota HTML",
+        "Includes 0.1.14 UI polish"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "MAJ via GitHub",
+          "bullets": [
+            "Mise a jour launcher via GitHub Releases en priorite (quota Drive)",
+            "Messages d erreur Drive plus clairs (scan / quota)",
+            "Inclut le polish UI 0.1.14"
+          ]
+        },
+        "en": {
+          "title": "Auto-update via GitHub",
+          "bullets": [
+            "Launcher updates prefer GitHub Releases (Drive quota workaround)",
+            "Clearer Drive virus-scan / quota errors",
+            "Includes 0.1.14 UI polish"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.14",
