@@ -38,7 +38,7 @@
   "bundles": [
     {
       "id": "Protocol13_Full",
-      "name": "Full Pack (all mods)",
+      "name": "Full Pack (required mods)",
       "type": "bundle",
       "includes": [
         "00_P13_Harmony",
@@ -61,7 +61,6 @@
         "2C_P13_Izayo_Tech",
         "2D_P13_Izayo_Melee",
         "2E_P13_NoIzyKick",
-        "30_P13_AEC_BossExtreme",
         "31_P13_AEC_ExtendedQuests",
         "40_P13_MRAP",
         "41_P13_Rat",
@@ -97,6 +96,16 @@
       ],
       "status": "stable",
       "note": "No single archive — installs/updates every listed mod"
+    },
+    {
+      "id": "Protocol13_Optional",
+      "name": "Optional patches",
+      "type": "optional_bundle",
+      "includes": [
+        "30_P13_AEC_BossExtreme"
+      ],
+      "status": "stable",
+      "note": "Optional mods/patches — not required; not selected by Full Pack"
     }
   ],
   "mods": [
@@ -302,14 +311,15 @@
     },
     {
       "id": "30_P13_AEC_BossExtreme",
-      "name": "AEC Boss Damage Nerf",
+      "name": "AEC Boss Damage Nerf (optional)",
       "version": "3.0.7",
       "file": "30_P13_AEC_BossExtreme_v3.0.7.rar",
       "file_id": "1pSvtFoMPMYklzSNOOsbF32n_V_VgOanZ",
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.7.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.7.rar",
+      "optional": true
     },
     {
       "id": "31_P13_AEC_ExtendedQuests",
