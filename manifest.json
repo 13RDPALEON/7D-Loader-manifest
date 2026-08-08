@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T20:20:42+02:00",
+  "updated_at": "2026-08-08T20:23:12+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -547,8 +547,8 @@
     {
       "id": "99_P13_PackInfo",
       "name": "Pack Info",
-      "version": "0.1.9",
-      "file": "99_P13_PackInfo_v0.1.9.rar",
+      "version": "0.1.11",
+      "file": "99_P13_PackInfo_v0.1.11.rar",
       "file_id": "1oErJLuMx_Y3eNboYlN50PBG5o8LgPDbF",
       "install_folder": "99_P13_PackInfo",
       "status": "stable"
