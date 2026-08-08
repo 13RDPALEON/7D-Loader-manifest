@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T06:45:44+02:00",
+  "updated_at": "2026-08-08T17:57:05+02:00",
   "app": {
     "id": "7d_loader",
-    "name": "7D Loader",
-    "version": "0.1.12",
+    "name": "7Day Loader",
+    "version": "0.1.13",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Patch notes multilingues (fr/en/es/it/ru/ja/zh)"
+    "notes": "UI slides, 7Day Loader branding, patch notes i18n"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -613,83 +613,2537 @@
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
     {
-      "mod_id": "62_P13_LearnByDoing",
-      "version": "1.1.7",
+      "mod_id": "7d_loader",
+      "version": "0.1.13",
       "date": "2026-08-08",
-      "title": "XP curve after level 60",
+      "title": "UI refresh + 7Day Loader",
       "bullets": [
-        "Threshold growth **−5%** from craft level **60** (`new = 1 + (old−1)×0.95`)",
-        "Below 60: unchanged multipliers (1.1.6 curve)",
-        "Existing characters keep current Thr; new multiply applies on next level-ups"
+        "Patch notes and Futur: slide navigation",
+        "Mods list: clearer cards, faded backgrounds",
+        "Rebrand: 7Day Loader / 13RDPA Team"
       ],
       "i18n": {
         "fr": {
-          "title": "Courbe XP apres niveau 60",
+          "title": "UI + 7Day Loader",
           "bullets": [
-            "Croissance des seuils **−5 %** a partir du niveau craft **60** (`new = 1 + (old−1)×0.95`)",
-            "Avant 60 : multiplicateurs inchanges (courbe 1.1.6)",
-            "Persos existants : seuil actuel garde ; nouveau multiplicateur au prochain level-up"
+            "Patch notes et Futur: navigation par slides",
+            "Liste mods: cartes plus lisibles, fonds en fondu",
+            "Rebrand: 7Day Loader / 13RDPA Team",
+            "Aide install Windows / navigateur"
           ]
         },
         "en": {
-          "title": "XP curve after level 60",
+          "title": "UI refresh + 7Day Loader",
           "bullets": [
-            "Threshold growth **−5%** from craft level **60** (`new = 1 + (old−1)×0.95`)",
-            "Below 60: unchanged multipliers (1.1.6 curve)",
-            "Existing characters keep current Thr; new multiply applies on next level-ups"
+            "Patch notes and Futur: slide navigation",
+            "Mods list: clearer cards, faded backgrounds",
+            "Rebrand: 7Day Loader / 13RDPA Team",
+            "Windows / browser install help"
           ]
         },
         "es": {
-          "title": "Curva de XP tras el nivel 60",
+          "title": "UI + 7Day Loader",
           "bullets": [
-            "Crecimiento de umbrales **−5 %** desde el nivel de craft **60** (`new = 1 + (old−1)×0.95`)",
-            "Por debajo de 60: multiplicadores sin cambios (curva 1.1.6)",
-            "Personajes existentes conservan el Thr actual; el nuevo multiplicador aplica en el siguiente level-up"
+            "Slides en notas y Futur",
+            "Lista de mods mas clara",
+            "Rebrand 7Day Loader / 13RDPA Team"
           ]
         },
         "it": {
-          "title": "Curva XP dopo il livello 60",
+          "title": "UI + 7Day Loader",
           "bullets": [
-            "Crescita soglie **−5 %** dal livello craft **60** (`new = 1 + (old−1)×0.95`)",
-            "Sotto 60: moltiplicatori invariati (curva 1.1.6)",
-            "Personaggi esistenti mantengono il Thr attuale; il nuovo moltiplicatore al prossimo level-up"
+            "Slide note e Futur",
+            "Lista mods piu chiara",
+            "Rebrand 7Day Loader / 13RDPA Team"
           ]
         },
         "ru": {
-          "title": "Кривая XP после уровня 60",
+          "title": "UI + 7Day Loader",
           "bullets": [
-            "Рост порогов **−5 %** с крафт-уровня **60** (`new = 1 + (old−1)×0.95`)",
-            "Ниже 60: множители без изменений (кривая 1.1.6)",
-            "У существующих персонажей текущий Thr сохраняется; новый множитель — на следующем level-up"
+            "Слайды в заметках и Futur",
+            "Список модов читаемее",
+            "Ребрендинг 7Day Loader"
           ]
         },
         "ja": {
-          "title": "レベル60以降のXPカーブ",
+          "title": "UI + 7Day Loader",
           "bullets": [
-            "クラフトレベル **60** 以降、閾値の伸びを **−5%**（`new = 1 + (old−1)×0.95`）",
-            "60未満は従来どおり（1.1.6）",
-            "既存キャラは現在のThrを維持。次のレベルアップから新倍率"
+            "パッチノート/Futurをスライド化",
+            "Modsリスト改善",
+            "7Day Loaderにリブランド"
           ]
         },
         "zh": {
-          "title": "60级后的经验曲线",
+          "title": "UI + 7Day Loader",
           "bullets": [
-            "制作等级 **60** 起，阈值增长 **−5%**（`new = 1 + (old−1)×0.95`）",
-            "60级以下倍率不变（1.1.6曲线）",
-            "已有角色保留当前阈值；下次升级起使用新倍率"
+            "更新说明与Futur支持滑动",
+            "Mods列表更清晰",
+            "品牌更名为 7Day Loader"
           ]
         }
       }
     },
     {
-      "mod_id": "7d_loader",
-      "version": "0.1.9",
+      "mod_id": "50_P13_HUDPlus",
+      "version": "6.5.2",
       "date": "2026-08-08",
-      "title": "Test MAJ auto 0.1.8 -> 0.1.9",
+      "title": "Version 6.5.2",
       "bullets": [
-        "Doit proposer la MAJ",
-        "Doit telecharger le Setup et ouvrir l assistant Inno"
-      ]
+        "Release AGF HUDPlus 6.5.2"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 6.5.2",
+          "bullets": [
+            "Publication AGF HUDPlus 6.5.2"
+          ]
+        },
+        "en": {
+          "title": "Version 6.5.2",
+          "bullets": [
+            "Release AGF HUDPlus 6.5.2"
+          ]
+        },
+        "es": {
+          "title": "Versión 6.5.2",
+          "bullets": [
+            "Publicación AGF HUDPlus 6.5.2"
+          ]
+        },
+        "it": {
+          "title": "Versione 6.5.2",
+          "bullets": [
+            "Pubblicazione AGF HUDPlus 6.5.2"
+          ]
+        },
+        "ru": {
+          "title": "Версия 6.5.2",
+          "bullets": [
+            "Релиз AGF HUDPlus 6.5.2"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 6.5.2",
+          "bullets": [
+            "AGF HUDPlus 6.5.2 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 6.5.2",
+          "bullets": [
+            "发布 AGF HUDPlus 6.5.2"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_FluffyPandaPOI",
+      "version": "3.8.0.13",
+      "date": "2026-08-08",
+      "title": "Version 3.8.0.13",
+      "bullets": [
+        "Release Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.8.0.13",
+          "bullets": [
+            "Publication Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+          ]
+        },
+        "en": {
+          "title": "Version 3.8.0.13",
+          "bullets": [
+            "Release Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.8.0.13",
+          "bullets": [
+            "Publicación Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.8.0.13",
+          "bullets": [
+            "Pubblicazione Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.8.0.13",
+          "bullets": [
+            "Релиз Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.8.0.13",
+          "bullets": [
+            "Protocol 13 - Fluffy Panda POIs 3.8.0.13 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.8.0.13",
+          "bullets": [
+            "发布 Protocol 13 - Fluffy Panda POIs 3.8.0.13"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "30_P13_AEC_BossExtreme",
+      "version": "3.0.7",
+      "date": "2026-08-08",
+      "title": "Version 3.0.7",
+      "bullets": [
+        "Release AEC Boss Damage Nerf 3.0.7"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.7",
+          "bullets": [
+            "Publication AEC Boss Damage Nerf 3.0.7"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.7",
+          "bullets": [
+            "Release AEC Boss Damage Nerf 3.0.7"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.7",
+          "bullets": [
+            "Publicación AEC Boss Damage Nerf 3.0.7"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.7",
+          "bullets": [
+            "Pubblicazione AEC Boss Damage Nerf 3.0.7"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.7",
+          "bullets": [
+            "Релиз AEC Boss Damage Nerf 3.0.7"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.7",
+          "bullets": [
+            "AEC Boss Damage Nerf 3.0.7 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.7",
+          "bullets": [
+            "发布 AEC Boss Damage Nerf 3.0.7"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "70_P13_BeyondStorage3",
+      "version": "3.0.7",
+      "date": "2026-08-08",
+      "title": "Version 3.0.7",
+      "bullets": [
+        "Release Beyond Storage 3 3.0.7"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.7",
+          "bullets": [
+            "Publication Beyond Storage 3 3.0.7"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.7",
+          "bullets": [
+            "Release Beyond Storage 3 3.0.7"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.7",
+          "bullets": [
+            "Publicación Beyond Storage 3 3.0.7"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.7",
+          "bullets": [
+            "Pubblicazione Beyond Storage 3 3.0.7"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.7",
+          "bullets": [
+            "Релиз Beyond Storage 3 3.0.7"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.7",
+          "bullets": [
+            "Beyond Storage 3 3.0.7 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.7",
+          "bullets": [
+            "发布 Beyond Storage 3 3.0.7"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "31_P13_AEC_ExtendedQuests",
+      "version": "3.0.1",
+      "date": "2026-08-08",
+      "title": "Version 3.0.1",
+      "bullets": [
+        "Release AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.1",
+          "bullets": [
+            "Publication AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.1",
+          "bullets": [
+            "Release AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.1",
+          "bullets": [
+            "Publicación AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.1",
+          "bullets": [
+            "Pubblicazione AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.1",
+          "bullets": [
+            "Релиз AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.1",
+          "bullets": [
+            "AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.1",
+          "bullets": [
+            "发布 AEC_AIO_BOSS_EXTENDED_QUESTS 3.0.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "40_P13_MRAP",
+      "version": "3.0.0.1",
+      "date": "2026-08-08",
+      "title": "Version 3.0.0.1",
+      "bullets": [
+        "Release MRAP 3.0.0.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Publication MRAP 3.0.0.1"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Release MRAP 3.0.0.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.0.1",
+          "bullets": [
+            "Publicación MRAP 3.0.0.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.0.1",
+          "bullets": [
+            "Pubblicazione MRAP 3.0.0.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.0.1",
+          "bullets": [
+            "Релиз MRAP 3.0.0.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.0.1",
+          "bullets": [
+            "MRAP 3.0.0.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.0.1",
+          "bullets": [
+            "发布 MRAP 3.0.0.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "41_P13_Rat",
+      "version": "3.0.0.1",
+      "date": "2026-08-08",
+      "title": "Version 3.0.0.1",
+      "bullets": [
+        "Release Rat 3.0.0.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Publication Rat 3.0.0.1"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Release Rat 3.0.0.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.0.1",
+          "bullets": [
+            "Publicación Rat 3.0.0.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.0.1",
+          "bullets": [
+            "Pubblicazione Rat 3.0.0.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.0.1",
+          "bullets": [
+            "Релиз Rat 3.0.0.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.0.1",
+          "bullets": [
+            "Rat 3.0.0.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.0.1",
+          "bullets": [
+            "发布 Rat 3.0.0.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "42_P13_UH60",
+      "version": "3.0.0.1",
+      "date": "2026-08-08",
+      "title": "Version 3.0.0.1",
+      "bullets": [
+        "Release UH-60 3.0.0.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Publication UH-60 3.0.0.1"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Release UH-60 3.0.0.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.0.1",
+          "bullets": [
+            "Publicación UH-60 3.0.0.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.0.1",
+          "bullets": [
+            "Pubblicazione UH-60 3.0.0.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.0.1",
+          "bullets": [
+            "Релиз UH-60 3.0.0.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.0.1",
+          "bullets": [
+            "UH-60 3.0.0.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.0.1",
+          "bullets": [
+            "发布 UH-60 3.0.0.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "43_P13_WillyJeep",
+      "version": "3.0.0.1",
+      "date": "2026-08-08",
+      "title": "Version 3.0.0.1",
+      "bullets": [
+        "Release Willy Jeep 3.0.0.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Publication Willy Jeep 3.0.0.1"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.0.1",
+          "bullets": [
+            "Release Willy Jeep 3.0.0.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.0.1",
+          "bullets": [
+            "Publicación Willy Jeep 3.0.0.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.0.1",
+          "bullets": [
+            "Pubblicazione Willy Jeep 3.0.0.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.0.1",
+          "bullets": [
+            "Релиз Willy Jeep 3.0.0.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.0.1",
+          "bullets": [
+            "Willy Jeep 3.0.0.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.0.1",
+          "bullets": [
+            "发布 Willy Jeep 3.0.0.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "02_P13_IzayoWeaponFixes",
+      "version": "3.0.0.0",
+      "date": "2026-08-08",
+      "title": "Version 3.0.0.0",
+      "bullets": [
+        "Release Izayo_WeaponFixes 3.0.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.0.0",
+          "bullets": [
+            "Publication Izayo_WeaponFixes 3.0.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.0.0",
+          "bullets": [
+            "Release Izayo_WeaponFixes 3.0.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.0.0",
+          "bullets": [
+            "Publicación Izayo_WeaponFixes 3.0.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.0.0",
+          "bullets": [
+            "Pubblicazione Izayo_WeaponFixes 3.0.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.0.0",
+          "bullets": [
+            "Релиз Izayo_WeaponFixes 3.0.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.0.0",
+          "bullets": [
+            "Izayo_WeaponFixes 3.0.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.0.0",
+          "bullets": [
+            "发布 Izayo_WeaponFixes 3.0.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "72_P13_QuickPlaceBreak",
+      "version": "3.0",
+      "date": "2026-08-08",
+      "title": "Version 3.0.0.0",
+      "bullets": [
+        "Release Quick Placed Block Break (V3.0) 3.0.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.0.0",
+          "bullets": [
+            "Publication Quick Placed Block Break (V3.0) 3.0.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.0.0",
+          "bullets": [
+            "Release Quick Placed Block Break (V3.0) 3.0.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.0.0",
+          "bullets": [
+            "Publicación Quick Placed Block Break (V3.0) 3.0.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.0.0",
+          "bullets": [
+            "Pubblicazione Quick Placed Block Break (V3.0) 3.0.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.0.0",
+          "bullets": [
+            "Релиз Quick Placed Block Break (V3.0) 3.0.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.0.0",
+          "bullets": [
+            "Quick Placed Block Break (V3.0) 3.0.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.0.0",
+          "bullets": [
+            "发布 Quick Placed Block Break (V3.0) 3.0.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "60_P13_Insomnia",
+      "version": "2.0.0",
+      "date": "2026-08-08",
+      "title": "Version 2.0.0",
+      "bullets": [
+        "Release Byteblazar's 7 Days of Insomnia 2.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 2.0.0",
+          "bullets": [
+            "Publication Byteblazar's 7 Days of Insomnia 2.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 2.0.0",
+          "bullets": [
+            "Release Byteblazar's 7 Days of Insomnia 2.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 2.0.0",
+          "bullets": [
+            "Publicación Byteblazar's 7 Days of Insomnia 2.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 2.0.0",
+          "bullets": [
+            "Pubblicazione Byteblazar's 7 Days of Insomnia 2.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 2.0.0",
+          "bullets": [
+            "Релиз Byteblazar's 7 Days of Insomnia 2.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 2.0.0",
+          "bullets": [
+            "Byteblazar's 7 Days of Insomnia 2.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 2.0.0",
+          "bullets": [
+            "发布 Byteblazar's 7 Days of Insomnia 2.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "61_P13_InsomniaOverrides",
+      "version": "2.0.0",
+      "date": "2026-08-08",
+      "title": "Version 2.0.0",
+      "bullets": [
+        "Release Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 2.0.0",
+          "bullets": [
+            "Publication Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 2.0.0",
+          "bullets": [
+            "Release Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 2.0.0",
+          "bullets": [
+            "Publicación Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 2.0.0",
+          "bullets": [
+            "Pubblicazione Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 2.0.0",
+          "bullets": [
+            "Релиз Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 2.0.0",
+          "bullets": [
+            "Byteblazar's 7 Days of Insomnia - Overrides 2.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 2.0.0",
+          "bullets": [
+            "发布 Byteblazar's 7 Days of Insomnia - Overrides 2.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "73_P13_StopFuelWaste",
+      "version": "1.3.1",
+      "date": "2026-08-08",
+      "title": "Version 1.3.1",
+      "bullets": [
+        "Release Stop Fuel Waste 1.3.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.3.1",
+          "bullets": [
+            "Publication Stop Fuel Waste 1.3.1"
+          ]
+        },
+        "en": {
+          "title": "Version 1.3.1",
+          "bullets": [
+            "Release Stop Fuel Waste 1.3.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.3.1",
+          "bullets": [
+            "Publicación Stop Fuel Waste 1.3.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.3.1",
+          "bullets": [
+            "Pubblicazione Stop Fuel Waste 1.3.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.3.1",
+          "bullets": [
+            "Релиз Stop Fuel Waste 1.3.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.3.1",
+          "bullets": [
+            "Stop Fuel Waste 1.3.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.3.1",
+          "bullets": [
+            "发布 Stop Fuel Waste 1.3.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "54_P13_Markers",
+      "version": "1.3.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.3.0.0",
+      "bullets": [
+        "Release Markers (Example Web Mod) 1.3.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.3.0.0",
+          "bullets": [
+            "Publication Markers (Example Web Mod) 1.3.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.3.0.0",
+          "bullets": [
+            "Release Markers (Example Web Mod) 1.3.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.3.0.0",
+          "bullets": [
+            "Publicación Markers (Example Web Mod) 1.3.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.3.0.0",
+          "bullets": [
+            "Pubblicazione Markers (Example Web Mod) 1.3.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.3.0.0",
+          "bullets": [
+            "Релиз Markers (Example Web Mod) 1.3.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.3.0.0",
+          "bullets": [
+            "Markers (Example Web Mod) 1.3.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.3.0.0",
+          "bullets": [
+            "发布 Markers (Example Web Mod) 1.3.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "71_P13_RepairVision",
+      "version": "1.3.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.3.0.0",
+      "bullets": [
+        "Release RepairVision 1.3.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.3.0.0",
+          "bullets": [
+            "Publication RepairVision 1.3.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.3.0.0",
+          "bullets": [
+            "Release RepairVision 1.3.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.3.0.0",
+          "bullets": [
+            "Publicación RepairVision 1.3.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.3.0.0",
+          "bullets": [
+            "Pubblicazione RepairVision 1.3.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.3.0.0",
+          "bullets": [
+            "Релиз RepairVision 1.3.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.3.0.0",
+          "bullets": [
+            "RepairVision 1.3.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.3.0.0",
+          "bullets": [
+            "发布 RepairVision 1.3.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "76_P13_CommandExtensions",
+      "version": "1.3.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.3.0.0",
+      "bullets": [
+        "Release Server Command Extensions 1.3.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.3.0.0",
+          "bullets": [
+            "Publication Server Command Extensions 1.3.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.3.0.0",
+          "bullets": [
+            "Release Server Command Extensions 1.3.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.3.0.0",
+          "bullets": [
+            "Publicación Server Command Extensions 1.3.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.3.0.0",
+          "bullets": [
+            "Pubblicazione Server Command Extensions 1.3.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.3.0.0",
+          "bullets": [
+            "Релиз Server Command Extensions 1.3.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.3.0.0",
+          "bullets": [
+            "Server Command Extensions 1.3.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.3.0.0",
+          "bullets": [
+            "发布 Server Command Extensions 1.3.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "67_P13_NerfHostileChickens",
+      "version": "1.2.1",
+      "date": "2026-08-08",
+      "title": "Version 1.2.1",
+      "bullets": [
+        "Release Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.2.1",
+          "bullets": [
+            "Publication Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+          ]
+        },
+        "en": {
+          "title": "Version 1.2.1",
+          "bullets": [
+            "Release Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.2.1",
+          "bullets": [
+            "Publicación Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.2.1",
+          "bullets": [
+            "Pubblicazione Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.2.1",
+          "bullets": [
+            "Релиз Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.2.1",
+          "bullets": [
+            "Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.2.1",
+          "bullets": [
+            "发布 Protocol 13 - Remove / Nerf Hostile Chickens 1.2.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "63_P13_FancyZombies",
+      "version": "1.2.0",
+      "date": "2026-08-08",
+      "title": "Version 1.2.0",
+      "bullets": [
+        "Release LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.2.0",
+          "bullets": [
+            "Publication LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.2.0",
+          "bullets": [
+            "Release LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.2.0",
+          "bullets": [
+            "Publicación LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.2.0",
+          "bullets": [
+            "Pubblicazione LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.2.0",
+          "bullets": [
+            "Релиз LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.2.0",
+          "bullets": [
+            "LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.2.0",
+          "bullets": [
+            "发布 LittleRedSonja Fancy Zombie Variants - Full Quality Version 1.2.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.7",
+      "date": "2026-08-08",
+      "title": "XP curve after level 60",
+      "bullets": [
+        "Threshold growth −5% from craft level 60",
+        "Below 60: unchanged (1.1.6 curve)",
+        "Existing characters keep current Thr; new multiply on next level-ups"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Courbe XP apres niveau 60",
+          "bullets": [
+            "Croissance des seuils −5 % a partir du niveau craft 60",
+            "Avant 60 : multiplicateurs 1.1.6 inchanges",
+            "Persos existants : Thr actuel garde ; nouveau multiply au prochain level-up"
+          ]
+        },
+        "en": {
+          "title": "XP curve after level 60",
+          "bullets": [
+            "Threshold growth −5% from craft level 60",
+            "Below 60: unchanged (1.1.6 curve)",
+            "Existing characters keep current Thr; new multiply on next level-ups"
+          ]
+        },
+        "es": {
+          "title": "Curva de XP tras el nivel 60",
+          "bullets": [
+            "Crecimiento de umbrales −5 % desde el nivel 60",
+            "Por debajo de 60: sin cambios",
+            "Personajes existentes conservan el Thr actual"
+          ]
+        },
+        "it": {
+          "title": "Curva XP dopo il livello 60",
+          "bullets": [
+            "Crescita soglie −5 % dal livello 60",
+            "Sotto 60: invariato",
+            "Personaggi esistenti mantengono il Thr"
+          ]
+        },
+        "ru": {
+          "title": "Кривая XP после уровня 60",
+          "bullets": [
+            "Рост порогов −5 % с уровня 60",
+            "Ниже 60 без изменений",
+            "Текущий Thr сохраняется"
+          ]
+        },
+        "ja": {
+          "title": "レベル60以降のXPカーブ",
+          "bullets": [
+            "レベル60以降、閾値の伸び −5%",
+            "60未満は従来どおり",
+            "既存キャラはThr維持"
+          ]
+        },
+        "zh": {
+          "title": "60级后的经验曲线",
+          "bullets": [
+            "60级起阈值增长 −5%",
+            "60以下不变",
+            "已有角色保留当前阈值"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "01_P13_SoundOverride",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release Alter_Soundoverride 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication Alter_Soundoverride 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release Alter_Soundoverride 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación Alter_Soundoverride 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione Alter_Soundoverride 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз Alter_Soundoverride 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "Alter_Soundoverride 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 Alter_Soundoverride 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "20_P13_Izayo_FPVGloves",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_FPV_GLOVES 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_FPV_GLOVES 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_FPV_GLOVES 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_FPV_GLOVES 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_FPV_GLOVES 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_FPV_GLOVES 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_FPV_GLOVES 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_FPV_GLOVES 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "21_P13_Izayo_VisibleMods",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_MMVMV2 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_MMVMV2 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_MMVMV2 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_MMVMV2 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_MMVMV2 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_MMVMV2 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_MMVMV2 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_MMVMV2 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "22_P13_Izayo_VanillaReplacer",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_VRP 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_VRP 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_VRP 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_VRP 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_VRP 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_VRP 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_VRP 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_VRP 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "23_P13_Izayo_Misc",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_Miscpack 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_Miscpack 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_Miscpack 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_Miscpack 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_Miscpack 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_Miscpack 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_Miscpack 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_Miscpack 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "24_P13_Izayo_44mag",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_44magnum 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_44magnum 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_44magnum 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_44magnum 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_44magnum 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_44magnum 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_44magnum 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_44magnum 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "25_P13_Izayo_45ACP",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_45ACP 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_45ACP 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_45ACP 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_45ACP 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_45ACP 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_45ACP 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_45ACP 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_45ACP 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "26_P13_Izayo_556",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_556 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_556 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_556 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_556 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_556 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_556 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_556 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_556 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "27_P13_Izayo_762",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_762pack 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_762pack 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_762pack 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_762pack 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_762pack 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_762pack 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_762pack 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_762pack 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "28_P13_Izayo_9mm",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_9mmVAL 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_9mmVAL 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_9mmVAL 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_9mmVAL 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_9mmVAL 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_9mmVAL 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_9mmVAL 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_9mmVAL 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "29_P13_Izayo_Shotgun",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_SG 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_SG 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_SG 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_SG 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_SG 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_SG 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_SG 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_SG 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2A_P13_Izayo_Demo",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_Demopack 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_Demopack 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_Demopack 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_Demopack 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_Demopack 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_Demopack 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_Demopack 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_Demopack 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2B_P13_Izayo_Heavy",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_HVW 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_HVW 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_HVW 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_HVW 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_HVW 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_HVW 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_HVW 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_HVW 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2C_P13_Izayo_Tech",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_RMP_Tech 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_RMP_Tech 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_RMP_Tech 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_RMP_Tech 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_RMP_Tech 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_RMP_Tech 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_RMP_Tech 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_RMP_Tech 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2D_P13_Izayo_Melee",
+      "version": "1.1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.1.0.4",
+      "bullets": [
+        "Release IZY_melee 1.1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Publication IZY_melee 1.1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.0.4",
+          "bullets": [
+            "Release IZY_melee 1.1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.1.0.4",
+          "bullets": [
+            "Publicación IZY_melee 1.1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.1.0.4",
+          "bullets": [
+            "Pubblicazione IZY_melee 1.1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.1.0.4",
+          "bullets": [
+            "Релиз IZY_melee 1.1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.1.0.4",
+          "bullets": [
+            "IZY_melee 1.1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.1.0.4",
+          "bullets": [
+            "发布 IZY_melee 1.1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "51_P13_LoadmasterBackpacks",
+      "version": "1.0.4",
+      "date": "2026-08-08",
+      "title": "Version 1.0.4",
+      "bullets": [
+        "Release Loadmaster Backpacks 1.0.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.4",
+          "bullets": [
+            "Publication Loadmaster Backpacks 1.0.4"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.4",
+          "bullets": [
+            "Release Loadmaster Backpacks 1.0.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.4",
+          "bullets": [
+            "Publicación Loadmaster Backpacks 1.0.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.4",
+          "bullets": [
+            "Pubblicazione Loadmaster Backpacks 1.0.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.4",
+          "bullets": [
+            "Релиз Loadmaster Backpacks 1.0.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.4",
+          "bullets": [
+            "Loadmaster Backpacks 1.0.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.4",
+          "bullets": [
+            "发布 Loadmaster Backpacks 1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2E_P13_NoIzyKick",
+      "version": "1.0.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0.0",
+      "bullets": [
+        "Release No Izayo Kick (restore headlamp on F) 1.0.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0.0",
+          "bullets": [
+            "Publication No Izayo Kick (restore headlamp on F) 1.0.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0.0",
+          "bullets": [
+            "Release No Izayo Kick (restore headlamp on F) 1.0.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0.0",
+          "bullets": [
+            "Publicación No Izayo Kick (restore headlamp on F) 1.0.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0.0",
+          "bullets": [
+            "Pubblicazione No Izayo Kick (restore headlamp on F) 1.0.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0.0",
+          "bullets": [
+            "Релиз No Izayo Kick (restore headlamp on F) 1.0.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0.0",
+          "bullets": [
+            "No Izayo Kick (restore headlamp on F) 1.0.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0.0",
+          "bullets": [
+            "发布 No Izayo Kick (restore headlamp on F) 1.0.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "52_P13_PonsMiniMap",
+      "version": "1.0.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0.0",
+      "bullets": [
+        "Release Pon's MiniMap 1.0.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0.0",
+          "bullets": [
+            "Publication Pon's MiniMap 1.0.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0.0",
+          "bullets": [
+            "Release Pon's MiniMap 1.0.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0.0",
+          "bullets": [
+            "Publicación Pon's MiniMap 1.0.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0.0",
+          "bullets": [
+            "Pubblicazione Pon's MiniMap 1.0.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0.0",
+          "bullets": [
+            "Релиз Pon's MiniMap 1.0.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0.0",
+          "bullets": [
+            "Pon's MiniMap 1.0.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0.0",
+          "bullets": [
+            "发布 Pon's MiniMap 1.0.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "65_P13_AntiChuck",
+      "version": "1.0.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0.0",
+      "bullets": [
+        "Release Anti Chuck 1.0.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0.0",
+          "bullets": [
+            "Publication Anti Chuck 1.0.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0.0",
+          "bullets": [
+            "Release Anti Chuck 1.0.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0.0",
+          "bullets": [
+            "Publicación Anti Chuck 1.0.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0.0",
+          "bullets": [
+            "Pubblicazione Anti Chuck 1.0.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0.0",
+          "bullets": [
+            "Релиз Anti Chuck 1.0.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0.0",
+          "bullets": [
+            "Anti Chuck 1.0.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0.0",
+          "bullets": [
+            "发布 Anti Chuck 1.0.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Release Protocol 13 - Main Menu 1.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Publication Protocol 13 - Main Menu 1.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Release Protocol 13 - Main Menu 1.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Publicación Protocol 13 - Main Menu 1.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Pubblicazione Protocol 13 - Main Menu 1.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Релиз Protocol 13 - Main Menu 1.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "Protocol 13 - Main Menu 1.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "发布 Protocol 13 - Main Menu 1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "44_P13_VehicleGoFast",
+      "version": "1.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Release [RS] Vehicle Go Fast 1.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Publication [RS] Vehicle Go Fast 1.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Release [RS] Vehicle Go Fast 1.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Publicación [RS] Vehicle Go Fast 1.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Pubblicazione [RS] Vehicle Go Fast 1.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Релиз [RS] Vehicle Go Fast 1.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "[RS] Vehicle Go Fast 1.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "发布 [RS] Vehicle Go Fast 1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "64_P13_UnnaturalEncounters",
+      "version": "1.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Release [RS] Unnatural Encounters 1.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Publication [RS] Unnatural Encounters 1.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Release [RS] Unnatural Encounters 1.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Publicación [RS] Unnatural Encounters 1.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Pubblicazione [RS] Unnatural Encounters 1.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Релиз [RS] Unnatural Encounters 1.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "[RS] Unnatural Encounters 1.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "发布 [RS] Unnatural Encounters 1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "66_P13_DeadlyCrawlers",
+      "version": "1.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Release Protocol 13 - Deadly Crawlers 1.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Publication Protocol 13 - Deadly Crawlers 1.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Release Protocol 13 - Deadly Crawlers 1.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Publicación Protocol 13 - Deadly Crawlers 1.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Pubblicazione Protocol 13 - Deadly Crawlers 1.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Релиз Protocol 13 - Deadly Crawlers 1.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "Protocol 13 - Deadly Crawlers 1.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "发布 Protocol 13 - Deadly Crawlers 1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "74_P13_LovelyLootBags",
+      "version": "1.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Release Lovely Loot Bags 1.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Publication Lovely Loot Bags 1.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Release Lovely Loot Bags 1.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Publicación Lovely Loot Bags 1.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Pubblicazione Lovely Loot Bags 1.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Релиз Lovely Loot Bags 1.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "Lovely Loot Bags 1.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "发布 Lovely Loot Bags 1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "75_P13_Honey",
+      "version": "1.0.0",
+      "date": "2026-08-08",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Release Consistent Honey from Stumps 1.0.0"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Publication Consistent Honey from Stumps 1.0.0"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Release Consistent Honey from Stumps 1.0.0"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Publicación Consistent Honey from Stumps 1.0.0"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Pubblicazione Consistent Honey from Stumps 1.0.0"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Релиз Consistent Honey from Stumps 1.0.0"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "Consistent Honey from Stumps 1.0.0 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "发布 Consistent Honey from Stumps 1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.4.61",
+      "date": "2026-08-08",
+      "title": "Fix — forced POI types",
+      "bullets": [
+        "Removed VanillaTagOverrides",
+        "Campaign clears use vanilla clear pool"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        },
+        "en": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        },
+        "es": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        },
+        "it": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        },
+        "ru": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        },
+        "ja": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        },
+        "zh": {
+          "title": "Fix — forced POI types",
+          "bullets": [
+            "Removed VanillaTagOverrides",
+            "Campaign clears use vanilla clear pool"
+          ]
+        }
+      }
     },
     {
       "mod_id": "7d_loader",
@@ -732,62 +3186,107 @@
       ]
     },
     {
-      "mod_id": "P13_Classes",
-      "version": "0.1.4",
+      "mod_id": "10_P13_CoreQoL",
+      "version": "0.1.5",
       "date": "2026-08-08",
-      "title": "Medic — medical craft",
+      "title": "Version 0.1.5",
       "bullets": [
-        "Medic: `craftingMedical` **5 → 15** (+10 medical craft levels)",
-        "ProgVer **5**: existing Medics get the boost on next login"
+        "Release Protocol 13 - Core QoL 0.1.5"
       ],
       "i18n": {
         "fr": {
-          "title": "Medecin — craft soin",
+          "title": "Version 0.1.5",
           "bullets": [
-            "Medecin : `craftingMedical` **5 → 15** (+10 niveaux soin)",
-            "ProgVer **5** : les medecins existants recoivent le boost au prochain login"
+            "Publication Protocol 13 - Core QoL 0.1.5"
           ]
         },
         "en": {
-          "title": "Medic — medical craft",
+          "title": "Version 0.1.5",
           "bullets": [
-            "Medic: `craftingMedical` **5 → 15** (+10 medical craft levels)",
-            "ProgVer **5**: existing Medics get the boost on next login"
+            "Release Protocol 13 - Core QoL 0.1.5"
           ]
         },
         "es": {
-          "title": "Medico — craft de curacion",
+          "title": "Versión 0.1.5",
           "bullets": [
-            "Medico: `craftingMedical` **5 → 15** (+10 niveles)",
-            "ProgVer **5**: los medicos existentes reciben el boost al reiniciar sesion"
+            "Publicación Protocol 13 - Core QoL 0.1.5"
           ]
         },
         "it": {
-          "title": "Medico — craft cure",
+          "title": "Versione 0.1.5",
           "bullets": [
-            "Medico: `craftingMedical` **5 → 15** (+10 livelli)",
-            "ProgVer **5**: i medici esistenti ricevono il boost al prossimo login"
+            "Pubblicazione Protocol 13 - Core QoL 0.1.5"
           ]
         },
         "ru": {
-          "title": "Медик — крафт лечения",
+          "title": "Версия 0.1.5",
           "bullets": [
-            "Медик: `craftingMedical` **5 → 15** (+10 уровней)",
-            "ProgVer **5**: существующие медики получают бонус при следующем входе"
+            "Релиз Protocol 13 - Core QoL 0.1.5"
           ]
         },
         "ja": {
-          "title": "メディック — 医療クラフト",
+          "title": "バージョン 0.1.5",
           "bullets": [
-            "メディック: `craftingMedical` **5 → 15**（+10）",
-            "ProgVer **5**: 既存メディックは次回ログインで適用"
+            "Protocol 13 - Core QoL 0.1.5 を公開"
           ]
         },
         "zh": {
-          "title": "医生 — 医疗制作",
+          "title": "版本 0.1.5",
           "bullets": [
-            "医生：`craftingMedical` **5 → 15**（+10级）",
-            "ProgVer **5**：已有医生角色下次登录生效"
+            "发布 Protocol 13 - Core QoL 0.1.5"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_Classes",
+      "version": "0.1.4",
+      "date": "2026-08-08",
+      "title": "Version 0.1.4",
+      "bullets": [
+        "Release Classes 0.1.4"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.1.4",
+          "bullets": [
+            "Publication Classes 0.1.4"
+          ]
+        },
+        "en": {
+          "title": "Version 0.1.4",
+          "bullets": [
+            "Release Classes 0.1.4"
+          ]
+        },
+        "es": {
+          "title": "Versión 0.1.4",
+          "bullets": [
+            "Publicación Classes 0.1.4"
+          ]
+        },
+        "it": {
+          "title": "Versione 0.1.4",
+          "bullets": [
+            "Pubblicazione Classes 0.1.4"
+          ]
+        },
+        "ru": {
+          "title": "Версия 0.1.4",
+          "bullets": [
+            "Релиз Classes 0.1.4"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 0.1.4",
+          "bullets": [
+            "Classes 0.1.4 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 0.1.4",
+          "bullets": [
+            "发布 Classes 0.1.4"
           ]
         }
       }
@@ -803,6 +3302,42 @@
         "Miner: nailgun removed (auger already present)",
         "Armed classes (Hunter / Police / Soldier): ammo 150 → 200",
         "ProgVer 4 / KitVer 3: existing characters get progression + kit supplements on login"
+      ]
+    },
+    {
+      "mod_id": "P13_PerfectRecycler",
+      "version": "0.1.17",
+      "date": "2026-08-08",
+      "title": "v0.1.15",
+      "bullets": [
+        "Prompt text: \"Open Recycler\" / \"Ouvrir Recycleur\" instead of Search/Fouiller",
+        "Fix OUTPUT items vanishing when taken to inventory: loot-style per-slot UpdateSlot (no bulk rewrite), TE change listeners instead of polling refresh, pause scrap while dragging",
+        "Fix no OUTPUT while UI open: client owns scrap while accessing the TE (server writes were ignored); server scrap only when UI closed",
+        "Fix open sound delayed ~10s: play combine_station_open immediately with UI; open_time=0; stop Unlock on open (LockManager)",
+        "Fix scrap UI loop with no OUTPUT: client waits for server after countdown; server registers on UpdateSlot + SetModified right after finish",
+        "Fix scrap time: use vanilla formula (scales with output amount), then 1.10x speed — no more ~0.4s for big stacks",
+        "Fix MP: only server/host processes scrap (stops client+server double-speed and item vanish when taking OUTPUT)",
+        "Fix UI: don't refresh grids while dragging; unlock TE lock on close like vanilla loot; always SetModified on slot writes",
+        "Scrap like backpack: INPUT always finishes; yield goes to an unlimited pending queue, then drains into OUTPUT when there is space (40 / 400 / 10000 radiators OK)",
+        "Fix items that never finished scrap (timer loop): allow partial output + spill to other output slots when yield exceeds stack size",
+        "Fix queue blocked when paired OUTPUT still holds scrap: merge/spill into other OUTPUT slots so INPUT can keep recycling",
+        "Balance: scrap speed 1.10x vs backpack (faster than backpack again)",
+        "Docs updated (README, Discord announce/changelog, website)",
+        "Balance: scrap speed 0.80x vs backpack (was 1.25x)",
+        "Fix timer stuck on 00:00: show real countdown (e.g. 7.2s), stop vanilla UpdateTimer overwrite",
+        "Balance: +25% yield (was +50%), 1.25x speed (was 2x)",
+        "Fix scrap timers not showing on input slots (requires IsLocked + label text)",
+        "Fix Harmony crash on launch (wrong OpenLooting parameter name)",
+        "Dedicated UI with separate INPUT / OUTPUT slot groups",
+        "Timers on input slots while recycling",
+        "Fix display names FR **Recycleur** / EN **Recycler** (V3.1 localization columns)",
+        "Fix recycling: top-row queues now process into bottom-row outputs",
+        "New station block `perfectRecycler` (combine-station mesh, green tint `6ECF6E`)",
+        "Combine-station open/close/complete sounds",
+        "Storage UI: 10 queue slots + 10 output slots",
+        "Parallel scrap: +50% yield, 2x speed vs backpack",
+        "Unlock: craftingWorkstations level 10 (with workbench)",
+        "Recipe: 150 nails, 100 polymer, 1 battery, 500 wood, 20 electric parts"
       ]
     },
     {
@@ -867,14 +3402,98 @@
       }
     },
     {
-      "mod_id": "7d_loader",
+      "mod_id": "99_P13_PackInfo",
       "version": "0.1.11",
       "date": "2026-08-08",
-      "title": "Test MAJ auto 0.1.10 -> 0.1.11",
+      "title": "Version 0.1.11",
       "bullets": [
-        "Doit proposer la MAJ",
-        "Setup Inno manuel",
-        "Build onedir (pas de crash MEI)"
+        "Release Pack Info 0.1.11"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.1.11",
+          "bullets": [
+            "Publication Pack Info 0.1.11"
+          ]
+        },
+        "en": {
+          "title": "Version 0.1.11",
+          "bullets": [
+            "Release Pack Info 0.1.11"
+          ]
+        },
+        "es": {
+          "title": "Versión 0.1.11",
+          "bullets": [
+            "Publicación Pack Info 0.1.11"
+          ]
+        },
+        "it": {
+          "title": "Versione 0.1.11",
+          "bullets": [
+            "Pubblicazione Pack Info 0.1.11"
+          ]
+        },
+        "ru": {
+          "title": "Версия 0.1.11",
+          "bullets": [
+            "Релиз Pack Info 0.1.11"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 0.1.11",
+          "bullets": [
+            "Pack Info 0.1.11 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 0.1.11",
+          "bullets": [
+            "发布 Pack Info 0.1.11"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.11",
+      "date": "2026-08-08",
+      "title": "0.1.9 — 2026-08-04",
+      "bullets": [
+        "Fix : plus de spam Harmony `cmds` / `BlockCompositeTileEntity` (recycleur, etc.)",
+        "Fix: no more Harmony `cmds` / `BlockCompositeTileEntity` spam (recycler, etc.)",
+        "Fix : upgrader / réparer un bloc monde ne le rend plus récupérable",
+        "Seule la pose air→bloc revendique la propriété",
+        "Fix: upgrading / repairing a world block no longer makes it recoverable",
+        "Only air→block placement claims ownership",
+        "Fix : les dégâts ne revendiquent plus la propriété (Take sur blocs monde)",
+        "Moins de WRN Harmony au boot",
+        "Fix: damage no longer claims ownership (Take on world blocks)",
+        "Fewer Harmony WRNs at boot",
+        "Fix : récupération des blocs joueur cassée (faux positif sur `Block.cmds` de base)",
+        "Fix: player-block recover broken (false positive on base `Block.cmds`)",
+        "Ignore les blocs qui ont déjà un Take vanilla (ateliers, feux, poulaillers, powered…)",
+        "Sync serveur → clients des blocs posés (récupération OK après restart)",
+        "Skip blocks that already have vanilla Take (workstations, campfires, coops, powered…)",
+        "Server → client sync of placed blocks (recover works after restart)",
+        "Délai de récupération : **2 s**",
+        "Nom affiché : **Get All Blocks**",
+        "Recover delay: **2 s**",
+        "Display name: **Get All Blocks**",
+        "UX alignée sur le ramassage vanilla (**Prendre**)",
+        "Prompt / touche gérés par le jeu (PC ou manette)",
+        "Compatible mods pièges `CanPickup` (pas de 2e option)",
+        "Délai 5 s annulable",
+        "UX aligned with vanilla **Take**",
+        "Prompt / bind handled by the game (PC or controller)",
+        "Compatible with `CanPickup` trap mods (no second option)",
+        "5 s cancellable delay",
+        "Correctifs localisation et détection périphérique",
+        "Localization and input-device detection fixes",
+        "Première version : récupération des blocs posés dans ton claim",
+        "Harmony + EAC OFF",
+        "Initial release: recover blocks you placed in your claim",
+        "Harmony + EAC OFF"
       ]
     },
     {
@@ -889,56 +3508,57 @@
       ]
     },
     {
-      "mod_id": "80_P13_Directive",
-      "version": "0.4.61",
-      "date": "2026-08-07",
-      "title": "Fix — forced POI types (army_camp / military pool)",
+      "mod_id": "90_P13_Localization",
+      "version": "0.1.1",
+      "date": "2026-08-08",
+      "title": "Version 0.1.1",
       "bullets": [
-        "Removed `Prefabs/POIs/VanillaTagOverrides` (166 xml): those overrides tagged specific prefabs (`army_camp_*`, `base_military_*`, etc.) with custom QuestTags `p13mil` / `p13rescue` / `p13b13`, and some stripped `clear`",
-        "Removed quest `filter_tags=\"p13b13\"` on `p13_q_b13_hell` (was exclusive Red Mesa pool)",
-        "Campaign clears now use the normal vanilla clear pool + existing `OnlyBiome` filters (no exclusive POI-type tags)",
-        "Biome filters unchanged — stuck markers still need a **retry ticket** re-roll after update"
-      ]
-    },
-    {
-      "mod_id": "P13_PerfectRecycler",
-      "version": "0.1.17",
-      "date": "2026-08-06",
-      "title": "Fix — Harmony AddItem patch crash on boot",
-      "bullets": [
-        "Prefix params must match vanilla names (`_itemStack`, `_xui`)",
-        "Was looking for `stack` → Harmony IL Compile Error → mod failed to init"
-      ]
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.11",
-      "date": "2026-08-05",
-      "title": "Root cause (restart)",
-      "bullets": [
-        "Never save before Load() (_ready gate)",
-        "Always persist on shutdown when this process owns the save (MayPersistToDisk)",
-        "Atomic save (.tmp then replace) + file format **v2** (x,y,z + id)",
-        "Match placer via PrimaryId **or** NativeId",
-        "ChangeBlocks fallback: changedByEntityId when platform id missing",
-        "Softer track filter (no more StartsWith(\"air\") / required GetItem for tracking)",
-        "Oversized net sync buffer + retry sync 2.5s after spawn"
-      ]
-    },
-    {
-      "mod_id": "10_P13_CoreQoL",
-      "version": "0.1.5",
-      "date": "2026-07-20",
-      "title": "FR",
-      "bullets": [
-        "**Bug** : le xpath mettait une seule valeur (`-0.571` / `-0.8`) avec `tier=\"1,2,3,4,5,6\"`",
-        "Le moteur ignore l’effet si le nombre de values ≠ nombre de tiers → **aucun bonus de vitesse**",
-        "**Fix** : 6 valeurs identiques alignées sur les 6 qualités",
-        "Enclume ≈ **−57 %** temps de craft forge ; soufflets ≈ **−80 %** temps de fonte",
-        "**Bug**: single `value` with `tier=\"1,2,3,4,5,6\"` → PassiveEffect.ModValue no-ops",
-        "**Fix**: six matching values for all qualities",
-        "Anvil ≈ **−57%** forge craft time; bellows ≈ **−80%** smelt time"
-      ]
+        "Release Protocol 13 - Localization 0.1.1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.1.1",
+          "bullets": [
+            "Publication Protocol 13 - Localization 0.1.1"
+          ]
+        },
+        "en": {
+          "title": "Version 0.1.1",
+          "bullets": [
+            "Release Protocol 13 - Localization 0.1.1"
+          ]
+        },
+        "es": {
+          "title": "Versión 0.1.1",
+          "bullets": [
+            "Publicación Protocol 13 - Localization 0.1.1"
+          ]
+        },
+        "it": {
+          "title": "Versione 0.1.1",
+          "bullets": [
+            "Pubblicazione Protocol 13 - Localization 0.1.1"
+          ]
+        },
+        "ru": {
+          "title": "Версия 0.1.1",
+          "bullets": [
+            "Релиз Protocol 13 - Localization 0.1.1"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 0.1.1",
+          "bullets": [
+            "Protocol 13 - Localization 0.1.1 を公開"
+          ]
+        },
+        "zh": {
+          "title": "版本 0.1.1",
+          "bullets": [
+            "发布 Protocol 13 - Localization 0.1.1"
+          ]
+        }
+      }
     }
   ]
 }
