@@ -142,12 +142,12 @@
     {
       "id": "03_P13_MainMenu",
       "name": "Protocol 13 - Main Menu",
-      "version": "1.0.0",
-      "file": "03_P13_MainMenu_v1.0.0.rar",
+      "version": "1.0.1",
+      "file": "03_P13_MainMenu_v1.0.1.rar",
       "file_id": "1Cy4QGQlUtf9_LyL0LgrD2HhI0WufVNtM",
       "install_folder": "03_P13_MainMenu",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/03_P13_MainMenu_v1.0.0.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/03_P13_MainMenu_v1.0.1.rar"
     },
     {
       "id": "10_P13_CoreQoL",
@@ -691,6 +691,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.1",
+      "date": "2026-08-08",
+      "title": "Main Menu credits + links",
+      "bullets": [
+        "Fix tagline localization (raw key on screen)",
+        "Credits: Project Manager Sayli — Testers Yogun, Flo, Ezekiel",
+        "Clickable Discord and 7Day Loader links"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Main Menu credits + liens",
+          "bullets": [
+            "Fix tagline Localization (cle affichee brute)",
+            "Credits: Manager projet Sayli — Testeurs Yogun, Flo, Ezekiel",
+            "Liens Discord et 7Day Loader cliquables"
+          ]
+        },
+        "en": {
+          "title": "Main Menu credits + links",
+          "bullets": [
+            "Fix tagline localization (raw key on screen)",
+            "Credits: Project Manager Sayli — Testers Yogun, Flo, Ezekiel",
+            "Clickable Discord and 7Day Loader links"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.22",
