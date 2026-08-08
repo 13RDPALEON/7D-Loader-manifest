@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T21:55:32+02:00",
+  "updated_at": "2026-08-08T21:56:03+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -144,7 +144,7 @@
       "name": "Protocol 13 - Main Menu",
       "version": "1.0.2",
       "file": "03_P13_MainMenu_v1.0.2.rar",
-      "file_id": "1DNghKGCPV1xi5p-tO59oGLt3tgiFj3EF",
+      "file_id": "1jX4r8_PmE1kKmupZCMSQ_EaxENmg8WyF",
       "install_folder": "03_P13_MainMenu",
       "status": "stable",
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/03_P13_MainMenu_v1.0.2.rar"
