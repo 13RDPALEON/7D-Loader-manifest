@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T20:23:33+02:00",
+  "updated_at": "2026-08-08T20:43:20+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.20",
+    "version": "0.1.21",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Fix tiny archive downloads (Pack Info)",
+    "notes": "Drive→GitHub fallback + recherche mods",
     "security": {
-      "sha256": "5f2f483b2fab31b9d55a78f22bcde1d509a4055556cb18e1291413470a321c38",
-      "virustotal_url": "https://www.virustotal.com/gui/file/5f2f483b2fab31b9d55a78f22bcde1d509a4055556cb18e1291413470a321c38/detection",
+      "sha256": "67fc1aee573174554645f329623a40b6a1193a618595de368d4397a2600272bf",
+      "virustotal_url": "https://www.virustotal.com/gui/file/67fc1aee573174554645f329623a40b6a1193a618595de368d4397a2600272bf/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.20/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.21/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -681,6 +681,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.21",
+      "date": "2026-08-08",
+      "title": "Drive mirror fallback + mods search",
+      "bullets": [
+        "Mod downloads try Google Drive first, then GitHub Releases mirror on quota/errors",
+        "Search bar in Mods tab to filter by name",
+        "Large mirror downloads stream to disk"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fallback Drive/GitHub + recherche mods",
+          "bullets": [
+            "Telechargement mods: Drive d abord, miroir GitHub si quota/erreur",
+            "Barre de recherche dans l onglet Mods",
+            "Telechargements miroir volumineux en streaming"
+          ]
+        },
+        "en": {
+          "title": "Drive mirror fallback + mods search",
+          "bullets": [
+            "Mod downloads try Drive first, then GitHub Releases on quota/errors",
+            "Search bar in Mods tab to filter by name",
+            "Large mirror downloads stream to disk"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.20",
