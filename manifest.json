@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T05:58:13+02:00",
+  "updated_at": "2026-08-08T06:04:36+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Patch notes page"
+    "notes": "Fix empty Patch notes / Futur + home fullscreen layout"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -614,13 +614,12 @@
   "changelogs": [
     {
       "mod_id": "7d_loader",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "date": "2026-08-08",
-      "title": "Patch notes page + GitHub catalog",
+      "title": "Fix Patch notes / Futur / Accueil plein ecran",
       "bullets": [
-        "New Patch notes tab with per-mod filter",
-        "Catalog hosted on GitHub (stable URL)",
-        "Zombie icon + post-apo installer art"
+        "Correction bug qui vidait Patch notes et Futur",
+        "Accueil: layout stable en plein ecran (plus de superposition)"
       ]
     },
     {
