@@ -5,14 +5,14 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-08T05:28:43+02:00",
+  "updated_at": "2026-08-08T05:50:16+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7D Loader",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Production - per-mod archives + self-update"
+    "notes": "GitHub catalog URL + Drive archives"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
