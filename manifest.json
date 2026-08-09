@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T16:57:28+02:00",
+  "updated_at": "2026-08-09T17:09:35+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.26",
+    "version": "0.1.27",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Help category + WIP page",
+    "notes": "Mods tab smaller fonts",
     "security": {
-      "sha256": "90d1eefdfac409d245ddb4a5a39e29ff0422f25e2f21456a837fa88154faafe7",
-      "virustotal_url": "https://www.virustotal.com/gui/file/90d1eefdfac409d245ddb4a5a39e29ff0422f25e2f21456a837fa88154faafe7/detection",
+      "sha256": "15701bc9bf619e70dda1e59e0aae522d2438db4f503cecae6ffd07c19f16319b",
+      "virustotal_url": "https://www.virustotal.com/gui/file/15701bc9bf619e70dda1e59e0aae522d2438db4f503cecae6ffd07c19f16319b/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.26/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.27/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
