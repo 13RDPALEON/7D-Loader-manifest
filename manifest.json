@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T20:38:34+02:00",
+  "updated_at": "2026-08-09T20:50:08+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -316,7 +316,6 @@
       "name": "AEC AIO Boss Extreme (base)",
       "version": "3.0.9",
       "file": "30_P13_AEC_BossExtreme_v3.0.9.rar",
-      "file_id": "1sUuh6nv2bKY09wgxXRNgRsKAN2lGK9AW",
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
       "featured": true,
@@ -337,7 +336,6 @@
       "name": "AEC Boss Damage Nerf (-50%, optional)",
       "version": "1.0.1",
       "file": "32_P13_AEC_BossDamageNerf_v1.0.1.rar",
-      "file_id": "1jokDVgzF0wAN-CySPHOc6xgDM6Vb3f5n",
       "install_folder": "32_P13_AEC_BossDamageNerf",
       "status": "stable",
       "featured": true,
@@ -459,7 +457,6 @@
       "name": "Learn By Doing",
       "version": "1.1.8",
       "file": "62_P13_LearnByDoing_v1.1.8.rar",
-      "file_id": "1yAcD_3lrjQxh-ETmWdBPJaExVVGDwHq7",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
@@ -571,7 +568,6 @@
       "name": "Lovely Loot Bags",
       "version": "1.0.1",
       "file": "74_P13_LovelyLootBags_v1.0.1.rar",
-      "file_id": "1ehUUjIWg_-VW-sMLwb68gGPc_tDnU9hI",
       "install_folder": "74_P13_LovelyLootBags",
       "status": "stable",
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/74_P13_LovelyLootBags_v1.0.1.rar"
@@ -601,7 +597,6 @@
       "name": "Directive (Campaign)",
       "version": "0.4.62",
       "file": "80_P13_Directive_v0.4.62.rar",
-      "file_id": "1huNHXGLaQBJyoCGtfcf8CDTnOcjjzsq5",
       "install_folder": "80_P13_Directive",
       "status": "updating",
       "featured": true,
@@ -632,7 +627,6 @@
       "name": "Pack Info",
       "version": "0.1.12",
       "file": "99_P13_PackInfo_v0.1.12.rar",
-      "file_id": "1BXP3yARL6dCFkCEBEruA1eQnyYOIJ-vW",
       "install_folder": "99_P13_PackInfo",
       "status": "stable",
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/99_P13_PackInfo_v0.1.12.rar"
@@ -4252,6 +4246,29 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "7d_loader",
+      "version": "hotfix-publish",
+      "date": "2026-08-09",
+      "title": "Hotfix publish: GitHub mirror",
+      "bullets": [
+        "Balance mods now download from GitHub (Drive file_id was serving old RAR content)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Hotfix publish: miroir GitHub",
+          "bullets": [
+            "Mods équilibre: téléchargement GitHub (les file_id Drive servaient encore les anciens RAR)"
+          ]
+        },
+        "en": {
+          "title": "Hotfix publish: GitHub mirror",
+          "bullets": [
+            "Balance mods now download from GitHub (stale Drive file_ids served old RARs)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "68_P13_KnowledgeScrap",
       "version": "1.0.0",
