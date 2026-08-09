@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T17:13:17+02:00",
+  "updated_at": "2026-08-09T20:38:34+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -80,6 +80,7 @@
         "65_P13_AntiChuck",
         "66_P13_DeadlyCrawlers",
         "67_P13_NerfHostileChickens",
+        "68_P13_KnowledgeScrap",
         "70_P13_BeyondStorage3",
         "72_P13_QuickPlaceBreak",
         "73_P13_StopFuelWaste",
@@ -313,13 +314,13 @@
     {
       "id": "30_P13_AEC_BossExtreme",
       "name": "AEC AIO Boss Extreme (base)",
-      "version": "3.0.8",
-      "file": "30_P13_AEC_BossExtreme_v3.0.8.rar",
+      "version": "3.0.9",
+      "file": "30_P13_AEC_BossExtreme_v3.0.9.rar",
       "file_id": "1sUuh6nv2bKY09wgxXRNgRsKAN2lGK9AW",
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.8.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.9.rar"
     },
     {
       "id": "31_P13_AEC_ExtendedQuests",
@@ -334,14 +335,14 @@
     {
       "id": "32_P13_AEC_BossDamageNerf",
       "name": "AEC Boss Damage Nerf (-50%, optional)",
-      "version": "1.0.0",
-      "file": "32_P13_AEC_BossDamageNerf_v1.0.0.rar",
+      "version": "1.0.1",
+      "file": "32_P13_AEC_BossDamageNerf_v1.0.1.rar",
       "file_id": "1jokDVgzF0wAN-CySPHOc6xgDM6Vb3f5n",
       "install_folder": "32_P13_AEC_BossDamageNerf",
       "status": "stable",
       "featured": true,
       "optional": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/32_P13_AEC_BossDamageNerf_v1.0.0.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/32_P13_AEC_BossDamageNerf_v1.0.1.rar"
     },
     {
       "id": "40_P13_MRAP",
@@ -456,13 +457,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.7",
-      "file": "62_P13_LearnByDoing_v1.1.7.rar",
+      "version": "1.1.8",
+      "file": "62_P13_LearnByDoing_v1.1.8.rar",
       "file_id": "1yAcD_3lrjQxh-ETmWdBPJaExVVGDwHq7",
       "install_folder": "62_P13_LearnByDoing",
-      "status": "alpha",
+      "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.7.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.8.rar"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -515,6 +516,17 @@
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/67_P13_NerfHostileChickens_v1.2.1.rar"
     },
     {
+      "id": "68_P13_KnowledgeScrap",
+      "name": "Knowledge Scrap (books → mod schematics)",
+      "version": "1.0.0",
+      "file": "68_P13_KnowledgeScrap_v1.0.0.rar",
+      "file_id": "",
+      "install_folder": "68_P13_KnowledgeScrap",
+      "status": "stable",
+      "featured": true,
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.0.rar"
+    },
+    {
       "id": "70_P13_BeyondStorage3",
       "name": "Beyond Storage 3",
       "version": "3.0.7",
@@ -558,12 +570,12 @@
     {
       "id": "74_P13_LovelyLootBags",
       "name": "Lovely Loot Bags",
-      "version": "1.0.0",
-      "file": "74_P13_LovelyLootBags_v1.0.0.rar",
+      "version": "1.0.1",
+      "file": "74_P13_LovelyLootBags_v1.0.1.rar",
       "file_id": "1ehUUjIWg_-VW-sMLwb68gGPc_tDnU9hI",
       "install_folder": "74_P13_LovelyLootBags",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/74_P13_LovelyLootBags_v1.0.0.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/74_P13_LovelyLootBags_v1.0.1.rar"
     },
     {
       "id": "75_P13_Honey",
@@ -588,13 +600,13 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.4.61",
-      "file": "80_P13_Directive_v0.4.61.rar",
+      "version": "0.4.62",
+      "file": "80_P13_Directive_v0.4.62.rar",
       "file_id": "1huNHXGLaQBJyoCGtfcf8CDTnOcjjzsq5",
       "install_folder": "80_P13_Directive",
       "status": "updating",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.4.61.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.4.62.rar"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -619,12 +631,12 @@
     {
       "id": "99_P13_PackInfo",
       "name": "Pack Info",
-      "version": "0.1.11",
-      "file": "99_P13_PackInfo_v0.1.11.rar",
+      "version": "0.1.12",
+      "file": "99_P13_PackInfo_v0.1.12.rar",
       "file_id": "1BXP3yARL6dCFkCEBEruA1eQnyYOIJ-vW",
       "install_folder": "99_P13_PackInfo",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/99_P13_PackInfo_v0.1.11.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/99_P13_PackInfo_v0.1.12.rar"
     },
     {
       "id": "P13_Classes",
@@ -4241,6 +4253,180 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.0",
+      "date": "2026-08-09",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "New: scrap perk books / leftover skill mags → Mod Knowledge → craft useful mod schematics (Iron Breaker, grips, sights…)",
+        "Bookworm (Intellect Mastery 2+): schematic craft cost -1",
+        "Note: folder 68_ (63_ is FancyZombies)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Nouveau: scrap livres / mags restants → Savoir Mod → craft schémas utiles (Iron Breaker, poignées, viseurs…)",
+            "Bookworm (Maîtrise Intelligence 2+): coût craft schémas -1",
+            "Note: dossier 68_ (63_ = FancyZombies)"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "New: scrap perk books / leftover skill mags → Mod Knowledge → craft useful mod schematics",
+            "Bookworm (Intellect Mastery 2+): schematic craft cost -1",
+            "Note: folder 68_ (63_ is FancyZombies)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.8",
+      "date": "2026-08-09",
+      "title": "Version 1.1.8",
+      "bullets": [
+        "Faster mid/late Thr curve (priority −15% @35, rifles/MG/med −15% @40, others −10% @20; @60 softener −10%)",
+        "Gun hit XP +20% from craft 40 (handguns/rifles/MG)",
+        "Soft-nerf Forge/remaining mags + perk books in world loot"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.1.8",
+          "bullets": [
+            "Courbe Thr mid/late accélérée (−15% @35 priorité, −15% @40 fusils/MG/méd, −10% @20 autres; @60 −10%)",
+            "XP hit armes +20% dès craft 40 (pistolet/fusil/MG)",
+            "Soft-nerf Forge/mags restants + perk books en loot monde"
+          ]
+        },
+        "en": {
+          "title": "Version 1.1.8",
+          "bullets": [
+            "Faster mid/late Thr curve; gun hit XP +20% from craft 40",
+            "Soft-nerf remaining mags + perk books"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "30_P13_AEC_BossExtreme",
+      "version": "3.0.9",
+      "date": "2026-08-09",
+      "title": "Version 3.0.9",
+      "bullets": [
+        "Cap Dumdum/Rockbreaker explosions + death explode; reward knowledge reweight (more mod schematics, fewer perk books); soft-nerf reward ammo"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.9",
+          "bullets": [
+            "Plafond explosions Dumdum/Rockbreaker + death explode; rewards: plus de schémas mods, moins de perk books; soft-nerf munitions rewards"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.9",
+          "bullets": [
+            "Cap boss explosions; reweight rewards toward mod schematics"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "74_P13_LovelyLootBags",
+      "version": "1.0.1",
+      "date": "2026-08-09",
+      "title": "Version 1.0.1",
+      "bullets": [
+        "Extend lifetime xpath to AEC *LootBag / EntityLootContainer bags"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.1",
+          "bullets": [
+            "Lifetime xpath étendue aux sacs AEC *LootBag / EntityLootContainer"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.1",
+          "bullets": [
+            "Lifetime xpath extended to AEC *LootBag bags"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.4.62",
+      "date": "2026-08-09",
+      "title": "Version 0.4.62",
+      "bullets": [
+        "Emergency Cargo (Q17) stays in burnt forest near Extract (no desert jump)",
+        "Clearer loc: approach marked zone to reveal POI; wider StayWithin; remove misleading At Night label"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.4.62",
+          "bullets": [
+            "Largage d’urgence (Q17) reste en forêt brûlée près de l’Extract (plus de jump désert)",
+            "Loc clarifiée: approche la zone marquée; StayWithin élargi; retrait du label De Nuit trompeur"
+          ]
+        },
+        "en": {
+          "title": "Version 0.4.62",
+          "bullets": [
+            "Q17 cargo stays in burnt forest; clearer approach loc; wider StayWithin"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "32_P13_AEC_BossDamageNerf",
+      "version": "1.0.1",
+      "date": "2026-08-09",
+      "title": "Version 1.0.1",
+      "bullets": [
+        "Retarget −50% to new base 3.0.9 values (shale, Dumdum caps, death explode)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.1",
+          "bullets": [
+            "−50% aligné sur les nouvelles bases 3.0.9 (shale, caps Dumdum, death explode)"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.1",
+          "bullets": [
+            "−50% retargeted to new 3.0.9 base values"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "99_P13_PackInfo",
+      "version": "0.1.12",
+      "date": "2026-08-09",
+      "title": "Version 0.1.12",
+      "bullets": [
+        "Balance overhaul pack bump; new sandbox settings code for NEW worlds only (see README)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.1.12",
+          "bullets": [
+            "Bump pack refonte équilibre; nouveau code settings pour NOUVEAUX mondes seulement (voir README)"
+          ]
+        },
+        "en": {
+          "title": "Version 0.1.12",
+          "bullets": [
+            "Pack bump; new settings code for NEW worlds only"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "80_P13_FluffyPandaPOI",
       "version": "3.8.0.14",
