@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T06:15:54+02:00",
+  "updated_at": "2026-08-09T16:25:21+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -61,6 +61,7 @@
         "2C_P13_Izayo_Tech",
         "2D_P13_Izayo_Melee",
         "2E_P13_NoIzyKick",
+        "30_P13_AEC_BossExtreme",
         "31_P13_AEC_ExtendedQuests",
         "40_P13_MRAP",
         "41_P13_Rat",
@@ -100,7 +101,7 @@
       "name": "Optional patches",
       "type": "optional_bundle",
       "includes": [
-        "30_P13_AEC_BossExtreme",
+        "32_P13_AEC_BossDamageNerf",
         "71_P13_RepairVision",
         "P13_GetAllBlocks"
       ],
@@ -311,15 +312,14 @@
     },
     {
       "id": "30_P13_AEC_BossExtreme",
-      "name": "AEC Boss Damage Nerf (optional)",
-      "version": "3.0.7",
-      "file": "30_P13_AEC_BossExtreme_v3.0.7.rar",
-      "file_id": "1pSvtFoMPMYklzSNOOsbF32n_V_VgOanZ",
+      "name": "AEC AIO Boss Extreme (base)",
+      "version": "3.0.8",
+      "file": "30_P13_AEC_BossExtreme_v3.0.8.rar",
+      "file_id": "1sUuh6nv2bKY09wgxXRNgRsKAN2lGK9AW",
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.7.rar",
-      "optional": true
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.8.rar"
     },
     {
       "id": "31_P13_AEC_ExtendedQuests",
@@ -330,6 +330,18 @@
       "install_folder": "31_P13_AEC_ExtendedQuests",
       "status": "stable",
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/31_P13_AEC_ExtendedQuests_v3.0.1.rar"
+    },
+    {
+      "id": "32_P13_AEC_BossDamageNerf",
+      "name": "AEC Boss Damage Nerf (-50%, optional)",
+      "version": "1.0.0",
+      "file": "32_P13_AEC_BossDamageNerf_v1.0.0.rar",
+      "file_id": "1jokDVgzF0wAN-CySPHOc6xgDM6Vb3f5n",
+      "install_folder": "32_P13_AEC_BossDamageNerf",
+      "status": "stable",
+      "featured": true,
+      "optional": true,
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/32_P13_AEC_BossDamageNerf_v1.0.0.rar"
     },
     {
       "id": "40_P13_MRAP",
@@ -4224,6 +4236,130 @@
           "title": "版本 0.1.1",
           "bullets": [
             "发布 Protocol 13 - Localization 0.1.1"
+          ]
+        }
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "mod_id": "30_P13_AEC_BossExtreme",
+      "version": "3.0.8",
+      "date": "2026-08-09",
+      "title": "Version 3.0.8",
+      "bullets": [
+        "AEC base only (original damage)",
+        "Moved -50% nerf to optional 32_P13_AEC_BossDamageNerf"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 3.0.8",
+          "bullets": [
+            "Base AEC seule (dégâts d’origine)",
+            "Nerf -50% déplacé vers 32_P13_AEC_BossDamageNerf (optionnel)"
+          ]
+        },
+        "en": {
+          "title": "Version 3.0.8",
+          "bullets": [
+            "AEC base only (original damage)",
+            "Moved -50% nerf to optional 32_P13_AEC_BossDamageNerf"
+          ]
+        },
+        "es": {
+          "title": "Versión 3.0.8",
+          "bullets": [
+            "Solo base AEC (daño original)",
+            "Nerf -50% movido a 32_P13_AEC_BossDamageNerf (opcional)"
+          ]
+        },
+        "it": {
+          "title": "Versione 3.0.8",
+          "bullets": [
+            "Solo base AEC (danni originali)",
+            "Nerf -50% spostato in 32_P13_AEC_BossDamageNerf (opzionale)"
+          ]
+        },
+        "ru": {
+          "title": "Версия 3.0.8",
+          "bullets": [
+            "Только база AEC (оригинальный урон)",
+            "Нерф -50% перенесён в 32_P13_AEC_BossDamageNerf (опционально)"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 3.0.8",
+          "bullets": [
+            "AECベースのみ（元ダメージ）",
+            "-50%ナーフをオプション 32_P13_AEC_BossDamageNerf に分離"
+          ]
+        },
+        "zh": {
+          "title": "版本 3.0.8",
+          "bullets": [
+            "仅 AEC 本体（原始伤害）",
+            "-50% 削弱移至可选 32_P13_AEC_BossDamageNerf"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "32_P13_AEC_BossDamageNerf",
+      "version": "1.0.0",
+      "date": "2026-08-09",
+      "title": "Version 1.0.0",
+      "bullets": [
+        "Optional: AEC boss damage -50%",
+        "Requires 30_P13_AEC_BossExtreme (Full Pack)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Optionnel : dégâts boss AEC -50%",
+            "Nécessite 30_P13_AEC_BossExtreme (Full Pack)"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.0",
+          "bullets": [
+            "Optional: AEC boss damage -50%",
+            "Requires 30_P13_AEC_BossExtreme (Full Pack)"
+          ]
+        },
+        "es": {
+          "title": "Versión 1.0.0",
+          "bullets": [
+            "Opcional: daño de jefes AEC -50%",
+            "Requiere 30_P13_AEC_BossExtreme (Full Pack)"
+          ]
+        },
+        "it": {
+          "title": "Versione 1.0.0",
+          "bullets": [
+            "Opzionale: danni boss AEC -50%",
+            "Richiede 30_P13_AEC_BossExtreme (Full Pack)"
+          ]
+        },
+        "ru": {
+          "title": "Версия 1.0.0",
+          "bullets": [
+            "Опционально: урон боссов AEC -50%",
+            "Требует 30_P13_AEC_BossExtreme (Full Pack)"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 1.0.0",
+          "bullets": [
+            "オプション：AECボスダメージ-50%",
+            "30_P13_AEC_BossExtreme（Full Pack）が必要"
+          ]
+        },
+        "zh": {
+          "title": "版本 1.0.0",
+          "bullets": [
+            "可选：AEC Boss 伤害 -50%",
+            "需要 Full Pack 中的 30_P13_AEC_BossExtreme"
           ]
         }
       }
