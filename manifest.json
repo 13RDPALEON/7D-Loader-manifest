@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T04:15:52+02:00",
+  "updated_at": "2026-08-09T06:08:01+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.23",
+    "version": "0.1.24",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Fix SSL CERTIFICATE_VERIFY_FAILED on dedi (bundle certifi)",
+    "notes": "Auto-remove duplicate legacy folders (ClaimRecover vs P13_GetAllBlocks)",
     "security": {
-      "sha256": "bd5ea69ff29f114926a6dd84534328d745b44b251e8c8b7b2de042308c030ab2",
-      "virustotal_url": "https://www.virustotal.com/gui/file/bd5ea69ff29f114926a6dd84534328d745b44b251e8c8b7b2de042308c030ab2/detection",
+      "sha256": "bb779c626016e0e75f2a9998cbfa9ac1f5e9aaa8e3cea78352863325eb6a1957",
+      "virustotal_url": "https://www.virustotal.com/gui/file/bb779c626016e0e75f2a9998cbfa9ac1f5e9aaa8e3cea78352863325eb6a1957/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.23/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.24/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -693,6 +693,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.24",
+      "date": "2026-08-09",
+      "title": "Duplicate legacy folder cleanup",
+      "bullets": [
+        "Auto-remove leftover legacy folders (e.g. ClaimRecover) when P13_GetAllBlocks exists",
+        "Verify UI shows duplicate legacy; Mods tab auto-selects cleanup/update",
+        "Fixes error spam after stacking optional RARs on old manual installs"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Nettoyage doublons legacy",
+          "bullets": [
+            "Suppression auto des anciens dossiers (ex. ClaimRecover) si P13_GetAllBlocks existe",
+            "Verify affiche les doublons ; onglet Mods coche cleanup/maj",
+            "Corrige le spam d'erreurs apres empilement de RAR optionnels"
+          ]
+        },
+        "en": {
+          "title": "Duplicate legacy folder cleanup",
+          "bullets": [
+            "Auto-remove leftover legacy folders when the new install folder exists",
+            "Verify UI shows duplicates; Mods tab auto-selects cleanup/update",
+            "Fixes error spam after stacking optional RARs on old installs"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.23",
