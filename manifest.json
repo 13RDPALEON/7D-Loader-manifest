@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T16:50:08+02:00",
+  "updated_at": "2026-08-09T16:57:28+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -90,6 +90,7 @@
         "80_P13_FluffyPandaPOI",
         "90_P13_Localization",
         "99_P13_PackInfo",
+        "P13_GetAllBlocks",
         "P13_Classes",
         "P13_PerfectRecycler"
       ],
@@ -102,8 +103,7 @@
       "type": "optional_bundle",
       "includes": [
         "32_P13_AEC_BossDamageNerf",
-        "71_P13_RepairVision",
-        "P13_GetAllBlocks"
+        "71_P13_RepairVision"
       ],
       "status": "stable",
       "note": "Optional mods/patches — not required; not selected by Full Pack"
@@ -645,7 +645,6 @@
       "file_id": "1Lpk78fqfUc97FlYoko8_gXUsp60qZbh_",
       "install_folder": "P13_GetAllBlocks",
       "status": "updating",
-      "optional": true,
       "featured": true,
       "requires": [
         "00_P13_Harmony"
@@ -4242,6 +4241,59 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.16",
+      "date": "2026-08-09",
+      "title": "Version 0.1.16",
+      "bullets": [
+        "Moved back to Full Pack (required)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.1.16",
+          "bullets": [
+            "Repasse en Full Pack (obligatoire)"
+          ]
+        },
+        "en": {
+          "title": "Version 0.1.16",
+          "bullets": [
+            "Moved back to Full Pack (required)"
+          ]
+        },
+        "es": {
+          "title": "Versión 0.1.16",
+          "bullets": [
+            "Vuelve al Full Pack (obligatorio)"
+          ]
+        },
+        "it": {
+          "title": "Versione 0.1.16",
+          "bullets": [
+            "Tornato nel Full Pack (obbligatorio)"
+          ]
+        },
+        "ru": {
+          "title": "Версия 0.1.16",
+          "bullets": [
+            "Снова в Full Pack (обязательный)"
+          ]
+        },
+        "ja": {
+          "title": "バージョン 0.1.16",
+          "bullets": [
+            "Full Pack（必須）に復帰"
+          ]
+        },
+        "zh": {
+          "title": "版本 0.1.16",
+          "bullets": [
+            "重新纳入 Full Pack（必需）"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "30_P13_AEC_BossExtreme",
       "version": "3.0.8",
