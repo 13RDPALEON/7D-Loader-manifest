@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T21:11:24+02:00",
+  "updated_at": "2026-08-09T21:55:44+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -515,12 +515,12 @@
     {
       "id": "68_P13_KnowledgeScrap",
       "name": "Knowledge Scrap (books → mod schematics)",
-      "version": "1.0.1",
-      "file": "68_P13_KnowledgeScrap_v1.0.1.rar",
+      "version": "1.0.2",
+      "file": "68_P13_KnowledgeScrap_v1.0.2.rar",
       "install_folder": "68_P13_KnowledgeScrap",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.1.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.2.rar"
     },
     {
       "id": "70_P13_BeyondStorage3",
@@ -4246,6 +4246,29 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.2",
+      "date": "2026-08-09",
+      "title": "Version 1.0.2",
+      "bullets": [
+        "Fix French/UI name: Localization.csv V3.1 columns — shows Savoir Mod instead of resourceP13ModKnowledge"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.2",
+          "bullets": [
+            "Correctif nom FR: Localization.csv colonnes V3.1 — affiche Savoir Mod au lieu de resourceP13ModKnowledge"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.2",
+          "bullets": [
+            "Fix display name via proper V3.1 Localization.csv columns"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "68_P13_KnowledgeScrap",
       "version": "1.0.1",
