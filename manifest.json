@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T21:55:44+02:00",
+  "updated_at": "2026-08-09T21:57:07+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -515,12 +515,12 @@
     {
       "id": "68_P13_KnowledgeScrap",
       "name": "Knowledge Scrap (books → mod schematics)",
-      "version": "1.0.2",
-      "file": "68_P13_KnowledgeScrap_v1.0.2.rar",
+      "version": "1.0.3",
+      "file": "68_P13_KnowledgeScrap_v1.0.3.rar",
       "install_folder": "68_P13_KnowledgeScrap",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.2.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.3.rar"
     },
     {
       "id": "70_P13_BeyondStorage3",
@@ -4246,6 +4246,29 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.3",
+      "date": "2026-08-09",
+      "title": "Version 1.0.3",
+      "bullets": [
+        "Fix: remove learnable Bookworm duplicate crafts that showed padlocks on all mod schematics in the workbench"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 1.0.3",
+          "bullets": [
+            "Correctif: retrait des recettes Bookworm learnable qui mettaient des cadenas sur tous les schemas a l'etabli"
+          ]
+        },
+        "en": {
+          "title": "Version 1.0.3",
+          "bullets": [
+            "Fix: remove learnable Bookworm duplicates that locked schematic crafts in the UI"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "68_P13_KnowledgeScrap",
       "version": "1.0.2",
