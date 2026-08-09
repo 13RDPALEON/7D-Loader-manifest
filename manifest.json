@@ -5,23 +5,23 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-09T06:08:01+02:00",
+  "updated_at": "2026-08-09T06:15:54+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.24",
+    "version": "0.1.25",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Auto-remove duplicate legacy folders (ClaimRecover vs P13_GetAllBlocks)",
+    "notes": "Hotfix 0.1.24 crash + duplicate legacy cleanup",
     "security": {
-      "sha256": "bb779c626016e0e75f2a9998cbfa9ac1f5e9aaa8e3cea78352863325eb6a1957",
-      "virustotal_url": "https://www.virustotal.com/gui/file/bb779c626016e0e75f2a9998cbfa9ac1f5e9aaa8e3cea78352863325eb6a1957/detection",
+      "sha256": "b8a3a740c3da762810d7a788a1ad7cccae198d0ed4a21943a9045d267bcb32db",
+      "virustotal_url": "https://www.virustotal.com/gui/file/b8a3a740c3da762810d7a788a1ad7cccae198d0ed4a21943a9045d267bcb32db/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256."
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.24/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.25/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -693,6 +693,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.25",
+      "date": "2026-08-09",
+      "title": "Hotfix crash 0.1.24 + legacy cleanup",
+      "bullets": [
+        "Fix startup crash (SyntaxError / missing app.ui.app) in 0.1.24",
+        "Auto-remove duplicate legacy folders (ClaimRecover + P13_GetAllBlocks)",
+        "Verify UI shows duplicates; Mods tab auto-selects cleanup/update"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Hotfix crash 0.1.24 + nettoyage legacy",
+          "bullets": [
+            "Corrige le crash au demarrage de la 0.1.24",
+            "Suppression auto des doublons ClaimRecover / P13_GetAllBlocks",
+            "Verify + onglet Mods : detection et maj cochee"
+          ]
+        },
+        "en": {
+          "title": "Hotfix 0.1.24 crash + legacy cleanup",
+          "bullets": [
+            "Fix 0.1.24 startup crash",
+            "Auto-remove ClaimRecover / P13_GetAllBlocks duplicates",
+            "Verify + Mods tab: detect and auto-select cleanup/update"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.24",
