@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T01:44:03+02:00",
+  "updated_at": "2026-08-11T01:53:31+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -612,17 +612,17 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.6.49",
-      "file": "80_P13_Directive_v0.6.49.rar",
+      "version": "0.6.50",
+      "file": "80_P13_Directive_v0.6.50.rar",
       "install_folder": "80_P13_Directive",
-      "status": "recent",
+      "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.49.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.50.rar",
       "requires": [
         "P13_Classes"
       ],
       "optional": true,
-      "file_id": "1idxmy9syXt9UWT4WWFhcPhar_TGON-kY"
+      "file_id": "1M6IG9H2A_sJTQEtv192E4yNyRfJH6ZII"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -661,14 +661,14 @@
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.42",
-      "file": "P13_Classes_v0.1.42.rar",
-      "file_id": "1JyPPUINevsWwyZtVtOKRfCEV4NFrIb8o",
+      "version": "0.1.43",
+      "file": "P13_Classes_v0.1.43.rar",
       "install_folder": "P13_Classes",
-      "status": "recent",
+      "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.42.rar",
-      "optional": true
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.43.rar",
+      "optional": true,
+      "file_id": "1uY4CGmRA9EDd0KaAZDmPX8IKTSxIzs3R"
     },
     {
       "id": "P13_GetAllBlocks",
@@ -4404,6 +4404,58 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "P13_Classes",
+      "version": "0.1.43",
+      "date": "2026-08-11",
+      "title": "Version 0.1.43",
+      "bullets": [
+        "Rebuild Continuity spawn patch; pair with Directive 0.6.50",
+        "Fixes launch Harmony IL Compile Error on GameManager.PlayerSpawnedInWorld"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.1.43",
+          "bullets": [
+            "Correctif Harmony PlayerSpawnedInWorld (param _entityId au lieu de _player)",
+            "Corrige le crash/init échouée de Directive/Classes au lancement"
+          ]
+        },
+        "en": {
+          "title": "Version 0.1.43",
+          "bullets": [
+            "Fix Harmony PlayerSpawnedInWorld signature (_entityId, not _player)",
+            "Fixes Directive/Classes InitMod failure at launch"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.50",
+      "date": "2026-08-11",
+      "title": "Version 0.6.50",
+      "bullets": [
+        "Fix PlayerSpawnedInWorld Harmony patch (_entityId, no _player)",
+        "Fixes launch Harmony IL Compile Error on GameManager.PlayerSpawnedInWorld"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.6.50",
+          "bullets": [
+            "Correctif Harmony PlayerSpawnedInWorld (param _entityId au lieu de _player)",
+            "Corrige le crash/init échouée de Directive/Classes au lancement"
+          ]
+        },
+        "en": {
+          "title": "Version 0.6.50",
+          "bullets": [
+            "Fix Harmony PlayerSpawnedInWorld signature (_entityId, not _player)",
+            "Fixes Directive/Classes InitMod failure at launch"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "68_P13_KnowledgeScrap",
       "version": "1.0.4",
