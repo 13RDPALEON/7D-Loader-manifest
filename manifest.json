@@ -611,7 +611,11 @@
       "install_folder": "80_P13_Directive",
       "status": "updating",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.4.62.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.4.62.rar",
+      "requires": [
+        "P13_Classes"
+      ],
+      "optional": true
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -655,7 +659,8 @@
       "install_folder": "P13_Classes",
       "status": "updating",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.4.rar",
+      "optional": true
     },
     {
       "id": "P13_GetAllBlocks",
