@@ -5,25 +5,25 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-10T22:04:33+02:00",
+  "updated_at": "2026-08-10T22:09:03+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.30",
+    "version": "0.1.31",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "FIX update loop: Setup via GitHub URL + SHA256 check + silent install. Mods under redesign section; Get All Blocks withdrawn / auto-removed.",
+    "notes": "IMPORTANT: install 0.1.31 from GitHub if still on 0.1.29. Fix: fresh manifest fetch (no stale cache hiding updates) + GitHub Setup URL + SHA256.",
     "security": {
-      "sha256": "9394f197b02395bc9ccbfcbab70bf09f0a49a22676f685b66a597602826d60a2",
-      "virustotal_url": "https://www.virustotal.com/gui/file/9394f197b02395bc9ccbfcbab70bf09f0a49a22676f685b66a597602826d60a2/detection",
+      "sha256": "c77293356b597a9c398e57a64bb035f6eaf4f670ee2b7398cd29a0463c84d404",
+      "virustotal_url": "https://www.virustotal.com/gui/file/c77293356b597a9c398e57a64bb035f6eaf4f670ee2b7398cd29a0463c84d404/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256.",
       "scanned_at": null
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.30/7D_Loader_Setup.exe",
-    "download_url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.30/7D_Loader_Setup.exe"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.31/7D_Loader_Setup.exe",
+    "download_url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.31/7D_Loader_Setup.exe"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
