@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T01:40:35+02:00",
+  "updated_at": "2026-08-11T01:44:03+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -469,13 +469,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.8",
-      "file": "62_P13_LearnByDoing_v1.1.8.rar",
+      "version": "1.1.10",
+      "file": "62_P13_LearnByDoing_v1.1.10.rar",
       "install_folder": "62_P13_LearnByDoing",
-      "status": "updating",
+      "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.8.rar",
-      "file_id": "14mTVLGJrYUaCUFGo4CoGrKt3O02Q2ixN"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.10.rar",
+      "file_id": "194pqovz27pzx_7e2S1VSd0bHfVGNNp3z"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -745,6 +745,38 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.10",
+      "date": "2026-08-11",
+      "title": "Mid/late XP curve + soft-nerf loot",
+      "bullets": [
+        "Priority (handguns, food, tools): Thr growth −15% from craft 35",
+        "Rifles / MG / medical: −15% from craft 40; other LBD weapons −10% from craft 20",
+        "From 60: softener −10% (replaces 1.1.7 −5%)",
+        "Gun hit XP +20% from craft 40; soft-nerf remaining magazines and perk books in world loot"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Courbe XP mid/late + soft-nerf loot",
+          "bullets": [
+            "Priorite (pistolet, food, outils): croissance Thr −15 % des le craft 35",
+            "Fusils / MG / medical: −15 % des le craft 40 ; autres armes LBD −10 % des le craft 20",
+            "Des 60: softener −10 % (remplace le −5 % de 1.1.7)",
+            "XP hit armes a feu +20 % des craft 40 ; soft-nerf magazines restants et perk books en loot monde"
+          ]
+        },
+        "en": {
+          "title": "Mid/late XP curve + soft-nerf loot",
+          "bullets": [
+            "Priority (handguns, food, tools): Thr growth −15% from craft 35",
+            "Rifles / MG / medical: −15% from craft 40; other LBD weapons −10% from craft 20",
+            "From 60: softener −10% (replaces 1.1.7 −5%)",
+            "Gun hit XP +20% from craft 40; soft-nerf remaining magazines and perk books in world loot"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "80_P13_Directive",
       "version": "0.6.49",
@@ -4518,9 +4550,9 @@
     },
     {
       "mod_id": "62_P13_LearnByDoing",
-      "version": "1.1.8",
-      "date": "2026-08-09",
-      "title": "Version 1.1.8",
+      "version": "1.1.10",
+      "date": "2026-08-11",
+      "title": "Version 1.1.10",
       "bullets": [
         "Faster mid/late Thr curve (priority −15% @35, rifles/MG/med −15% @40, others −10% @20; @60 softener −10%)",
         "Gun hit XP +20% from craft 40 (handguns/rifles/MG)",
@@ -4528,7 +4560,7 @@
       ],
       "i18n": {
         "fr": {
-          "title": "Version 1.1.8",
+          "title": "Version 1.1.10",
           "bullets": [
             "Courbe Thr mid/late accélérée (−15% @35 priorité, −15% @40 fusils/MG/méd, −10% @20 autres; @60 −10%)",
             "XP hit armes +20% dès craft 40 (pistolet/fusil/MG)",
@@ -4536,7 +4568,7 @@
           ]
         },
         "en": {
-          "title": "Version 1.1.8",
+          "title": "Version 1.1.10",
           "bullets": [
             "Faster mid/late Thr curve; gun hit XP +20% from craft 40",
             "Soft-nerf remaining mags + perk books"
