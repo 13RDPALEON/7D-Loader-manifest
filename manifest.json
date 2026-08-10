@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-10T22:15:19+02:00",
+  "updated_at": "2026-08-11T01:37:12+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -330,7 +330,8 @@
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.9.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.9.rar",
+      "file_id": "1GXqtP-T8a_cqj4JcyA9Fs6q5EVmsJnrf"
     },
     {
       "id": "31_P13_AEC_ExtendedQuests",
@@ -351,7 +352,8 @@
       "status": "stable",
       "featured": true,
       "optional": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/32_P13_AEC_BossDamageNerf_v1.0.1.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/32_P13_AEC_BossDamageNerf_v1.0.1.rar",
+      "file_id": "1ggeCmM9tCLt7j30cN9wsX21voTsUfB4F"
     },
     {
       "id": "40_P13_MRAP",
@@ -471,7 +473,8 @@
       "install_folder": "62_P13_LearnByDoing",
       "status": "updating",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.8.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.8.rar",
+      "file_id": "14mTVLGJrYUaCUFGo4CoGrKt3O02Q2ixN"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -531,7 +534,8 @@
       "install_folder": "68_P13_KnowledgeScrap",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.4.rar",
+      "file_id": "1B7EwDISUY84PNDCWiPtYLKdHhEhX-7CF"
     },
     {
       "id": "70_P13_BeyondStorage3",
@@ -581,7 +585,8 @@
       "file": "74_P13_LovelyLootBags_v1.0.1.rar",
       "install_folder": "74_P13_LovelyLootBags",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/74_P13_LovelyLootBags_v1.0.1.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/74_P13_LovelyLootBags_v1.0.1.rar",
+      "file_id": "1MTk1BUZrWuA_zhdm1dDVFlhZDzkm4i5u"
     },
     {
       "id": "75_P13_Honey",
@@ -606,16 +611,17 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.4.62",
-      "file": "80_P13_Directive_v0.4.62.rar",
+      "version": "0.6.49",
+      "file": "80_P13_Directive_v0.6.49.rar",
       "install_folder": "80_P13_Directive",
-      "status": "updating",
+      "status": "recent",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.4.62.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.49.rar",
       "requires": [
         "P13_Classes"
       ],
-      "optional": true
+      "optional": true,
+      "file_id": "1idxmy9syXt9UWT4WWFhcPhar_TGON-kY"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -648,18 +654,19 @@
       "legacy_folders": [
         "P13_GetAllBlocks",
         "ClaimRecover"
-      ]
+      ],
+      "file_id": "1rWsAjyEzNGfcy5sqJHiLpuhdAcKGAptz"
     },
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.4",
-      "file": "P13_Classes_v0.1.4.rar",
-      "file_id": "1ANNc0sFjSzOx0_0sKoXgCObS2TfkwRfS",
+      "version": "0.1.42",
+      "file": "P13_Classes_v0.1.42.rar",
+      "file_id": "1JyPPUINevsWwyZtVtOKRfCEV4NFrIb8o",
       "install_folder": "P13_Classes",
-      "status": "updating",
+      "status": "recent",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.4.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.42.rar",
       "optional": true
     },
     {
@@ -684,7 +691,8 @@
         "P13_GetAllBlocks",
         "ClaimRecover"
       ],
-      "note": "Temporarily withdrawn for redesign — auto-removed from Mods on loader update"
+      "note": "Temporarily withdrawn for redesign — auto-removed from Mods on loader update",
+      "file_id": "1Lpk78fqfUc97FlYoko8_gXUsp60qZbh_"
     },
     {
       "id": "P13_PerfectRecycler",
@@ -736,6 +744,67 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.49",
+      "date": "2026-08-11",
+      "title": "Continuity campaign",
+      "bullets": [
+        "Classes optional for pack, **mandatory** with Directive",
+        "Loader popup if Classes missing; in-game guard DLL",
+        "Continuity notes: larger window + font 22",
+        "Continuity Jobs / tickets / supply forge TurnIn"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Campagne Continuity",
+          "bullets": [
+            "Classes optionnel pour le pack, **obligatoire** avec Directive",
+            "Popup Loader si Classes manquant ; garde-fou in-game (DLL)",
+            "Notes Continuity : fenêtre agrandie + police 22",
+            "Jobs Continuity / tickets / TurnIn supply forge"
+          ]
+        },
+        "en": {
+          "title": "Continuity campaign",
+          "bullets": [
+            "Classes optional for pack, **mandatory** with Directive",
+            "Loader popup if Classes missing; in-game guard DLL",
+            "Continuity notes: larger window + font 22",
+            "Continuity Jobs / tickets / supply forge TurnIn"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_Classes",
+      "version": "0.1.42",
+      "date": "2026-08-11",
+      "title": "Optional + Continuity",
+      "bullets": [
+        "Classes remains optional for the Full Pack",
+        "**Mandatory** if Directive (campaign) is installed",
+        "Continuity soft-gate when Directive is absent"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Optionnel + Continuity",
+          "bullets": [
+            "Classes reste optionnel pour le Full Pack",
+            "**Obligatoire** si Directive (campagne) est installée",
+            "Soft-gate Continuity si Directive absente"
+          ]
+        },
+        "en": {
+          "title": "Optional + Continuity",
+          "bullets": [
+            "Classes remains optional for the Full Pack",
+            "**Mandatory** if Directive (campaign) is installed",
+            "Continuity soft-gate when Directive is absent"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "7d_loader",
       "version": "0.1.29",
@@ -848,672 +917,6 @@
             "Bundle certifi CA store in frozen build (fixes CERTIFICATE_VERIFY_FAILED)",
             "All HTTPS downloads use certifi SSL context",
             "Unverified SSL only as last resort"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.16",
-      "date": "2026-08-08",
-      "title": "Ally/party sharing around recover",
-      "bullets": [
-        "Self Take path untouched",
-        "Share via IsPlacer + Relations (TryFromCombinedString, party entityId)"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Partage allies/party autour du recover",
-          "bullets": [
-            "Chemin Prendre self inchange",
-            "Partage via IsPlacer + Relations (TryFromCombinedString, party entityId)"
-          ]
-        },
-        "en": {
-          "title": "Ally/party sharing around recover",
-          "bullets": [
-            "Self Take path untouched",
-            "Share via IsPlacer + Relations (TryFromCombinedString, party entityId)"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.15",
-      "date": "2026-08-08",
-      "title": "Fix Take never offered (base Block cmds)",
-      "bullets": [
-        "Ignore vanilla Block disabled take in HasNativeRecover",
-        "ChangeBlocks no longer claims ownership (PlaceBlock only)"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Fix Prendre jamais propose (cmds Block de base)",
-          "bullets": [
-            "Ignore le take desactive du Block vanilla dans HasNativeRecover",
-            "ChangeBlocks ne revendique plus la pose (PlaceBlock seul)"
-          ]
-        },
-        "en": {
-          "title": "Fix Take never offered (base Block cmds)",
-          "bullets": [
-            "Ignore vanilla Block disabled take in HasNativeRecover",
-            "ChangeBlocks no longer claims ownership (PlaceBlock only)"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.14",
-      "date": "2026-08-08",
-      "title": "Fix Take menu (0.1.13 regression)",
-      "bullets": [
-        "Restore Harmony activation patches (silent GetMethod missed Block methods)",
-        "Self recover via IsPlacer again; allies/party unchanged"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Fix menu Prendre (regression 0.1.13)",
-          "bullets": [
-            "Patches Harmony activation restaures",
-            "Recover self via IsPlacer ; allies/party inchanges"
-          ]
-        },
-        "en": {
-          "title": "Fix Take menu (0.1.13 regression)",
-          "bullets": [
-            "Restore Harmony activation patches",
-            "Self recover via IsPlacer again; allies/party unchanged"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.13",
-      "date": "2026-08-08",
-      "title": "Fix Harmony WRN spam at boot",
-      "bullets": [
-        "Silent DeclaredOnly scan — no AccessTools WRN flood on Block subclasses"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Fix spam Harmony WRN au boot",
-          "bullets": [
-            "Scan DeclaredOnly silencieux — plus de flood WRN AccessTools"
-          ]
-        },
-        "en": {
-          "title": "Fix Harmony WRN spam at boot",
-          "bullets": [
-            "Silent DeclaredOnly scan — no AccessTools WRN flood on Block subclasses"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.12",
-      "date": "2026-08-08",
-      "title": "Allies + party recover",
-      "bullets": [
-        "Claim allies or same party can cross-recover placed blocks",
-        "Party also exempt from LCB deadzone",
-        "Optional in loader (out of Full Pack); Steam friend ≠ claim ally"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Recup allies + party",
-          "bullets": [
-            "Allies claim ou meme party : recup croisee des blocs poses",
-            "Party aussi exempt de la deadzone LCB",
-            "Optionnel dans le loader (hors Full Pack) ; ami Steam ≠ allie claim"
-          ]
-        },
-        "en": {
-          "title": "Allies + party recover",
-          "bullets": [
-            "Claim allies or same party can cross-recover placed blocks",
-            "Party also exempt from LCB deadzone",
-            "Optional in loader (out of Full Pack); Steam friend ≠ claim ally"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "71_P13_RepairVision",
-      "version": "1.3.1.0",
-      "date": "2026-08-08",
-      "title": "Show any damage + config in rar",
-      "bullets": [
-        "Overlay from any damage (threshold 1.0), including ~99% HP",
-        "Darker green near-full, toward red; RepairVisionConfig.json shipped",
-        "Optional (out of Full Pack)"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Overlay des le moindre degat + JSON",
-          "bullets": [
-            "Visible des le moindre degat (seuil 1.0), y compris ~99 % de vie",
-            "Vert sombre pres du plein, puis rouge ; RepairVisionConfig.json inclus",
-            "Optionnel (hors Full Pack)"
-          ]
-        },
-        "en": {
-          "title": "Show any damage + config in rar",
-          "bullets": [
-            "Overlay from any damage (threshold 1.0), including ~99% HP",
-            "Darker green near-full, toward red; RepairVisionConfig.json shipped",
-            "Optional (out of Full Pack)"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "71_P13_RepairVision",
-      "version": "1.3.0.0",
-      "date": "2026-08-08",
-      "title": "Optional — update in progress",
-      "bullets": [
-        "Moved to Optional (out of Full Pack)",
-        "Status: updating (damage overlay colors/threshold)"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Optionnel — mise a jour en cours",
-          "bullets": [
-            "Passe en optionnel (hors Full Pack)",
-            "Statut: en cours de maj (couleurs / seuil overlay degats)"
-          ]
-        },
-        "en": {
-          "title": "Optional — update in progress",
-          "bullets": [
-            "Moved to Optional (out of Full Pack)",
-            "Status: updating (damage overlay colors/threshold)"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "P13_GetAllBlocks",
-      "version": "0.1.11",
-      "date": "2026-08-08",
-      "title": "Optional — update in progress",
-      "bullets": [
-        "Moved to Optional (out of Full Pack)",
-        "Status: updating (ally / party claim recover)"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Optionnel — mise a jour en cours",
-          "bullets": [
-            "Passe en optionnel (hors Full Pack)",
-            "Statut: en cours de maj (recup alliés / party)"
-          ]
-        },
-        "en": {
-          "title": "Optional — update in progress",
-          "bullets": [
-            "Moved to Optional (out of Full Pack)",
-            "Status: updating (ally / party claim recover)"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "03_P13_MainMenu",
-      "version": "1.0.4",
-      "date": "2026-08-08",
-      "title": "Main Menu button aspect ratio fix",
-      "bullets": [
-        "Discord/Loader button images no longer stretched"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Ratio boutons Main Menu corrige",
-          "bullets": [
-            "Boutons Discord/Loader plus etires"
-          ]
-        },
-        "en": {
-          "title": "Main Menu button aspect ratio fix",
-          "bullets": [
-            "Discord/Loader button images no longer stretched"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "03_P13_MainMenu",
-      "version": "1.0.3",
-      "date": "2026-08-08",
-      "title": "Clickable Discord / Loader image buttons",
-      "bullets": [
-        "Discord and 7Day Loader image buttons with clickable URLs",
-        "Banner moved so vanilla Discord icon does not block clicks"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Boutons image Discord / Loader cliquables",
-          "bullets": [
-            "Boutons image Discord et 7Day Loader avec URLs cliquables",
-            "Banniere decalee pour ne pas passer sous le Discord du jeu"
-          ]
-        },
-        "en": {
-          "title": "Clickable Discord / Loader image buttons",
-          "bullets": [
-            "Discord and 7Day Loader image buttons with clickable URLs",
-            "Banner moved so vanilla Discord icon does not block clicks"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "03_P13_MainMenu",
-      "version": "1.0.2",
-      "date": "2026-08-08",
-      "title": "Main Menu banner links visible",
-      "bullets": [
-        "Raise banner so credits and Discord/Loader URLs stay on screen",
-        "Hardcoded visible link lines under PROTOCOL 13"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Liens bandeau Main Menu visibles",
-          "bullets": [
-            "Banniere remontee pour credits + liens Discord/Loader",
-            "Lignes de liens visibles sous PROTOCOL 13"
-          ]
-        },
-        "en": {
-          "title": "Main Menu banner links visible",
-          "bullets": [
-            "Raise banner so credits and Discord/Loader URLs stay on screen",
-            "Hardcoded visible link lines under PROTOCOL 13"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "03_P13_MainMenu",
-      "version": "1.0.1",
-      "date": "2026-08-08",
-      "title": "Main Menu credits + links",
-      "bullets": [
-        "Fix tagline localization (raw key on screen)",
-        "Credits: Project Manager Sayli — Testers Yogun, Flo, Ezekiel",
-        "Clickable Discord and 7Day Loader links"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Main Menu credits + liens",
-          "bullets": [
-            "Fix tagline Localization (cle affichee brute)",
-            "Credits: Manager projet Sayli — Testeurs Yogun, Flo, Ezekiel",
-            "Liens Discord et 7Day Loader cliquables"
-          ]
-        },
-        "en": {
-          "title": "Main Menu credits + links",
-          "bullets": [
-            "Fix tagline localization (raw key on screen)",
-            "Credits: Project Manager Sayli — Testers Yogun, Flo, Ezekiel",
-            "Clickable Discord and 7Day Loader links"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.22",
-      "date": "2026-08-08",
-      "title": "Optional mods / patches",
-      "bullets": [
-        "Catalog flag optional: known by verify but never required/missing",
-        "Optional section in Mods tab; Full Pack excludes optionals",
-        "AEC Boss Damage Nerf moved to optional patches"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Mods / patchs optionnels",
-          "bullets": [
-            "Flag optional: connus du scan mais jamais manquants",
-            "Section Optionnels dans Mods; exclus du Full Pack",
-            "AEC Boss Damage Nerf passe en optionnel"
-          ]
-        },
-        "en": {
-          "title": "Optional mods / patches",
-          "bullets": [
-            "optional flag: known by verify but never required/missing",
-            "Optional section in Mods; excluded from Full Pack",
-            "AEC Boss Damage Nerf moved to optional"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.21",
-      "date": "2026-08-08",
-      "title": "Drive mirror fallback + mods search",
-      "bullets": [
-        "Mod downloads try Google Drive first, then GitHub Releases mirror on quota/errors",
-        "Search bar in Mods tab to filter by name",
-        "Large mirror downloads stream to disk"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Fallback Drive/GitHub + recherche mods",
-          "bullets": [
-            "Telechargement mods: Drive d abord, miroir GitHub si quota/erreur",
-            "Barre de recherche dans l onglet Mods",
-            "Telechargements miroir volumineux en streaming"
-          ]
-        },
-        "en": {
-          "title": "Drive mirror fallback + mods search",
-          "bullets": [
-            "Mod downloads try Drive first, then GitHub Releases on quota/errors",
-            "Search bar in Mods tab to filter by name",
-            "Large mirror downloads stream to disk"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.20",
-      "date": "2026-08-08",
-      "title": "Fix Pack Info download",
-      "bullets": [
-        "Tiny RAR archives (Pack Info ~1KB) were wrongly rejected as empty",
-        "Downloads validated against HTML errors instead of a hard 1KB minimum"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Fix telechargement Pack Info",
-          "bullets": [
-            "Les petits RAR (Pack Info ~1 Ko) etaient refuses a tort",
-            "Validation HTML au lieu d un minimum strict de 1 Ko"
-          ]
-        },
-        "en": {
-          "title": "Fix Pack Info download",
-          "bullets": [
-            "Tiny RAR archives (Pack Info ~1KB) were wrongly rejected as empty",
-            "Validate HTML errors instead of a hard 1KB minimum"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.19",
-      "date": "2026-08-08",
-      "title": "Built-in RAR extraction",
-      "bullets": [
-        "Bundled UnRAR: install mods without WinRAR or 7-Zip",
-        "Native ZIP support via Python",
-        "Still uses system WinRAR/7-Zip if present as fallback"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Extraction RAR integree",
-          "bullets": [
-            "UnRAR integre: plus besoin de WinRAR ni 7-Zip",
-            "Support ZIP natif",
-            "Fallback WinRAR/7-Zip systeme si presents"
-          ]
-        },
-        "en": {
-          "title": "Built-in RAR extraction",
-          "bullets": [
-            "Bundled UnRAR: no WinRAR or 7-Zip required",
-            "Native ZIP support",
-            "Falls back to system tools if installed"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.18",
-      "date": "2026-08-08",
-      "title": "Mods status + export logs",
-      "bullets": [
-        "Mods list: colored status text only (Statut - Alpha), no colored card border",
-        "Export session log + open logs folder",
-        "Install errors written to AppData log with traceback"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Statut mods + export logs",
-          "bullets": [
-            "Liste mods: statut colore uniquement (Statut - Alpha), plus de bordure coloree",
-            "Exporter le log + ouvrir le dossier logs",
-            "Erreurs d install ecrites dans le log AppData avec traceback"
-          ]
-        },
-        "en": {
-          "title": "Mods status + export logs",
-          "bullets": [
-            "Mods list: colored status text only (Status - Alpha), no colored borders",
-            "Export session log + open logs folder",
-            "Install errors saved to AppData log with traceback"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.16",
-      "date": "2026-08-08",
-      "title": "Verify installation tab",
-      "bullets": [
-        "New tab: scan Mods vs Protocol13 catalog",
-        "Optional full Mods backup to a chosen folder",
-        "Clean unknown / third-party folders after confirmation",
-        "Settings shows last backup path"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Onglet Verifier l'installation",
-          "bullets": [
-            "Nouvel onglet: analyse Mods vs catalogue Protocol13",
-            "Sauvegarde optionnelle du dossier Mods",
-            "Nettoyage des dossiers hors catalogue (apres confirmation)",
-            "Reglages: chemin de la derniere sauvegarde"
-          ]
-        },
-        "en": {
-          "title": "Verify installation tab",
-          "bullets": [
-            "New tab: scan Mods vs Protocol13 catalog",
-            "Optional full Mods folder backup",
-            "Remove unknown folders after confirmation",
-            "Settings shows last backup path"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.15",
-      "date": "2026-08-08",
-      "title": "Auto-update via GitHub",
-      "bullets": [
-        "App updates download from GitHub Releases first (avoids Drive quota)",
-        "Clearer errors when Drive returns virus-scan / quota HTML",
-        "Includes 0.1.14 UI polish"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "MAJ via GitHub",
-          "bullets": [
-            "Mise a jour launcher via GitHub Releases en priorite (quota Drive)",
-            "Messages d erreur Drive plus clairs (scan / quota)",
-            "Inclut le polish UI 0.1.14"
-          ]
-        },
-        "en": {
-          "title": "Auto-update via GitHub",
-          "bullets": [
-            "Launcher updates prefer GitHub Releases (Drive quota workaround)",
-            "Clearer Drive virus-scan / quota errors",
-            "Includes 0.1.14 UI polish"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.14",
-      "date": "2026-08-08",
-      "title": "UI polish + atmospheres",
-      "bullets": [
-        "Home/Patch/Futur: mouse wheel + Shift swipe on slides",
-        "Atmosphere backgrounds that actually show under CustomTkinter",
-        "Larger fonts, clearer mod status colors (stable/alpha/updating)",
-        "Roadmap: Classes rework item"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "UI + atmospheres",
-          "bullets": [
-            "Accueil/Patch/Futur: molette + Shift pour glisser les slides",
-            "Fonds atmosphere visibles (CustomTkinter)",
-            "Polices plus grandes, couleurs de statut mods",
-            "Roadmap: refonte Classes"
-          ]
-        },
-        "en": {
-          "title": "UI polish + atmospheres",
-          "bullets": [
-            "Home/Patch/Futur: mouse wheel + Shift swipe on slides",
-            "Atmosphere backgrounds visible under CustomTkinter",
-            "Larger fonts, clearer mod status colors",
-            "Roadmap: Classes rework"
-          ]
-        },
-        "es": {
-          "title": "UI + atmospheres",
-          "bullets": [
-            "Slides con rueda y Shift",
-            "Fondos atmosphere visibles",
-            "Fuentes y colores de estado",
-            "Roadmap: Classes"
-          ]
-        },
-        "it": {
-          "title": "UI + atmospheres",
-          "bullets": [
-            "Slide con rotella e Shift",
-            "Sfondi atmosphere visibili",
-            "Font e colori stato",
-            "Roadmap: Classes"
-          ]
-        },
-        "ru": {
-          "title": "UI + atmospheres",
-          "bullets": [
-            "Слайды: колесо и Shift",
-            "Видимые фоны atmosphere",
-            "Шрифты и цвета статусов",
-            "Roadmap: Classes"
-          ]
-        },
-        "ja": {
-          "title": "UI + atmospheres",
-          "bullets": [
-            "スライド: ホイールとShift",
-            "atmosphere背景を表示",
-            "フォントとステータス色",
-            "Roadmap: Classes"
-          ]
-        },
-        "zh": {
-          "title": "UI + atmospheres",
-          "bullets": [
-            "幻灯片：滚轮与Shift",
-            "显示atmosphere背景",
-            "更大字体与状态颜色",
-            "路线图：Classes"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "7d_loader",
-      "version": "0.1.13",
-      "date": "2026-08-08",
-      "title": "UI refresh + 7Day Loader",
-      "bullets": [
-        "Patch notes and Futur: slide navigation",
-        "Mods list: clearer cards, faded backgrounds",
-        "Rebrand: 7Day Loader / 13RDPA Team"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "UI + 7Day Loader",
-          "bullets": [
-            "Patch notes et Futur: navigation par slides",
-            "Liste mods: cartes plus lisibles, fonds en fondu",
-            "Rebrand: 7Day Loader / 13RDPA Team",
-            "Aide install Windows / navigateur"
-          ]
-        },
-        "en": {
-          "title": "UI refresh + 7Day Loader",
-          "bullets": [
-            "Patch notes and Futur: slide navigation",
-            "Mods list: clearer cards, faded backgrounds",
-            "Rebrand: 7Day Loader / 13RDPA Team",
-            "Windows / browser install help"
-          ]
-        },
-        "es": {
-          "title": "UI + 7Day Loader",
-          "bullets": [
-            "Slides en notas y Futur",
-            "Lista de mods mas clara",
-            "Rebrand 7Day Loader / 13RDPA Team"
-          ]
-        },
-        "it": {
-          "title": "UI + 7Day Loader",
-          "bullets": [
-            "Slide note e Futur",
-            "Lista mods piu chiara",
-            "Rebrand 7Day Loader / 13RDPA Team"
-          ]
-        },
-        "ru": {
-          "title": "UI + 7Day Loader",
-          "bullets": [
-            "Слайды в заметках и Futur",
-            "Список модов читаемее",
-            "Ребрендинг 7Day Loader"
-          ]
-        },
-        "ja": {
-          "title": "UI + 7Day Loader",
-          "bullets": [
-            "パッチノート/Futurをスライド化",
-            "Modsリスト改善",
-            "7Day Loaderにリブランド"
-          ]
-        },
-        "zh": {
-          "title": "UI + 7Day Loader",
-          "bullets": [
-            "更新说明与Futur支持滑动",
-            "Mods列表更清晰",
-            "品牌更名为 7Day Loader"
           ]
         }
       }
@@ -2208,6 +1611,35 @@
       }
     },
     {
+      "mod_id": "71_P13_RepairVision",
+      "version": "1.3.1.0",
+      "date": "2026-08-08",
+      "title": "Show any damage + config in rar",
+      "bullets": [
+        "Overlay from any damage (threshold 1.0), including ~99% HP",
+        "Darker green near-full, toward red; RepairVisionConfig.json shipped",
+        "Optional (out of Full Pack)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Overlay des le moindre degat + JSON",
+          "bullets": [
+            "Visible des le moindre degat (seuil 1.0), y compris ~99 % de vie",
+            "Vert sombre pres du plein, puis rouge ; RepairVisionConfig.json inclus",
+            "Optionnel (hors Full Pack)"
+          ]
+        },
+        "en": {
+          "title": "Show any damage + config in rar",
+          "bullets": [
+            "Overlay from any damage (threshold 1.0), including ~99% HP",
+            "Darker green near-full, toward red; RepairVisionConfig.json shipped",
+            "Optional (out of Full Pack)"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "73_P13_StopFuelWaste",
       "version": "1.3.1",
       "date": "2026-08-08",
@@ -2256,6 +1688,32 @@
           "title": "版本 1.3.1",
           "bullets": [
             "发布 Stop Fuel Waste 1.3.1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "71_P13_RepairVision",
+      "version": "1.3.0.0",
+      "date": "2026-08-08",
+      "title": "Optional — update in progress",
+      "bullets": [
+        "Moved to Optional (out of Full Pack)",
+        "Status: updating (damage overlay colors/threshold)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Optionnel — mise a jour en cours",
+          "bullets": [
+            "Passe en optionnel (hors Full Pack)",
+            "Statut: en cours de maj (couleurs / seuil overlay degats)"
+          ]
+        },
+        "en": {
+          "title": "Optional — update in progress",
+          "bullets": [
+            "Moved to Optional (out of Full Pack)",
+            "Status: updating (damage overlay colors/threshold)"
           ]
         }
       }
@@ -3337,6 +2795,29 @@
       }
     },
     {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.4",
+      "date": "2026-08-08",
+      "title": "Main Menu button aspect ratio fix",
+      "bullets": [
+        "Discord/Loader button images no longer stretched"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Ratio boutons Main Menu corrige",
+          "bullets": [
+            "Boutons Discord/Loader plus etires"
+          ]
+        },
+        "en": {
+          "title": "Main Menu button aspect ratio fix",
+          "bullets": [
+            "Discord/Loader button images no longer stretched"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "51_P13_LoadmasterBackpacks",
       "version": "1.0.4",
       "date": "2026-08-08",
@@ -3385,6 +2866,87 @@
           "title": "版本 1.0.4",
           "bullets": [
             "发布 Loadmaster Backpacks 1.0.4"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.3",
+      "date": "2026-08-08",
+      "title": "Clickable Discord / Loader image buttons",
+      "bullets": [
+        "Discord and 7Day Loader image buttons with clickable URLs",
+        "Banner moved so vanilla Discord icon does not block clicks"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Boutons image Discord / Loader cliquables",
+          "bullets": [
+            "Boutons image Discord et 7Day Loader avec URLs cliquables",
+            "Banniere decalee pour ne pas passer sous le Discord du jeu"
+          ]
+        },
+        "en": {
+          "title": "Clickable Discord / Loader image buttons",
+          "bullets": [
+            "Discord and 7Day Loader image buttons with clickable URLs",
+            "Banner moved so vanilla Discord icon does not block clicks"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.2",
+      "date": "2026-08-08",
+      "title": "Main Menu banner links visible",
+      "bullets": [
+        "Raise banner so credits and Discord/Loader URLs stay on screen",
+        "Hardcoded visible link lines under PROTOCOL 13"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Liens bandeau Main Menu visibles",
+          "bullets": [
+            "Banniere remontee pour credits + liens Discord/Loader",
+            "Lignes de liens visibles sous PROTOCOL 13"
+          ]
+        },
+        "en": {
+          "title": "Main Menu banner links visible",
+          "bullets": [
+            "Raise banner so credits and Discord/Loader URLs stay on screen",
+            "Hardcoded visible link lines under PROTOCOL 13"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "03_P13_MainMenu",
+      "version": "1.0.1",
+      "date": "2026-08-08",
+      "title": "Main Menu credits + links",
+      "bullets": [
+        "Fix tagline localization (raw key on screen)",
+        "Credits: Project Manager Sayli — Testers Yogun, Flo, Ezekiel",
+        "Clickable Discord and 7Day Loader links"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Main Menu credits + liens",
+          "bullets": [
+            "Fix tagline Localization (cle affichee brute)",
+            "Credits: Manager projet Sayli — Testeurs Yogun, Flo, Ezekiel",
+            "Liens Discord et 7Day Loader cliquables"
+          ]
+        },
+        "en": {
+          "title": "Main Menu credits + links",
+          "bullets": [
+            "Fix tagline localization (raw key on screen)",
+            "Credits: Project Manager Sayli — Testers Yogun, Flo, Ezekiel",
+            "Clickable Discord and 7Day Loader links"
           ]
         }
       }
@@ -4087,6 +3649,148 @@
       ]
     },
     {
+      "mod_id": "7d_loader",
+      "version": "0.1.22",
+      "date": "2026-08-08",
+      "title": "Optional mods / patches",
+      "bullets": [
+        "Catalog flag optional: known by verify but never required/missing",
+        "Optional section in Mods tab; Full Pack excludes optionals",
+        "AEC Boss Damage Nerf moved to optional patches"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Mods / patchs optionnels",
+          "bullets": [
+            "Flag optional: connus du scan mais jamais manquants",
+            "Section Optionnels dans Mods; exclus du Full Pack",
+            "AEC Boss Damage Nerf passe en optionnel"
+          ]
+        },
+        "en": {
+          "title": "Optional mods / patches",
+          "bullets": [
+            "optional flag: known by verify but never required/missing",
+            "Optional section in Mods; excluded from Full Pack",
+            "AEC Boss Damage Nerf moved to optional"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.21",
+      "date": "2026-08-08",
+      "title": "Drive mirror fallback + mods search",
+      "bullets": [
+        "Mod downloads try Google Drive first, then GitHub Releases mirror on quota/errors",
+        "Search bar in Mods tab to filter by name",
+        "Large mirror downloads stream to disk"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fallback Drive/GitHub + recherche mods",
+          "bullets": [
+            "Telechargement mods: Drive d abord, miroir GitHub si quota/erreur",
+            "Barre de recherche dans l onglet Mods",
+            "Telechargements miroir volumineux en streaming"
+          ]
+        },
+        "en": {
+          "title": "Drive mirror fallback + mods search",
+          "bullets": [
+            "Mod downloads try Drive first, then GitHub Releases on quota/errors",
+            "Search bar in Mods tab to filter by name",
+            "Large mirror downloads stream to disk"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.20",
+      "date": "2026-08-08",
+      "title": "Fix Pack Info download",
+      "bullets": [
+        "Tiny RAR archives (Pack Info ~1KB) were wrongly rejected as empty",
+        "Downloads validated against HTML errors instead of a hard 1KB minimum"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix telechargement Pack Info",
+          "bullets": [
+            "Les petits RAR (Pack Info ~1 Ko) etaient refuses a tort",
+            "Validation HTML au lieu d un minimum strict de 1 Ko"
+          ]
+        },
+        "en": {
+          "title": "Fix Pack Info download",
+          "bullets": [
+            "Tiny RAR archives (Pack Info ~1KB) were wrongly rejected as empty",
+            "Validate HTML errors instead of a hard 1KB minimum"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.19",
+      "date": "2026-08-08",
+      "title": "Built-in RAR extraction",
+      "bullets": [
+        "Bundled UnRAR: install mods without WinRAR or 7-Zip",
+        "Native ZIP support via Python",
+        "Still uses system WinRAR/7-Zip if present as fallback"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Extraction RAR integree",
+          "bullets": [
+            "UnRAR integre: plus besoin de WinRAR ni 7-Zip",
+            "Support ZIP natif",
+            "Fallback WinRAR/7-Zip systeme si presents"
+          ]
+        },
+        "en": {
+          "title": "Built-in RAR extraction",
+          "bullets": [
+            "Bundled UnRAR: no WinRAR or 7-Zip required",
+            "Native ZIP support",
+            "Falls back to system tools if installed"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.18",
+      "date": "2026-08-08",
+      "title": "Mods status + export logs",
+      "bullets": [
+        "Mods list: colored status text only (Statut - Alpha), no colored card border",
+        "Export session log + open logs folder",
+        "Install errors written to AppData log with traceback"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Statut mods + export logs",
+          "bullets": [
+            "Liste mods: statut colore uniquement (Statut - Alpha), plus de bordure coloree",
+            "Exporter le log + ouvrir le dossier logs",
+            "Erreurs d install ecrites dans le log AppData avec traceback"
+          ]
+        },
+        "en": {
+          "title": "Mods status + export logs",
+          "bullets": [
+            "Mods list: colored status text only (Status - Alpha), no colored borders",
+            "Export session log + open logs folder",
+            "Install errors saved to AppData log with traceback"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "P13_PerfectRecycler",
       "version": "0.1.17",
       "date": "2026-08-08",
@@ -4121,6 +3825,345 @@
         "Unlock: craftingWorkstations level 10 (with workbench)",
         "Recipe: 150 nails, 100 polymer, 1 battery, 500 wood, 20 electric parts"
       ]
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.16",
+      "date": "2026-08-08",
+      "title": "Ally/party sharing around recover",
+      "bullets": [
+        "Self Take path untouched",
+        "Share via IsPlacer + Relations (TryFromCombinedString, party entityId)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Partage allies/party autour du recover",
+          "bullets": [
+            "Chemin Prendre self inchange",
+            "Partage via IsPlacer + Relations (TryFromCombinedString, party entityId)"
+          ]
+        },
+        "en": {
+          "title": "Ally/party sharing around recover",
+          "bullets": [
+            "Self Take path untouched",
+            "Share via IsPlacer + Relations (TryFromCombinedString, party entityId)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.16",
+      "date": "2026-08-08",
+      "title": "Verify installation tab",
+      "bullets": [
+        "New tab: scan Mods vs Protocol13 catalog",
+        "Optional full Mods backup to a chosen folder",
+        "Clean unknown / third-party folders after confirmation",
+        "Settings shows last backup path"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Onglet Verifier l'installation",
+          "bullets": [
+            "Nouvel onglet: analyse Mods vs catalogue Protocol13",
+            "Sauvegarde optionnelle du dossier Mods",
+            "Nettoyage des dossiers hors catalogue (apres confirmation)",
+            "Reglages: chemin de la derniere sauvegarde"
+          ]
+        },
+        "en": {
+          "title": "Verify installation tab",
+          "bullets": [
+            "New tab: scan Mods vs Protocol13 catalog",
+            "Optional full Mods folder backup",
+            "Remove unknown folders after confirmation",
+            "Settings shows last backup path"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.15",
+      "date": "2026-08-08",
+      "title": "Fix Take never offered (base Block cmds)",
+      "bullets": [
+        "Ignore vanilla Block disabled take in HasNativeRecover",
+        "ChangeBlocks no longer claims ownership (PlaceBlock only)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix Prendre jamais propose (cmds Block de base)",
+          "bullets": [
+            "Ignore le take desactive du Block vanilla dans HasNativeRecover",
+            "ChangeBlocks ne revendique plus la pose (PlaceBlock seul)"
+          ]
+        },
+        "en": {
+          "title": "Fix Take never offered (base Block cmds)",
+          "bullets": [
+            "Ignore vanilla Block disabled take in HasNativeRecover",
+            "ChangeBlocks no longer claims ownership (PlaceBlock only)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.15",
+      "date": "2026-08-08",
+      "title": "Auto-update via GitHub",
+      "bullets": [
+        "App updates download from GitHub Releases first (avoids Drive quota)",
+        "Clearer errors when Drive returns virus-scan / quota HTML",
+        "Includes 0.1.14 UI polish"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "MAJ via GitHub",
+          "bullets": [
+            "Mise a jour launcher via GitHub Releases en priorite (quota Drive)",
+            "Messages d erreur Drive plus clairs (scan / quota)",
+            "Inclut le polish UI 0.1.14"
+          ]
+        },
+        "en": {
+          "title": "Auto-update via GitHub",
+          "bullets": [
+            "Launcher updates prefer GitHub Releases (Drive quota workaround)",
+            "Clearer Drive virus-scan / quota errors",
+            "Includes 0.1.14 UI polish"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.14",
+      "date": "2026-08-08",
+      "title": "Fix Take menu (0.1.13 regression)",
+      "bullets": [
+        "Restore Harmony activation patches (silent GetMethod missed Block methods)",
+        "Self recover via IsPlacer again; allies/party unchanged"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix menu Prendre (regression 0.1.13)",
+          "bullets": [
+            "Patches Harmony activation restaures",
+            "Recover self via IsPlacer ; allies/party inchanges"
+          ]
+        },
+        "en": {
+          "title": "Fix Take menu (0.1.13 regression)",
+          "bullets": [
+            "Restore Harmony activation patches",
+            "Self recover via IsPlacer again; allies/party unchanged"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.14",
+      "date": "2026-08-08",
+      "title": "UI polish + atmospheres",
+      "bullets": [
+        "Home/Patch/Futur: mouse wheel + Shift swipe on slides",
+        "Atmosphere backgrounds that actually show under CustomTkinter",
+        "Larger fonts, clearer mod status colors (stable/alpha/updating)",
+        "Roadmap: Classes rework item"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Accueil/Patch/Futur: molette + Shift pour glisser les slides",
+            "Fonds atmosphere visibles (CustomTkinter)",
+            "Polices plus grandes, couleurs de statut mods",
+            "Roadmap: refonte Classes"
+          ]
+        },
+        "en": {
+          "title": "UI polish + atmospheres",
+          "bullets": [
+            "Home/Patch/Futur: mouse wheel + Shift swipe on slides",
+            "Atmosphere backgrounds visible under CustomTkinter",
+            "Larger fonts, clearer mod status colors",
+            "Roadmap: Classes rework"
+          ]
+        },
+        "es": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Slides con rueda y Shift",
+            "Fondos atmosphere visibles",
+            "Fuentes y colores de estado",
+            "Roadmap: Classes"
+          ]
+        },
+        "it": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Slide con rotella e Shift",
+            "Sfondi atmosphere visibili",
+            "Font e colori stato",
+            "Roadmap: Classes"
+          ]
+        },
+        "ru": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "Слайды: колесо и Shift",
+            "Видимые фоны atmosphere",
+            "Шрифты и цвета статусов",
+            "Roadmap: Classes"
+          ]
+        },
+        "ja": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "スライド: ホイールとShift",
+            "atmosphere背景を表示",
+            "フォントとステータス色",
+            "Roadmap: Classes"
+          ]
+        },
+        "zh": {
+          "title": "UI + atmospheres",
+          "bullets": [
+            "幻灯片：滚轮与Shift",
+            "显示atmosphere背景",
+            "更大字体与状态颜色",
+            "路线图：Classes"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.13",
+      "date": "2026-08-08",
+      "title": "Fix Harmony WRN spam at boot",
+      "bullets": [
+        "Silent DeclaredOnly scan — no AccessTools WRN flood on Block subclasses"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix spam Harmony WRN au boot",
+          "bullets": [
+            "Scan DeclaredOnly silencieux — plus de flood WRN AccessTools"
+          ]
+        },
+        "en": {
+          "title": "Fix Harmony WRN spam at boot",
+          "bullets": [
+            "Silent DeclaredOnly scan — no AccessTools WRN flood on Block subclasses"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.13",
+      "date": "2026-08-08",
+      "title": "UI refresh + 7Day Loader",
+      "bullets": [
+        "Patch notes and Futur: slide navigation",
+        "Mods list: clearer cards, faded backgrounds",
+        "Rebrand: 7Day Loader / 13RDPA Team"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "UI + 7Day Loader",
+          "bullets": [
+            "Patch notes et Futur: navigation par slides",
+            "Liste mods: cartes plus lisibles, fonds en fondu",
+            "Rebrand: 7Day Loader / 13RDPA Team",
+            "Aide install Windows / navigateur"
+          ]
+        },
+        "en": {
+          "title": "UI refresh + 7Day Loader",
+          "bullets": [
+            "Patch notes and Futur: slide navigation",
+            "Mods list: clearer cards, faded backgrounds",
+            "Rebrand: 7Day Loader / 13RDPA Team",
+            "Windows / browser install help"
+          ]
+        },
+        "es": {
+          "title": "UI + 7Day Loader",
+          "bullets": [
+            "Slides en notas y Futur",
+            "Lista de mods mas clara",
+            "Rebrand 7Day Loader / 13RDPA Team"
+          ]
+        },
+        "it": {
+          "title": "UI + 7Day Loader",
+          "bullets": [
+            "Slide note e Futur",
+            "Lista mods piu chiara",
+            "Rebrand 7Day Loader / 13RDPA Team"
+          ]
+        },
+        "ru": {
+          "title": "UI + 7Day Loader",
+          "bullets": [
+            "Слайды в заметках и Futur",
+            "Список модов читаемее",
+            "Ребрендинг 7Day Loader"
+          ]
+        },
+        "ja": {
+          "title": "UI + 7Day Loader",
+          "bullets": [
+            "パッチノート/Futurをスライド化",
+            "Modsリスト改善",
+            "7Day Loaderにリブランド"
+          ]
+        },
+        "zh": {
+          "title": "UI + 7Day Loader",
+          "bullets": [
+            "更新说明与Futur支持滑动",
+            "Mods列表更清晰",
+            "品牌更名为 7Day Loader"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.12",
+      "date": "2026-08-08",
+      "title": "Allies + party recover",
+      "bullets": [
+        "Claim allies or same party can cross-recover placed blocks",
+        "Party also exempt from LCB deadzone",
+        "Optional in loader (out of Full Pack); Steam friend ≠ claim ally"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Recup allies + party",
+          "bullets": [
+            "Allies claim ou meme party : recup croisee des blocs poses",
+            "Party aussi exempt de la deadzone LCB",
+            "Optionnel dans le loader (hors Full Pack) ; ami Steam ≠ allie claim"
+          ]
+        },
+        "en": {
+          "title": "Allies + party recover",
+          "bullets": [
+            "Claim allies or same party can cross-recover placed blocks",
+            "Party also exempt from LCB deadzone",
+            "Optional in loader (out of Full Pack); Steam friend ≠ claim ally"
+          ]
+        }
+      }
     },
     {
       "mod_id": "7d_loader",
@@ -4179,6 +4222,32 @@
           "bullets": [
             "更新说明跟随界面语言",
             "清单 changelog 支持 i18n 块"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_GetAllBlocks",
+      "version": "0.1.11",
+      "date": "2026-08-08",
+      "title": "Optional — update in progress",
+      "bullets": [
+        "Moved to Optional (out of Full Pack)",
+        "Status: updating (ally / party claim recover)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Optionnel — mise a jour en cours",
+          "bullets": [
+            "Passe en optionnel (hors Full Pack)",
+            "Statut: en cours de maj (recup alliés / party)"
+          ]
+        },
+        "en": {
+          "title": "Optional — update in progress",
+          "bullets": [
+            "Moved to Optional (out of Full Pack)",
+            "Status: updating (ally / party claim recover)"
           ]
         }
       }
