@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T18:17:49+02:00",
+  "updated_at": "2026-08-11T18:43:34+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -470,13 +470,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.10",
-      "file": "62_P13_LearnByDoing_v1.1.10.rar",
+      "version": "1.1.11",
+      "file": "62_P13_LearnByDoing_v1.1.11.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.10.rar",
-      "file_id": "194pqovz27pzx_7e2S1VSd0bHfVGNNp3z"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.11.rar",
+      "file_id": "1OYBZ34ku476FJ7LtePwr9Qp4yB-0fF45"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -746,6 +746,41 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.11",
+      "date": "2026-08-11",
+      "title": "XP curve rebalance",
+      "bullets": [
+        "All categories: 0-15 harder (-20%), 15-30 easier (+15%), 30-40 (+20%), 40+ (+25%)",
+        "Salvage / repair / harvest: extra +40% easier from level 30",
+        "Medical / food: extra +40% easier from level 15",
+        "Hit XP handgun / shotgun / MG / rifle: +20%",
+        "Admin item p13AdminLBDLevelAll: +1 level all LBD skills (applies curve)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Reequilibrage courbe XP",
+          "bullets": [
+            "Toutes categories: 0-15 plus dur (-20%), 15-30 plus facile (+15%), 30-40 (+20%), 40+ (+25%)",
+            "Recuperation / reparation / recolte: +40% facilite supplementaire a partir du lvl 30",
+            "Medical / nourriture: +40% facilite supplementaire a partir du lvl 15",
+            "XP par hit pistolet / pompe / mitrailleuse / fusil: +20%",
+            "Item admin p13AdminLBDLevelAll: +1 niveau toutes categories (applique la courbe)"
+          ]
+        },
+        "en": {
+          "title": "XP curve rebalance",
+          "bullets": [
+            "All categories: 0-15 harder (-20%), 15-30 easier (+15%), 30-40 (+20%), 40+ (+25%)",
+            "Salvage / repair / harvest: extra +40% easier from level 30",
+            "Medical / food: extra +40% easier from level 15",
+            "Hit XP handgun / shotgun / MG / rifle: +20%",
+            "Admin item p13AdminLBDLevelAll: +1 level all LBD skills (applies curve)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.10",
