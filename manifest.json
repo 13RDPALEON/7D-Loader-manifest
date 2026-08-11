@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T18:48:31+02:00",
+  "updated_at": "2026-08-11T19:00:29+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -470,13 +470,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.11",
-      "file": "62_P13_LearnByDoing_v1.1.11.rar",
+      "version": "1.1.12",
+      "file": "62_P13_LearnByDoing_v1.1.12.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.11.rar",
-      "file_id": "1OYBZ34ku476FJ7LtePwr9Qp4yB-0fF45"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.12.rar",
+      "file_id": "19_xau_Efgdy7hnYBAOrQqYEBzQ_G0enb"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -732,24 +732,30 @@
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
     {
-      "mod_id": "80_P13_Directive",
-      "version": "0.6.51",
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.12",
       "date": "2026-08-11",
-      "title": "Quest item icons fix",
+      "title": "Late-game gun hit XP",
       "bullets": [
-        "Fix invisible Continuity quest item icons (CustomIcon remapped to vanilla ItemIcons + tints)"
+        "From craft 50: handgun / rifle / MG ~225 XP/hit (was ~36)",
+        "Shotgun: from craft 50 ~300 XP/hit, from craft 70 ~400 XP/hit (was ~30)",
+        "Headshots scaled with the same ratios"
       ],
       "i18n": {
         "fr": {
-          "title": "Correctif icones items de quete",
+          "title": "XP hit armes late-game",
           "bullets": [
-            "Icones invisibles des items Continuity corrigees (CustomIcon -> icones vanilla + teintes)"
+            "Des craft 50: pistolet / fusil / MG ~225 XP/hit (au lieu de ~36)",
+            "Pompe: des craft 50 ~300 XP/hit, des craft 70 ~400 XP/hit (au lieu de ~30)",
+            "Tetes scalees dans les memes ratios"
           ]
         },
         "en": {
-          "title": "Quest item icons fix",
+          "title": "Late-game gun hit XP",
           "bullets": [
-            "Invisible Continuity quest item icons fixed (CustomIcon -> vanilla ItemIcons + tints)"
+            "From craft 50: handgun / rifle / MG ~225 XP/hit (was ~36)",
+            "Shotgun: from craft 50 ~300 XP/hit, from craft 70 ~400 XP/hit (was ~30)",
+            "Headshots scaled with the same ratios"
           ]
         }
       }
@@ -817,6 +823,29 @@
             "Rifles / MG / medical: −15% from craft 40; other LBD weapons −10% from craft 20",
             "From 60: softener −10% (replaces 1.1.7 −5%)",
             "Gun hit XP +20% from craft 40; soft-nerf remaining magazines and perk books in world loot"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.51",
+      "date": "2026-08-11",
+      "title": "Quest item icons fix",
+      "bullets": [
+        "Fix invisible Continuity quest item icons (CustomIcon remapped to vanilla ItemIcons + tints)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Correctif icones items de quete",
+          "bullets": [
+            "Icones invisibles des items Continuity corrigees (CustomIcon -> icones vanilla + teintes)"
+          ]
+        },
+        "en": {
+          "title": "Quest item icons fix",
+          "bullets": [
+            "Invisible Continuity quest item icons fixed (CustomIcon -> vanilla ItemIcons + tints)"
           ]
         }
       }
