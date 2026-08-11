@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T01:53:31+02:00",
+  "updated_at": "2026-08-11T15:54:12+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -30,7 +30,8 @@
     "discord": "https://discord.gg/8aNBmvMEJb",
     "youtube": "https://www.youtube.com/@Sayli-TV",
     "twitch": "https://www.twitch.tv/saylitv",
-    "patreon": ""
+    "patreon": "",
+    "donate": "https://paypal.me/infoloca?locale.x=fr_FR&country.x=FR"
   },
   "credits": [
     "Sayli",
