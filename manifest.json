@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T21:34:16+02:00",
+  "updated_at": "2026-08-11T22:51:47+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -531,13 +531,13 @@
     {
       "id": "68_P13_KnowledgeScrap",
       "name": "Knowledge Scrap (books → mod schematics)",
-      "version": "1.0.5",
-      "file": "68_P13_KnowledgeScrap_v1.0.5.rar",
+      "version": "1.0.6",
+      "file": "68_P13_KnowledgeScrap_v1.0.6.rar",
       "install_folder": "68_P13_KnowledgeScrap",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.5.rar",
-      "file_id": "19f8G0XldO65qAOogZAgYBzW-GKM0oWBC"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.6.rar",
+      "file_id": "1f8ofjPGHYWnxpfhQmDX4qoH63v0I5q32"
     },
     {
       "id": "70_P13_BeyondStorage3",
@@ -731,6 +731,32 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.6",
+      "date": "2026-08-11",
+      "title": "Recipe crash fix (V3.1)",
+      "bullets": [
+        "Removed 3 schematics commented out in V3.1 vanilla (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
+        "Fixes recipes XML load failure and join disconnect"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix crash recettes (V3.1)",
+          "bullets": [
+            "Retrait de 3 schemas commentes en V3.1 (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
+            "Corrige le plantage du chargement recipes et la deconnexion"
+          ]
+        },
+        "en": {
+          "title": "Recipe crash fix (V3.1)",
+          "bullets": [
+            "Removed 3 schematics commented out in V3.1 vanilla (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
+            "Fixes recipes XML load failure and join disconnect"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.13",
