@@ -854,6 +854,32 @@
       }
     },
     {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.5",
+      "date": "2026-08-11",
+      "title": "Full schematic coverage",
+      "bullets": [
+        "Added 39 missing mod schematics at the workbench (guns, melee, armor, vehicles, robotics, fuel)",
+        "Includes shotgun Sawed-Off plus silencer / large scope / full-auto"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Schemas complets",
+          "bullets": [
+            "Ajout des 39 schemas de mods manquants a l'etabli (armes, melee, armure, vehicules, robotique, fuel)",
+            "Inclut le Sawed-Off pompe et silencer / grosse optique / full-auto"
+          ]
+        },
+        "en": {
+          "title": "Full schematic coverage",
+          "bullets": [
+            "Added 39 missing mod schematics at the workbench (guns, melee, armor, vehicles, robotics, fuel)",
+            "Includes shotgun Sawed-Off plus silencer / large scope / full-auto"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "80_P13_Directive",
       "version": "0.6.51",
       "date": "2026-08-11",
