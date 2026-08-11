@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T19:09:31+02:00",
+  "updated_at": "2026-08-11T21:34:16+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -531,13 +531,13 @@
     {
       "id": "68_P13_KnowledgeScrap",
       "name": "Knowledge Scrap (books → mod schematics)",
-      "version": "1.0.4",
-      "file": "68_P13_KnowledgeScrap_v1.0.4.rar",
+      "version": "1.0.5",
+      "file": "68_P13_KnowledgeScrap_v1.0.5.rar",
       "install_folder": "68_P13_KnowledgeScrap",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.4.rar",
-      "file_id": "1B7EwDISUY84PNDCWiPtYLKdHhEhX-7CF"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.5.rar",
+      "file_id": "19f8G0XldO65qAOogZAgYBzW-GKM0oWBC"
     },
     {
       "id": "70_P13_BeyondStorage3",
