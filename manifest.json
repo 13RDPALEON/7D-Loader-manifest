@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T17:02:05+02:00",
+  "updated_at": "2026-08-11T18:17:49+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -613,17 +613,17 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.6.50",
-      "file": "80_P13_Directive_v0.6.50.rar",
+      "version": "0.6.51",
+      "file": "80_P13_Directive_v0.6.51.rar",
       "install_folder": "80_P13_Directive",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.50.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.51.rar",
       "requires": [
         "P13_Classes"
       ],
       "optional": true,
-      "file_id": "1M6IG9H2A_sJTQEtv192E4yNyRfJH6ZII"
+      "file_id": "1shHOOKY3rtQcKrhel8vpyNeuLx60_ASs"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -4405,6 +4405,29 @@
     }
   ],
   "changelog": [
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.51",
+      "date": "2026-08-11",
+      "title": "Version 0.6.51",
+      "bullets": [
+        "Fix invisible Continuity quest item icons (map CustomIcon to vanilla ItemIcons)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Version 0.6.51",
+          "bullets": [
+            "Correctif icônes invisibles des items de quête Continuity (CustomIcon → icônes vanilla)"
+          ]
+        },
+        "en": {
+          "title": "Version 0.6.51",
+          "bullets": [
+            "Fix invisible Continuity quest item icons (CustomIcon → vanilla ItemIcons)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "03_P13_MainMenu",
       "version": "1.0.5",
