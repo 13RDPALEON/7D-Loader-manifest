@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T18:43:34+02:00",
+  "updated_at": "2026-08-11T18:48:31+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -713,21 +713,6 @@
   ],
   "roadmap": [
     {
-      "id": "classes_rework",
-      "mod_id": "P13_Classes",
-      "title_key": "roadmap_classes_title",
-      "desc_key": "roadmap_classes_desc",
-      "status": "planned"
-    },
-    {
-      "id": "directive_rework",
-      "mod_id": "80_P13_Directive",
-      "title_key": "roadmap_directive_title",
-      "desc_key": "roadmap_directive_desc",
-      "image": "media/roadmap/roadmap_directive.png",
-      "status": "planned"
-    },
-    {
       "id": "gab_bugs",
       "mod_id": "P13_GetAllBlocks",
       "title_key": "roadmap_gab_title",
@@ -746,6 +731,29 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.51",
+      "date": "2026-08-11",
+      "title": "Quest item icons fix",
+      "bullets": [
+        "Fix invisible Continuity quest item icons (CustomIcon remapped to vanilla ItemIcons + tints)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Correctif icones items de quete",
+          "bullets": [
+            "Icones invisibles des items Continuity corrigees (CustomIcon -> icones vanilla + teintes)"
+          ]
+        },
+        "en": {
+          "title": "Quest item icons fix",
+          "bullets": [
+            "Invisible Continuity quest item icons fixed (CustomIcon -> vanilla ItemIcons + tints)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.11",
