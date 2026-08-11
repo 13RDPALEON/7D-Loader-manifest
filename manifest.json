@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T19:00:29+02:00",
+  "updated_at": "2026-08-11T19:09:31+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -470,13 +470,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.12",
-      "file": "62_P13_LearnByDoing_v1.1.12.rar",
+      "version": "1.1.13",
+      "file": "62_P13_LearnByDoing_v1.1.13.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.12.rar",
-      "file_id": "19_xau_Efgdy7hnYBAOrQqYEBzQ_G0enb"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.13.rar",
+      "file_id": "1MO4wp7VL9FcC1_ZsX9Z70WC1FY0uzpIx"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -731,6 +731,32 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.13",
+      "date": "2026-08-11",
+      "title": "Tools / medical / food curve",
+      "bullets": [
+        "Harvest / repair / salvage: +20% easier on all bands + +40% from level 30",
+        "Medical / food: +15% easier on all bands + +40% from level 20"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Courbe outils / medical / food",
+          "bullets": [
+            "Recolte / reparation / recuperation: +20% facilite sur toutes les bandes + +40% des le lvl 30",
+            "Medical / nourriture: +15% facilite sur toutes les bandes + +40% des le lvl 20"
+          ]
+        },
+        "en": {
+          "title": "Tools / medical / food curve",
+          "bullets": [
+            "Harvest / repair / salvage: +20% easier on all bands + +40% from level 30",
+            "Medical / food: +15% easier on all bands + +40% from level 20"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.12",
