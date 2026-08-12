@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-12T03:57:37+02:00",
+  "updated_at": "2026-08-12T04:15:22+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -470,13 +470,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.15",
-      "file": "62_P13_LearnByDoing_v1.1.15.rar",
+      "version": "1.1.16",
+      "file": "62_P13_LearnByDoing_v1.1.16.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.15.rar",
-      "file_id": "1X8G6-EIdmgA10MxklFPfu_QRqRApUxIb"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.16.rar",
+      "file_id": "1AAow6ENEqfS6YjxXZ-OtQvbj_BNI2qwF"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -731,6 +731,35 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.16",
+      "date": "2026-08-12",
+      "title": "Tiered XP tools/melee/guns",
+      "bullets": [
+        "Tools+melee XP tiers 5/20/50/100/200/300/400",
+        "Guns (no shotgun) 5/50/100/200/250/400/500",
+        "Shotguns unchanged"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Courbes XP outils/melee/armes",
+          "bullets": [
+            "Outils+melee 5/20/50/100/200/300/400",
+            "Armes (sauf pompe) 5/50/100/200/250/400/500",
+            "Pompes inchangees"
+          ]
+        },
+        "en": {
+          "title": "Tiered XP tools/melee/guns",
+          "bullets": [
+            "Tools+melee XP tiers 5/20/50/100/200/300/400",
+            "Guns (no shotgun) 5/50/100/200/250/400/500",
+            "Shotguns unchanged"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.15",
