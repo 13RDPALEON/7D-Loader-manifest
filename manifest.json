@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-11T22:51:47+02:00",
+  "updated_at": "2026-08-12T03:18:58+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -662,14 +662,14 @@
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.43",
-      "file": "P13_Classes_v0.1.43.rar",
+      "version": "0.1.44",
+      "file": "P13_Classes_v0.1.44.rar",
       "install_folder": "P13_Classes",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.43.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.44.rar",
       "optional": true,
-      "file_id": "1uY4CGmRA9EDd0KaAZDmPX8IKTSxIzs3R"
+      "file_id": "1ANbHl23LybYWI0YJf98ciZy8BkWnjHqY"
     },
     {
       "id": "P13_GetAllBlocks",
@@ -731,6 +731,32 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "P13_Classes",
+      "version": "0.1.44",
+      "date": "2026-08-12",
+      "title": "Campaign trader routing",
+      "bullets": [
+        "Continuity no longer sends you to the nearest trader when the campaign trader is unloaded",
+        "Return markers and POIs stay on the campaign biome trader (Bob desert, Jen burnt, etc.)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Routage marchand campagne",
+          "bullets": [
+            "Continuity ne renvoie plus vers le marchand le plus proche si le marchand de campagne est decharge",
+            "Retour et POI restent sur le marchand / biom de la chaine (Bob desert, Jen burnt, etc.)"
+          ]
+        },
+        "en": {
+          "title": "Campaign trader routing",
+          "bullets": [
+            "Continuity no longer sends you to the nearest trader when the campaign trader is unloaded",
+            "Return markers and POIs stay on the campaign biome trader (Bob desert, Jen burnt, etc.)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "68_P13_KnowledgeScrap",
       "version": "1.0.6",
