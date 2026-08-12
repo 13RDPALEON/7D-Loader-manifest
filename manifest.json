@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-12T03:18:58+02:00",
+  "updated_at": "2026-08-12T03:45:58+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -470,13 +470,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.13",
-      "file": "62_P13_LearnByDoing_v1.1.13.rar",
+      "version": "1.1.14",
+      "file": "62_P13_LearnByDoing_v1.1.14.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.13.rar",
-      "file_id": "1MO4wp7VL9FcC1_ZsX9Z70WC1FY0uzpIx"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.14.rar",
+      "file_id": "1eRq_9zFC2Rr4d0FTxQnh2yXX71MmJCAc"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -731,6 +731,32 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.14",
+      "date": "2026-08-12",
+      "title": "Medical / food ease ~90% from 20",
+      "bullets": [
+        "Medical and food Thr growth from craft 20+: ~90% total ease (x1.01, was ~40%)",
+        "Much lower level-up thresholds from level 20"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Medical / nourriture ~90% des le 20",
+          "bullets": [
+            "Medical et nourriture: facilite totale ~90% des le craft 20 (Thr x1.01)",
+            "Seuils de montee nettement plus bas a partir du lvl 20"
+          ]
+        },
+        "en": {
+          "title": "Medical / food ease ~90% from 20",
+          "bullets": [
+            "Medical and food Thr growth from craft 20+: ~90% total ease (x1.01, was ~40%)",
+            "Much lower level-up thresholds from level 20"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "P13_Classes",
       "version": "0.1.44",
