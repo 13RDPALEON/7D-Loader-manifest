@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-12T03:45:58+02:00",
+  "updated_at": "2026-08-12T03:57:37+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -470,13 +470,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.14",
-      "file": "62_P13_LearnByDoing_v1.1.14.rar",
+      "version": "1.1.15",
+      "file": "62_P13_LearnByDoing_v1.1.15.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.14.rar",
-      "file_id": "1eRq_9zFC2Rr4d0FTxQnh2yXX71MmJCAc"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.15.rar",
+      "file_id": "1X8G6-EIdmgA10MxklFPfu_QRqRApUxIb"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -731,6 +731,29 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.15",
+      "date": "2026-08-12",
+      "title": "Medical / food ~200 XP from craft 20",
+      "bullets": [
+        "From craft 20 to max: ~200 XP per medical / food / butcher action (was ~25-50)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Medical / nourriture ~200 XP des le 20",
+          "bullets": [
+            "Des le craft 20 jusqu au max: ~200 XP par action medical / nourriture / butcher (avant ~25-50)"
+          ]
+        },
+        "en": {
+          "title": "Medical / food ~200 XP from craft 20",
+          "bullets": [
+            "From craft 20 to max: ~200 XP per medical / food / butcher action (was ~25-50)"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.14",
