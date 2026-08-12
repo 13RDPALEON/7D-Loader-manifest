@@ -5183,6 +5183,7 @@
   ],
   "remove_folders": [
     "P13_GetAllBlocks",
-    "ClaimRecover"
+    "ClaimRecover",
+    "65_P13_AntiChuck"
   ]
 }
