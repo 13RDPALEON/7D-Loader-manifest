@@ -5,26 +5,26 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-12T23:21:29+02:00",
+  "updated_at": "2026-08-12T23:39:15+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
-    "version": "0.1.34",
+    "version": "0.1.35",
     "file": "7D_Loader_Setup.exe",
     "file_id": "1iIvru032BK4f5BIf3mluZ8yyPkkVUwpv",
-    "notes": "Donate button — support the Protocol 13 development team",
+    "notes": "Mods tab: updates first, optional at bottom; AntiChuck removed from catalog",
     "security": {
-      "sha256": "15da41981035b0f3c361550b3cf79448aed44842b50f902fc9443e2ea92d7a18",
-      "virustotal_url": "https://www.virustotal.com/gui/file/15da41981035b0f3c361550b3cf79448aed44842b50f902fc9443e2ea92d7a18/detection",
+      "sha256": "56ed81c635088d95dead770c27cc461cf61e759216ba5bccbb123af4c88f300c",
+      "virustotal_url": "https://www.virustotal.com/gui/file/56ed81c635088d95dead770c27cc461cf61e759216ba5bccbb123af4c88f300c/detection",
       "detections": "pending",
       "malicious": null,
       "total": null,
       "note": "Prefer GitHub Releases download. Unsigned Inno/PyInstaller — heuristic FPs common. Verify SHA256.",
       "scanned_at": null
     },
-    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.34/7D_Loader_Setup.exe",
-    "download_url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.34/7D_Loader_Setup.exe",
-    "sha256": "15da41981035b0f3c361550b3cf79448aed44842b50f902fc9443e2ea92d7a18"
+    "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.35/7D_Loader_Setup.exe",
+    "download_url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/v0.1.35/7D_Loader_Setup.exe",
+    "sha256": "56ed81c635088d95dead770c27cc461cf61e759216ba5bccbb123af4c88f300c"
   },
   "social": {
     "discord": "https://discord.gg/8aNBmvMEJb",
@@ -720,6 +720,38 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "7d_loader",
+      "version": "0.1.35",
+      "date": "2026-08-12",
+      "title": "Mods tab layout + AntiChuck removal",
+      "bullets": [
+        "Mods tab: updates first, installed OK, optional at bottom",
+        "Separate section for optional mod updates",
+        "Smaller fonts on Mods tab (-4pt)",
+        "65_P13_AntiChuck removed from Full Pack and catalog"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Onglet Mods + retrait AntiChuck",
+          "bullets": [
+            "Onglet Mods : maj en haut, installes OK, optionnels en bas",
+            "Section dediee aux maj des mods optionnels",
+            "Polices reduites sur l onglet Mods (-4pt)",
+            "65_P13_AntiChuck retire du Full Pack et du catalogue"
+          ]
+        },
+        "en": {
+          "title": "Mods tab layout + AntiChuck removal",
+          "bullets": [
+            "Mods tab: updates first, installed OK, optional at bottom",
+            "Separate section for optional mod updates",
+            "Smaller fonts on Mods tab (-4pt)",
+            "65_P13_AntiChuck removed from Full Pack and catalog"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.16",
