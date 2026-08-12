@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-12T23:20:54+02:00",
+  "updated_at": "2026-08-12T23:21:29+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -3330,59 +3330,6 @@
           "title": "版本 1.0.0.0",
           "bullets": [
             "发布 Pon's MiniMap 1.0.0.0"
-          ]
-        }
-      }
-    },
-    {
-      "mod_id": "65_P13_AntiChuck",
-      "version": "1.0.0.0",
-      "date": "2026-08-08",
-      "title": "Version 1.0.0.0",
-      "bullets": [
-        "Release Anti Chuck 1.0.0.0"
-      ],
-      "i18n": {
-        "fr": {
-          "title": "Version 1.0.0.0",
-          "bullets": [
-            "Publication Anti Chuck 1.0.0.0"
-          ]
-        },
-        "en": {
-          "title": "Version 1.0.0.0",
-          "bullets": [
-            "Release Anti Chuck 1.0.0.0"
-          ]
-        },
-        "es": {
-          "title": "Versión 1.0.0.0",
-          "bullets": [
-            "Publicación Anti Chuck 1.0.0.0"
-          ]
-        },
-        "it": {
-          "title": "Versione 1.0.0.0",
-          "bullets": [
-            "Pubblicazione Anti Chuck 1.0.0.0"
-          ]
-        },
-        "ru": {
-          "title": "Версия 1.0.0.0",
-          "bullets": [
-            "Релиз Anti Chuck 1.0.0.0"
-          ]
-        },
-        "ja": {
-          "title": "バージョン 1.0.0.0",
-          "bullets": [
-            "Anti Chuck 1.0.0.0 を公開"
-          ]
-        },
-        "zh": {
-          "title": "版本 1.0.0.0",
-          "bullets": [
-            "发布 Anti Chuck 1.0.0.0"
           ]
         }
       }
