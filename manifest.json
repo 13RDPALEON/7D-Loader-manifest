@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-12T23:39:15+02:00",
+  "updated_at": "2026-08-13T04:52:53+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -602,17 +602,17 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.6.51",
-      "file": "80_P13_Directive_v0.6.51.rar",
+      "version": "0.6.52",
+      "file": "80_P13_Directive_v0.6.52.rar",
       "install_folder": "80_P13_Directive",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.51.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/80_P13_Directive_v0.6.52.rar",
       "requires": [
         "P13_Classes"
       ],
       "optional": true,
-      "file_id": "1shHOOKY3rtQcKrhel8vpyNeuLx60_ASs"
+      "file_id": "1P2i-24s2tEmY2Z6IjkeJ57KyCB2vEc97"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -721,33 +721,27 @@
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
     {
-      "mod_id": "7d_loader",
-      "version": "0.1.35",
-      "date": "2026-08-12",
-      "title": "Mods tab layout + AntiChuck removal",
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.52",
+      "date": "2026-08-13",
+      "title": "Continuity campaign icons restored",
       "bullets": [
-        "Mods tab: updates first, installed OK, optional at bottom",
-        "Separate section for optional mod updates",
-        "Smaller fonts on Mods tab (-4pt)",
-        "65_P13_AntiChuck removed from Full Pack and catalog"
+        "Re-added `UIAtlases/ItemIconAtlas/` folder (24 P13 PNGs) to the mod package",
+        "`items.xml`: original P13 `CustomIcon` names (reverts 0.6.51 vanilla workaround)"
       ],
       "i18n": {
         "fr": {
-          "title": "Onglet Mods + retrait AntiChuck",
+          "title": "Icônes campagne Continuity restaurées",
           "bullets": [
-            "Onglet Mods : maj en haut, installes OK, optionnels en bas",
-            "Section dediee aux maj des mods optionnels",
-            "Polices reduites sur l onglet Mods (-4pt)",
-            "65_P13_AntiChuck retire du Full Pack et du catalogue"
+            "Réintégration du dossier `UIAtlases/ItemIconAtlas/` (24 PNG P13) dans le mod",
+            "`items.xml` : `CustomIcon` P13 d'origine (annule le contournement vanilla de la 0.6.51)"
           ]
         },
         "en": {
-          "title": "Mods tab layout + AntiChuck removal",
+          "title": "Continuity campaign icons restored",
           "bullets": [
-            "Mods tab: updates first, installed OK, optional at bottom",
-            "Separate section for optional mod updates",
-            "Smaller fonts on Mods tab (-4pt)",
-            "65_P13_AntiChuck removed from Full Pack and catalog"
+            "Re-added `UIAtlases/ItemIconAtlas/` folder (24 P13 PNGs) to the mod package",
+            "`items.xml`: original P13 `CustomIcon` names (reverts 0.6.51 vanilla workaround)"
           ]
         }
       }
@@ -857,27 +851,33 @@
       }
     },
     {
-      "mod_id": "68_P13_KnowledgeScrap",
-      "version": "1.0.6",
-      "date": "2026-08-11",
-      "title": "Recipe crash fix (V3.1)",
+      "mod_id": "7d_loader",
+      "version": "0.1.35",
+      "date": "2026-08-12",
+      "title": "Mods tab layout + AntiChuck removal",
       "bullets": [
-        "Removed 3 schematics commented out in V3.1 vanilla (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
-        "Fixes recipes XML load failure and join disconnect"
+        "Mods tab: updates first, installed OK, optional at bottom",
+        "Separate section for optional mod updates",
+        "Smaller fonts on Mods tab (-4pt)",
+        "65_P13_AntiChuck removed from Full Pack and catalog"
       ],
       "i18n": {
         "fr": {
-          "title": "Fix crash recettes (V3.1)",
+          "title": "Onglet Mods + retrait AntiChuck",
           "bullets": [
-            "Retrait de 3 schemas commentes en V3.1 (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
-            "Corrige le plantage du chargement recipes et la deconnexion"
+            "Onglet Mods : maj en haut, installes OK, optionnels en bas",
+            "Section dediee aux maj des mods optionnels",
+            "Polices reduites sur l onglet Mods (-4pt)",
+            "65_P13_AntiChuck retire du Full Pack et du catalogue"
           ]
         },
         "en": {
-          "title": "Recipe crash fix (V3.1)",
+          "title": "Mods tab layout + AntiChuck removal",
           "bullets": [
-            "Removed 3 schematics commented out in V3.1 vanilla (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
-            "Fixes recipes XML load failure and join disconnect"
+            "Mods tab: updates first, installed OK, optional at bottom",
+            "Separate section for optional mod updates",
+            "Smaller fonts on Mods tab (-4pt)",
+            "65_P13_AntiChuck removed from Full Pack and catalog"
           ]
         }
       }
@@ -1000,6 +1000,32 @@
             "Rifles / MG / medical: −15% from craft 40; other LBD weapons −10% from craft 20",
             "From 60: softener −10% (replaces 1.1.7 −5%)",
             "Gun hit XP +20% from craft 40; soft-nerf remaining magazines and perk books in world loot"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.6",
+      "date": "2026-08-11",
+      "title": "Recipe crash fix (V3.1)",
+      "bullets": [
+        "Removed 3 schematics commented out in V3.1 vanilla (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
+        "Fixes recipes XML load failure and join disconnect"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix crash recettes (V3.1)",
+          "bullets": [
+            "Retrait de 3 schemas commentes en V3.1 (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
+            "Corrige le plantage du chargement recipes et la deconnexion"
+          ]
+        },
+        "en": {
+          "title": "Recipe crash fix (V3.1)",
+          "bullets": [
+            "Removed 3 schematics commented out in V3.1 vanilla (Cooling Mesh, Insulated Liner, Drone Weapon Mod)",
+            "Fixes recipes XML load failure and join disconnect"
           ]
         }
       }
