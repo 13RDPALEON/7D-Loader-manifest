@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-13T04:52:53+02:00",
+  "updated_at": "2026-08-13T20:02:54+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -651,14 +651,14 @@
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.44",
-      "file": "P13_Classes_v0.1.44.rar",
+      "version": "0.1.45",
+      "file": "P13_Classes_v0.1.45.rar",
       "install_folder": "P13_Classes",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.44.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.45.rar",
       "optional": true,
-      "file_id": "1ANbHl23LybYWI0YJf98ciZy8BkWnjHqY"
+      "file_id": "15ta7-dgtczFolmBri7O8bCjVeRDb6HiM"
     },
     {
       "id": "P13_GetAllBlocks",
@@ -742,6 +742,29 @@
           "bullets": [
             "Re-added `UIAtlases/ItemIconAtlas/` folder (24 P13 PNGs) to the mod package",
             "`items.xml`: original P13 `CustomIcon` names (reverts 0.6.51 vanilla workaround)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_Classes",
+      "version": "0.1.45",
+      "date": "2026-08-13",
+      "title": "Continuity retry ticket",
+      "bullets": [
+        "Fix vanilla `FetchFromContainer.RemoveHooks` crash when LocalPlayerUI is missing (retry ticket / quest removal)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Ticket retry Continuity",
+          "bullets": [
+            "Correctif crash vanilla `FetchFromContainer.RemoveHooks` quand l'UI locale est absente (ticket retry / suppression quête)"
+          ]
+        },
+        "en": {
+          "title": "Continuity retry ticket",
+          "bullets": [
+            "Fix vanilla `FetchFromContainer.RemoveHooks` crash when LocalPlayerUI is missing (retry ticket / quest removal)"
           ]
         }
       }
