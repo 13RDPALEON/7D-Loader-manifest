@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-13T20:02:54+02:00",
+  "updated_at": "2026-08-15T00:09:39+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -206,42 +206,42 @@
     {
       "id": "23_P13_Izayo_Misc",
       "name": "IZY_RMP_Miscpack",
-      "version": "1.1.0.4",
-      "file": "23_P13_Izayo_Misc_v1.1.0.4.rar",
-      "file_id": "1K9gPAauDEFt5Sn0nYLVJd5qm3joNzhvk",
+      "version": "1.1.0.5",
+      "file": "23_P13_Izayo_Misc_v1.1.0.5.rar",
+      "file_id": "1gUkvhx6_s40wOZ_4xcTB2nAd-eLZBkMO",
       "install_folder": "23_P13_Izayo_Misc",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/23_P13_Izayo_Misc_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/23_P13_Izayo_Misc_v1.1.0.5.rar"
     },
     {
       "id": "24_P13_Izayo_44mag",
       "name": "IZY_RMP_44magnum",
-      "version": "1.1.0.4",
-      "file": "24_P13_Izayo_44mag_v1.1.0.4.rar",
-      "file_id": "1vISsAorozheAdnwefNR2SGelhS3zKhUW",
+      "version": "1.1.0.5",
+      "file": "24_P13_Izayo_44mag_v1.1.0.5.rar",
+      "file_id": "1pWZK4WcUISa2zszIxhWGUQXGFHt2cwKL",
       "install_folder": "24_P13_Izayo_44mag",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/24_P13_Izayo_44mag_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/24_P13_Izayo_44mag_v1.1.0.5.rar"
     },
     {
       "id": "25_P13_Izayo_45ACP",
       "name": "IZY_RMP_45ACP",
-      "version": "1.1.0.4",
-      "file": "25_P13_Izayo_45ACP_v1.1.0.4.rar",
-      "file_id": "17p3URBvqF8SBuRwZXgEuUndD5J3i6Ysv",
+      "version": "1.1.0.5",
+      "file": "25_P13_Izayo_45ACP_v1.1.0.5.rar",
+      "file_id": "1MEF_D5olMOXKZoMjFE5JzQmW9yqHibpQ",
       "install_folder": "25_P13_Izayo_45ACP",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/25_P13_Izayo_45ACP_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/25_P13_Izayo_45ACP_v1.1.0.5.rar"
     },
     {
       "id": "26_P13_Izayo_556",
       "name": "IZY_RMP_556",
-      "version": "1.1.0.4",
-      "file": "26_P13_Izayo_556_v1.1.0.4.rar",
-      "file_id": "1h-jJx7iz3If4_Qu72wEIomoOlTuK380y",
+      "version": "1.1.0.5",
+      "file": "26_P13_Izayo_556_v1.1.0.5.rar",
+      "file_id": "1g3tnMtBGqCceMqFlekuGACk9VKuhAYUB",
       "install_folder": "26_P13_Izayo_556",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/26_P13_Izayo_556_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/26_P13_Izayo_556_v1.1.0.5.rar"
     },
     {
       "id": "27_P13_Izayo_762",
@@ -256,12 +256,12 @@
     {
       "id": "28_P13_Izayo_9mm",
       "name": "IZY_RMP_9mmVAL",
-      "version": "1.1.0.4",
-      "file": "28_P13_Izayo_9mm_v1.1.0.4.rar",
-      "file_id": "1kHqYcvUQo8YiTsTSnyn5NxOBvdkmQOyf",
+      "version": "1.1.0.5",
+      "file": "28_P13_Izayo_9mm_v1.1.0.5.rar",
+      "file_id": "1aeLfcdPJk-m8ag0Z94Bw3CWIUMcEcs3A",
       "install_folder": "28_P13_Izayo_9mm",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/28_P13_Izayo_9mm_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/28_P13_Izayo_9mm_v1.1.0.5.rar"
     },
     {
       "id": "29_P13_Izayo_Shotgun",
@@ -286,12 +286,12 @@
     {
       "id": "2B_P13_Izayo_Heavy",
       "name": "IZY_RMP_HVW",
-      "version": "1.1.0.4",
-      "file": "2B_P13_Izayo_Heavy_v1.1.0.4.rar",
-      "file_id": "1JC_ckfvXdyJfjQ2K1R8jPhnpuk5VB9nM",
+      "version": "1.1.0.5",
+      "file": "2B_P13_Izayo_Heavy_v1.1.0.5.rar",
+      "file_id": "1oMxsZFRSuL4NKRIU5Wqy0aXt25VfFuOF",
       "install_folder": "2B_P13_Izayo_Heavy",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2B_P13_Izayo_Heavy_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2B_P13_Izayo_Heavy_v1.1.0.5.rar"
     },
     {
       "id": "2C_P13_Izayo_Tech",
@@ -306,12 +306,12 @@
     {
       "id": "2D_P13_Izayo_Melee",
       "name": "IZY_melee",
-      "version": "1.1.0.4",
-      "file": "2D_P13_Izayo_Melee_v1.1.0.4.rar",
-      "file_id": "1K1byCwuRbaLWLO9rR0e2FwSGOgJdizIR",
+      "version": "1.1.0.5",
+      "file": "2D_P13_Izayo_Melee_v1.1.0.5.rar",
+      "file_id": "1Z9-AiaDnZGK0oAiNCfmTCWkbfFQkwqIz",
       "install_folder": "2D_P13_Izayo_Melee",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2D_P13_Izayo_Melee_v1.1.0.4.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/2D_P13_Izayo_Melee_v1.1.0.5.rar"
     },
     {
       "id": "2E_P13_NoIzyKick",
@@ -326,23 +326,23 @@
     {
       "id": "30_P13_AEC_BossExtreme",
       "name": "AEC AIO Boss Extreme (base)",
-      "version": "3.0.9",
-      "file": "30_P13_AEC_BossExtreme_v3.0.9.rar",
+      "version": "3.0.17",
+      "file": "30_P13_AEC_BossExtreme_v3.0.17.rar",
       "install_folder": "30_P13_AEC_BossExtreme",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.9.rar",
-      "file_id": "1GXqtP-T8a_cqj4JcyA9Fs6q5EVmsJnrf"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/30_P13_AEC_BossExtreme_v3.0.17.rar",
+      "file_id": "1GehfzSeHabgluBpb2ssvDnULPH0qIm62"
     },
     {
       "id": "31_P13_AEC_ExtendedQuests",
       "name": "AEC_AIO_BOSS_EXTENDED_QUESTS",
-      "version": "3.0.1",
-      "file": "31_P13_AEC_ExtendedQuests_v3.0.1.rar",
-      "file_id": "148BexBVzxQM3o79HYKgNxNx3ilvyyHbx",
+      "version": "3.0.3",
+      "file": "31_P13_AEC_ExtendedQuests_v3.0.3.rar",
+      "file_id": "1NEnBMfVGnzkYG4iDU6Z4OrAjSUZSbPOx",
       "install_folder": "31_P13_AEC_ExtendedQuests",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/31_P13_AEC_ExtendedQuests_v3.0.1.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/31_P13_AEC_ExtendedQuests_v3.0.3.rar"
     },
     {
       "id": "32_P13_AEC_BossDamageNerf",
@@ -520,13 +520,13 @@
     {
       "id": "68_P13_KnowledgeScrap",
       "name": "Knowledge Scrap (books → mod schematics)",
-      "version": "1.0.6",
-      "file": "68_P13_KnowledgeScrap_v1.0.6.rar",
+      "version": "1.0.7",
+      "file": "68_P13_KnowledgeScrap_v1.0.7.rar",
       "install_folder": "68_P13_KnowledgeScrap",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.6.rar",
-      "file_id": "1f8ofjPGHYWnxpfhQmDX4qoH63v0I5q32"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/68_P13_KnowledgeScrap_v1.0.7.rar",
+      "file_id": "1mM8cxCKo9auXhjWS6IekYuKbq3cUtenp"
     },
     {
       "id": "70_P13_BeyondStorage3",
@@ -627,26 +627,26 @@
     {
       "id": "90_P13_Localization",
       "name": "Protocol 13 - Localization",
-      "version": "0.1.1",
-      "file": "90_P13_Localization_v0.1.1.rar",
-      "file_id": "1xnSjocYCzyQyNGBwMwVNxM3LXg4e6CDI",
+      "version": "0.1.2",
+      "file": "90_P13_Localization_v0.1.2.rar",
+      "file_id": "1D33EwqwftpeUY8Y21tQ4SBKNYi_lYvJ5",
       "install_folder": "90_P13_Localization",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/90_P13_Localization_v0.1.1.rar"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/90_P13_Localization_v0.1.2.rar"
     },
     {
       "id": "99_P13_PackInfo",
       "name": "Pack Info",
-      "version": "0.1.12",
-      "file": "99_P13_PackInfo_v0.1.12.rar",
+      "version": "0.1.13",
+      "file": "99_P13_PackInfo_v0.1.13.rar",
       "install_folder": "99_P13_PackInfo",
       "status": "stable",
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/99_P13_PackInfo_v0.1.12.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/99_P13_PackInfo_v0.1.13.rar",
       "legacy_folders": [
         "P13_GetAllBlocks",
         "ClaimRecover"
       ],
-      "file_id": "1rWsAjyEzNGfcy5sqJHiLpuhdAcKGAptz"
+      "file_id": "1iMBsjFdEg1RvJnWzVa2PyAKVytTXTFZe"
     },
     {
       "id": "P13_Classes",
@@ -683,7 +683,8 @@
         "ClaimRecover"
       ],
       "note": "Temporarily withdrawn for redesign — auto-removed from Mods on loader update",
-      "file_id": "1Lpk78fqfUc97FlYoko8_gXUsp60qZbh_"
+      "file_id": "1Lpk78fqfUc97FlYoko8_gXUsp60qZbh_",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_GetAllBlocks_v0.1.16.rar"
     },
     {
       "id": "P13_PerfectRecycler",
@@ -720,6 +721,297 @@
   ],
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
+    {
+      "mod_id": "31_P13_AEC_ExtendedQuests",
+      "version": "3.0.3",
+      "date": "2026-08-15",
+      "title": "Wave spawns",
+      "bullets": [
+        "`safe_spawn=\"false\"` on Wave/Hunt/Defense/Assault/Arrival"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Spawns de vagues",
+          "bullets": [
+            "`safe_spawn=\"false\"` sur Wave/Hunt/Defense/Assault/Arrival"
+          ]
+        },
+        "en": {
+          "title": "Wave spawns",
+          "bullets": [
+            "`safe_spawn=\"false\"` on Wave/Hunt/Defense/Assault/Arrival"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "30_P13_AEC_BossExtreme",
+      "version": "3.0.17",
+      "date": "2026-08-15",
+      "title": "Blood moon bosses + multi",
+      "bullets": [
+        "AEC bosses mixed into horde from BM #3",
+        "World option Low/Medium/High/Extreme",
+        "Adaptive interval (BM length × boss count)",
+        "Dedi MP fix (mid-moon restart, calendar catch-up)",
+        "Minion bags, Hunt spawn, quest waves without safe_spawn"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Boss lune de sang + multi",
+          "bullets": [
+            "Boss AEC mêlés à la horde dès la 3e lune",
+            "Option Monde Bas/Moyen/Élevé/Extrême",
+            "Intervalle adaptatif durée lune + nombre de bosses",
+            "Fix dédié multi (restart mid-lune, catch-up compteur)",
+            "Sacs minions, Hunt spawn, vagues quête sans safe_spawn"
+          ]
+        },
+        "en": {
+          "title": "Blood moon bosses + multi",
+          "bullets": [
+            "AEC bosses mixed into horde from BM #3",
+            "World option Low/Medium/High/Extreme",
+            "Adaptive interval (BM length × boss count)",
+            "Dedi MP fix (mid-moon restart, calendar catch-up)",
+            "Minion bags, Hunt spawn, quest waves without safe_spawn"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "23_P13_Izayo_Misc",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "24_P13_Izayo_44mag",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "25_P13_Izayo_45ACP",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "26_P13_Izayo_556",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "28_P13_Izayo_9mm",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2B_P13_Izayo_Heavy",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "2D_P13_Izayo_Melee",
+      "version": "1.1.0.5",
+      "date": "2026-08-15",
+      "title": "Icons",
+      "bullets": [
+        "Replaced Notready icons (transparent PNGs)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Icônes",
+          "bullets": [
+            "Remplacement des icônes Notready (PNG transparentes)"
+          ]
+        },
+        "en": {
+          "title": "Icons",
+          "bullets": [
+            "Replaced Notready icons (transparent PNGs)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "68_P13_KnowledgeScrap",
+      "version": "1.0.7",
+      "date": "2026-08-15",
+      "title": "UI & craft",
+      "bullets": [
+        "Custom Mod Knowledge icon (transparent)",
+        "Scrap + schematic recipes show in Available (`always_unlocked`)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "UI & craft",
+          "bullets": [
+            "Icône perso Savoir Mod (fond transparent)",
+            "Recettes scrap + schémas visibles dans Disponible (`always_unlocked`)"
+          ]
+        },
+        "en": {
+          "title": "UI & craft",
+          "bullets": [
+            "Custom Mod Knowledge icon (transparent)",
+            "Scrap + schematic recipes show in Available (`always_unlocked`)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "90_P13_Localization",
+      "version": "0.1.2",
+      "date": "2026-08-15",
+      "title": "AEC BM option",
+      "bullets": [
+        "FR/EN strings for AEC Blood Moon Bosses"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Option AEC BM",
+          "bullets": [
+            "Textes FR/EN Boss AEC lune de sang"
+          ]
+        },
+        "en": {
+          "title": "AEC BM option",
+          "bullets": [
+            "FR/EN strings for AEC Blood Moon Bosses"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "99_P13_PackInfo",
+      "version": "0.1.13",
+      "date": "2026-08-15",
+      "title": "Meta",
+      "bullets": [
+        "Marker for AEC BM / Knowledge / Izayo icons wave"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Meta",
+          "bullets": [
+            "Marqueur vague AEC BM / Savoir / Izayo icons"
+          ]
+        },
+        "en": {
+          "title": "Meta",
+          "bullets": [
+            "Marker for AEC BM / Knowledge / Izayo icons wave"
+          ]
+        }
+      }
+    },
     {
       "mod_id": "80_P13_Directive",
       "version": "0.6.52",
