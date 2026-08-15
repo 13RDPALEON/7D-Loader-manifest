@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-16T00:54:17+02:00",
+  "updated_at": "2026-08-16T01:23:23+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -602,8 +602,8 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.6.53",
-      "file": "80_P13_Directive_v0.6.53.rar",
+      "version": "0.6.54",
+      "file": "80_P13_Directive_v0.6.54.rar",
       "install_folder": "80_P13_Directive",
       "status": "stable",
       "featured": true,
@@ -612,7 +612,7 @@
         "P13_Classes"
       ],
       "optional": true,
-      "file_id": "1wp-N-FcBldSZo2ysOBjkrWNpybrA4jk3"
+      "file_id": "1UM_Mr8GrU9p5geoC-EemfUaCykkL-OeV"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
