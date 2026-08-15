@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-15T00:09:39+02:00",
+  "updated_at": "2026-08-16T00:54:17+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -602,8 +602,8 @@
     {
       "id": "80_P13_Directive",
       "name": "Directive (Campaign)",
-      "version": "0.6.52",
-      "file": "80_P13_Directive_v0.6.52.rar",
+      "version": "0.6.53",
+      "file": "80_P13_Directive_v0.6.53.rar",
       "install_folder": "80_P13_Directive",
       "status": "stable",
       "featured": true,
@@ -612,7 +612,7 @@
         "P13_Classes"
       ],
       "optional": true,
-      "file_id": "1P2i-24s2tEmY2Z6IjkeJ57KyCB2vEc97"
+      "file_id": "1wp-N-FcBldSZo2ysOBjkrWNpybrA4jk3"
     },
     {
       "id": "80_P13_FluffyPandaPOI",
@@ -627,9 +627,9 @@
     {
       "id": "90_P13_Localization",
       "name": "Protocol 13 - Localization",
-      "version": "0.1.2",
-      "file": "90_P13_Localization_v0.1.2.rar",
-      "file_id": "1D33EwqwftpeUY8Y21tQ4SBKNYi_lYvJ5",
+      "version": "0.1.3",
+      "file": "90_P13_Localization_v0.1.3.rar",
+      "file_id": "1oo4qEYtdhQl77O-xdidG9p5Tmsitf-VC",
       "install_folder": "90_P13_Localization",
       "status": "stable",
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/90_P13_Localization_v0.1.2.rar"
@@ -651,14 +651,14 @@
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.45",
-      "file": "P13_Classes_v0.1.45.rar",
+      "version": "0.1.78",
+      "file": "P13_Classes_v0.1.78.rar",
       "install_folder": "P13_Classes",
       "status": "stable",
       "featured": true,
       "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.45.rar",
       "optional": true,
-      "file_id": "15ta7-dgtczFolmBri7O8bCjVeRDb6HiM"
+      "file_id": "1f8LK8L2sc5UdYyiF2Rujceg2z_eOW_EZ"
     },
     {
       "id": "P13_GetAllBlocks",
