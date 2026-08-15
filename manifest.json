@@ -754,6 +754,35 @@
       }
     },
     {
+      "mod_id": "90_P13_Localization",
+      "version": "0.1.3",
+      "date": "2026-08-16",
+      "title": "Continuity — dig / ticket names",
+      "bullets": [
+        "Survivor dig 2–6 names + subtitles (no raw keys)",
+        "Dig 1–6 tickets localized",
+        "Ops renumbered /50: digs 31–36, Hugh 37, through 50"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Continuity — noms digs / tickets",
+          "bullets": [
+            "Noms + sous-titres digs survivants 2–6 (plus de clés brutes)",
+            "Tickets dig 1–6 localisés",
+            "Ops réalignés /50 : digs 31–36, Hugh 37, suite jusqu’à 50"
+          ]
+        },
+        "en": {
+          "title": "Continuity — dig / ticket names",
+          "bullets": [
+            "Survivor dig 2–6 names + subtitles (no raw keys)",
+            "Dig 1–6 tickets localized",
+            "Ops renumbered /50: digs 31–36, Hugh 37, through 50"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "31_P13_AEC_ExtendedQuests",
       "version": "3.0.3",
       "date": "2026-08-15",
