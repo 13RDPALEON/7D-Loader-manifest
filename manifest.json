@@ -723,6 +723,29 @@
   "changelogs": [
     {
       "mod_id": "80_P13_Directive",
+      "version": "0.6.55",
+      "date": "2026-08-16",
+      "title": "Dig 2–6 events",
+      "bullets": [
+        "Fixed `p13_msg_continuity_2ext_offer`… → `next_offer`"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Events digs 2–6",
+          "bullets": [
+            "IDs `p13_msg_continuity_2ext_offer`… corrigés → `next_offer`"
+          ]
+        },
+        "en": {
+          "title": "Dig 2–6 events",
+          "bullets": [
+            "Fixed `p13_msg_continuity_2ext_offer`… → `next_offer`"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_Directive",
       "version": "0.6.54",
       "date": "2026-08-16",
       "title": "Survivor dig notes",
