@@ -722,6 +722,35 @@
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
     {
+      "mod_id": "80_P13_Directive",
+      "version": "0.6.53",
+      "date": "2026-08-16",
+      "title": "Continuity — StayWithin + dig tickets",
+      "bullets": [
+        "POIStayWithin: `hidden=true` on all Continuity ops",
+        "Dig tickets 2–6 + Ops numbers aligned (31–36 / Hugh 37+)",
+        "Matches Classes 0.1.78 + Localization 0.1.3"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Continuity — StayWithin + tickets digs",
+          "bullets": [
+            "POIStayWithin : `hidden=true` sur toutes les ops Continuity",
+            "Tickets dig 2–6 + textes Ops alignés (31–36 / Hugh 37+)",
+            "Cohérent avec Classes 0.1.78 + Localization 0.1.3"
+          ]
+        },
+        "en": {
+          "title": "Continuity — StayWithin + dig tickets",
+          "bullets": [
+            "POIStayWithin: `hidden=true` on all Continuity ops",
+            "Dig tickets 2–6 + Ops numbers aligned (31–36 / Hugh 37+)",
+            "Matches Classes 0.1.78 + Localization 0.1.3"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "P13_Classes",
       "version": "0.1.78",
       "date": "2026-08-16",
