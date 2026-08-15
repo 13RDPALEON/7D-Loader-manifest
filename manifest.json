@@ -723,6 +723,32 @@
   "changelogs": [
     {
       "mod_id": "80_P13_Directive",
+      "version": "0.6.54",
+      "date": "2026-08-16",
+      "title": "Survivor dig notes",
+      "bullets": [
+        "Each dig grants its own journal (no longer always DAY 3)",
+        "Dig1→Day 3, Dig2→Day 17, Dig3→Dam, Dig4→Base, Dig5→B13, Dig6→Doors"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Notes digs survivants",
+          "bullets": [
+            "Chaque dig donne sa propre note (plus toujours JOUR 3)",
+            "Dig1→Jour 3, Dig2→Jour 17, Dig3→Barrage, Dig4→Base, Dig5→B13, Dig6→Portes"
+          ]
+        },
+        "en": {
+          "title": "Survivor dig notes",
+          "bullets": [
+            "Each dig grants its own journal (no longer always DAY 3)",
+            "Dig1→Day 3, Dig2→Day 17, Dig3→Dam, Dig4→Base, Dig5→B13, Dig6→Doors"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "80_P13_Directive",
       "version": "0.6.53",
       "date": "2026-08-16",
       "title": "Continuity — StayWithin + dig tickets",
