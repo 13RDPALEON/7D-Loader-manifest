@@ -722,6 +722,38 @@
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
     {
+      "mod_id": "P13_Classes",
+      "version": "0.1.78",
+      "date": "2026-08-16",
+      "title": "Continuity — POI / dig quest fixes",
+      "bullets": [
+        "Sleeper markers: no forced green-nav; UnlockPOI / ReturnToNPC cleanup",
+        "Yellow StayWithin X hidden (HiddenObjective)",
+        "Sequential survivor digs 1–6 + dig-N tickets handled in code",
+        "Removed Fix045–049 sidecars (Fix050 only)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Continuity — correctifs quêtes POI / digs",
+          "bullets": [
+            "Marqueurs sleeper : plus de force green-nav ; cleanup UnlockPOI / ReturnToNPC",
+            "X jaune StayWithin masqué (HiddenObjective)",
+            "Digs survivants 1–6 séquentiels + tickets dig N corrigés côté code",
+            "Nettoyage sidecars Fix045–049 (Fix050 seul)"
+          ]
+        },
+        "en": {
+          "title": "Continuity — POI / dig quest fixes",
+          "bullets": [
+            "Sleeper markers: no forced green-nav; UnlockPOI / ReturnToNPC cleanup",
+            "Yellow StayWithin X hidden (HiddenObjective)",
+            "Sequential survivor digs 1–6 + dig-N tickets handled in code",
+            "Removed Fix045–049 sidecars (Fix050 only)"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "31_P13_AEC_ExtendedQuests",
       "version": "3.0.3",
       "date": "2026-08-15",
