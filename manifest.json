@@ -778,6 +778,32 @@
     },
     {
       "mod_id": "P13_Classes",
+      "version": "0.1.79",
+      "date": "2026-08-16",
+      "title": "Next survivor dig after turn-in",
+      "bullets": [
+        "After dig 2–6: ForceGrant next dig (no merchant softlock)",
+        "Main DLL only re-granted dig 1"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Dig survivant suivant apres turn-in",
+          "bullets": [
+            "Apres dig 2–6 : ForceGrant du dig suivant (plus de softlock marchand)",
+            "Le DLL principal ne relancait que dig 1"
+          ]
+        },
+        "en": {
+          "title": "Next survivor dig after turn-in",
+          "bullets": [
+            "After dig 2–6: ForceGrant next dig (no merchant softlock)",
+            "Main DLL only re-granted dig 1"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_Classes",
       "version": "0.1.78",
       "date": "2026-08-16",
       "title": "Continuity — POI / dig quest fixes",
