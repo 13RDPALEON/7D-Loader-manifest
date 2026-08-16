@@ -723,6 +723,32 @@
   "changelogs": [
     {
       "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.18",
+      "date": "2026-08-17",
+      "title": "Join crash fix",
+      "bullets": [
+        "Fixes XUi stack overflow (Init/Update callvirt) introduced in 1.1.17",
+        "Keeps F7 for the skills UI"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Fix crash a l'entree",
+          "bullets": [
+            "Corrige le stack overflow XUi (Init/Update en callvirt) introduit en 1.1.17",
+            "Conserve F7 pour l'UI competences"
+          ]
+        },
+        "en": {
+          "title": "Join crash fix",
+          "bullets": [
+            "Fixes XUi stack overflow (Init/Update callvirt) introduced in 1.1.17",
+            "Keeps F7 for the skills UI"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.17",
       "date": "2026-08-16",
       "title": "F7 keybind",
