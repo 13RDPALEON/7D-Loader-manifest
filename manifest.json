@@ -722,6 +722,32 @@
   "folder_id": "1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz",
   "changelogs": [
     {
+      "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.17",
+      "date": "2026-08-16",
+      "title": "F7 keybind",
+      "bullets": [
+        "Skills UI opens with F7 (no longer the L key)",
+        "UI hint / ModInfo aligned on F7"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Touche F7",
+          "bullets": [
+            "L'UI competences s'ouvre avec F7 (plus la touche L)",
+            "Hint UI / ModInfo aligns sur F7"
+          ]
+        },
+        "en": {
+          "title": "F7 keybind",
+          "bullets": [
+            "Skills UI opens with F7 (no longer the L key)",
+            "UI hint / ModInfo aligned on F7"
+          ]
+        }
+      }
+    },
+    {
       "mod_id": "80_P13_Directive",
       "version": "0.6.55",
       "date": "2026-08-16",
