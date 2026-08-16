@@ -801,6 +801,35 @@
     },
     {
       "mod_id": "P13_Classes",
+      "version": "0.1.80",
+      "date": "2026-08-16",
+      "title": "F2 / F7 keybinds",
+      "bullets": [
+        "F2 = Classes panel (unchanged)",
+        "F7 = LBD skills UI (no more F12 remap)",
+        "Fix050 removes the main DLL F7→F12 remap"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Touches F2 / F7",
+          "bullets": [
+            "F2 = panneau Classes (inchange)",
+            "F7 = competences LBD (plus de remap F12)",
+            "Fix050 annule le vieux remap F7→F12 du DLL principal"
+          ]
+        },
+        "en": {
+          "title": "F2 / F7 keybinds",
+          "bullets": [
+            "F2 = Classes panel (unchanged)",
+            "F7 = LBD skills UI (no more F12 remap)",
+            "Fix050 removes the main DLL F7→F12 remap"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "P13_Classes",
       "version": "0.1.79",
       "date": "2026-08-16",
       "title": "Next survivor dig after turn-in",
