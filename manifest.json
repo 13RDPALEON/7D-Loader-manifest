@@ -5,7 +5,7 @@
   "folder_name": "Mods7DTD",
   "folder_url": "https://drive.google.com/drive/folders/1Lu0Ad3cKqNIM1JGwtg2nfj7W6Bb9iQNz?usp=sharing",
   "manifest_file_id": "1zoBDyjzWCA6RB67PalbZoMP5Zn8BFHiP",
-  "updated_at": "2026-08-16T01:28:55+02:00",
+  "updated_at": "2026-08-17T00:04:15+02:00",
   "app": {
     "id": "7d_loader",
     "name": "7Day Loader",
@@ -469,13 +469,13 @@
     {
       "id": "62_P13_LearnByDoing",
       "name": "Learn By Doing",
-      "version": "1.1.16",
-      "file": "62_P13_LearnByDoing_v1.1.16.rar",
+      "version": "1.1.17",
+      "file": "62_P13_LearnByDoing_v1.1.17.rar",
       "install_folder": "62_P13_LearnByDoing",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.16.rar",
-      "file_id": "1AAow6ENEqfS6YjxXZ-OtQvbj_BNI2qwF"
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/62_P13_LearnByDoing_v1.1.17.rar",
+      "file_id": "1BHE4Hkj9Vf1HxCC6v37W5SdrcOLmvqq1"
     },
     {
       "id": "63_P13_FancyZombies",
@@ -651,14 +651,14 @@
     {
       "id": "P13_Classes",
       "name": "Classes",
-      "version": "0.1.79",
-      "file": "P13_Classes_v0.1.79.rar",
+      "version": "0.1.80",
+      "file": "P13_Classes_v0.1.80.rar",
       "install_folder": "P13_Classes",
       "status": "stable",
       "featured": true,
-      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.45.rar",
+      "url": "https://github.com/13RDPALEON/7D-Loader-manifest/releases/download/mods-v1/P13_Classes_v0.1.80.rar",
       "optional": true,
-      "file_id": "136hZtbVduEHkV2sk43LmdQasp_Ig7CdG"
+      "file_id": "1_cmZPxkyf-Umfm4fvCpK2O069Aa29kaE"
     },
     {
       "id": "P13_GetAllBlocks",
