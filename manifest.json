@@ -723,6 +723,41 @@
   "changelogs": [
     {
       "mod_id": "62_P13_LearnByDoing",
+      "version": "1.1.19",
+      "date": "2026-08-20",
+      "title": "Knuckles / fists",
+      "bullets": [
+        "Harvest / repair / salvage / melee / guns: ~50% slower XP until craft 20",
+        "Medical and food unchanged",
+        "Enemy hits grant harvesting XP using the melee curve",
+        "Magazines already neutralized",
+        "XP only on zombies / animals / bandits (no wall punching)"
+      ],
+      "i18n": {
+        "fr": {
+          "title": "Points americains",
+          "bullets": [
+            "Recolte / reparation / recuperation / cac / armes a feu : XP ~50% plus lente jusqu'au niveau 20",
+            "Soin et nourriture inchanges",
+            "Coups sur ennemis donnent de l'XP recolte avec la courbe cac (Melee)",
+            "Livre magazine deja neutre (LBD)",
+            "XP uniquement sur zombies / animaux / bandits (plus en tapant les murs)"
+          ]
+        },
+        "en": {
+          "title": "Knuckles / fists",
+          "bullets": [
+            "Harvest / repair / salvage / melee / guns: ~50% slower XP until craft 20",
+            "Medical and food unchanged",
+            "Enemy hits grant harvesting XP using the melee curve",
+            "Magazines already neutralized",
+            "XP only on zombies / animals / bandits (no wall punching)"
+          ]
+        }
+      }
+    },
+    {
+      "mod_id": "62_P13_LearnByDoing",
       "version": "1.1.18",
       "date": "2026-08-17",
       "title": "Join crash fix",
